@@ -14,3 +14,12 @@ Resources
 
 Misc Notes
 `rvm use ruby-2.3.1@prototypes --ruby-version --create`
+
+Listing Routes
+`bundle exec rake routes`
+
+Generating controller
+`$ bundle exec rails generate controller StaticPages home help`
+Removing controller
+`$ bundle exec rails destroy  controller StaticPages home help`
+

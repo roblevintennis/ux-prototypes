@@ -1,3 +1,5 @@
 Rails.application.routes.draw do
-  root "application#hello"
+  root 'static_pages#multiple_notes'
+  get 'static_pages/multiple_notes'
+  get 'static_pages/multiple_notes2'
 end

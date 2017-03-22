@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="770.5" viewBox="0 0 160 770.5">
+  <defs>
+    <symbol id="a" data-name="body-nav-main-nav" viewBox="0 0 160 770.5">
+      <g>
+        <polygon points="160 770.5 0 768.5 0 0 160 0 160 770.5" fill="#002642"/>
+        <g>
+          <path d="M46.2,83.33a1.67,1.67,0,0,1-1.35-.62,1.8,1.8,0,0,1-.41-1.86L58.1,33.14a1.68,1.68,0,0,1,1.24-1.24,1.85,1.85,0,0,1,1.76.41L80.35,49.18l19.25-17a1.85,1.85,0,0,1,1.76-.41A1.68,1.68,0,0,1,102.6,33l13.66,47.71a1.79,1.79,0,0,1-.41,1.76,2.19,2.19,0,0,1-1.76.62L80.25,76.81,46.61,83.23C46.41,83.23,46.3,83.33,46.2,83.33ZM80.35,74h.31l27.42,4.72L80.35,54.28,52.72,78.83,80,74ZM60.9,37.08,49.72,75.88,77.45,51.56ZM83.25,51.56,111,75.78,99.91,37.08Z" fill="#448fea"/>
+          <path d="M80.35,76.81a1.84,1.84,0,0,1-1.66-1L58.2,34.59a1.85,1.85,0,0,1,3.31-1.66L80.25,70.71,99.18,33a1.85,1.85,0,1,1,3.31,1.66L82.11,75.78A2,2,0,0,1,80.35,76.81Z" fill="#448fea"/>
+        </g>
+        <text transform="translate(26.2 150.94)" font-size="13" fill="#adb7be" font-family="BerninoSans, Bernino Sans"><tspan letter-spacing="-0.01em">D</tspan><tspan x="9.67" y="0" letter-spacing="0em">A</tspan><tspan x="18.25" y="0">SH</tspan><tspan x="35.58" y="0" letter-spacing="0em">B</tspan><tspan x="44.06" y="0" letter-spacing="-0.01em">O</tspan><tspan x="54.17" y="0">ARD</tspan><tspan fill="#ebedef" font-family="BerninoSans-Semibold, Bernino Sans" font-weight="700"><tspan x="0" y="36">P</tspan><tspan x="8.55" y="36" letter-spacing="-0.01em">R</tspan><tspan x="17.42" y="36" letter-spacing="-0.01em">O</tspan><tspan x="27.81" y="36">J</tspan><tspan x="33.63" y="36" letter-spacing="-0.02em">E</tspan><tspan x="41.37" y="36">CTS</tspan></tspan><tspan x="0" y="72">TEMP</tspan><tspan x="36.01" y="72" letter-spacing="0.02em">L</tspan><tspan x="43.07" y="72" letter-spacing="-0.06em">A</tspan><tspan x="50.87" y="72" letter-spacing="0em">TES</tspan><tspan letter-spacing="-0.06em"><tspan x="0" y="108">T</tspan><tspan x="6.77" y="108" letter-spacing="0em">A</tspan><tspan x="15.35" y="108" letter-spacing="0em">SKS</tspan></tspan><tspan x="0" y="144">TIME &amp; EXPENSE</tspan><tspan x="0" y="180">BILLING</tspan><tspan x="0" y="216">P</tspan><tspan x="8.13" y="216" letter-spacing="0.02em">L</tspan><tspan x="15.18" y="216">ANNING</tspan><tspan x="0" y="252">ANA</tspan><tspan x="27.35" y="252" letter-spacing="-0.1em">L</tspan><tspan x="32.82" y="252">YTI</tspan><tspan x="52.48" y="252" letter-spacing="0em">C</tspan><tspan x="60.71" y="252">S</tspan><tspan x="0" y="288">INSIGHTS</tspan><tspan x="0" y="324">S</tspan><tspan x="7.4" y="324" letter-spacing="0em">E</tspan><tspan x="15" y="324" letter-spacing="0em">TTINGS</tspan></text>
+      </g>
+    </symbol>
+  </defs>
+  <title>sidebar</title>
+  <use width="160" height="770.5" xlink:href="#a"/>
+</svg>
