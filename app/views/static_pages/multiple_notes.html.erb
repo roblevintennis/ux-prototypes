@@ -1,6 +1,14 @@
 <div class="timesheets-wrapper">
   <%= image_tag "timesheets.svg", :class => "timesheets-img" %>
   <div class="prototype-wrapper">
-    <p>This is where the prototype will go</p>
+    <form action="/action_page.php">
+      First name:<br>
+      <input type="text" name="firstname" value="Mickey">
+      <br>
+      Last name:<br>
+      <input type="text" name="lastname" value="Mouse">
+      <br><br>
+      <input type="submit" value="Submit">
+    </form>
   </div>
 </div>
