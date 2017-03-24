@@ -44,9 +44,13 @@ table {
 }
 //ends reset
 
+$content_image_width: 975px;
 
 header {
   height: 43px;
+  > img {
+    width: $content_image_width;
+  }
 }
 
 .sidebar {
@@ -63,7 +67,7 @@ header {
 .timesheets-wrapper {
 
   .timesheets-img {
-    width: 975px;
+    width: $content_image_width;
   }
 
   .prototype-wrapper {
@@ -81,3 +85,6 @@ footer {
   clear: both;
 }
 
+.wrap {
+  margin: 20px;
+}
