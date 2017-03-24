@@ -23,3 +23,11 @@ Generating controller
 Removing controller
 `$ bundle exec rails destroy  controller StaticPages home help`
 
+Issues
+
+I had an issue with Puma:
+"<Puma::HttpParserError: Invalid HTTP format, parsing fails. #1128" which was resolved with:
+
+Solution: 
+3 dots -> More Tools -> Clear Browsing History -> check 1. cookies and .., 2 cached images
+see: https://github.com/puma/puma/issues/1128
