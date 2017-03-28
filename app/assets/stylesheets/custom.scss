@@ -12,13 +12,20 @@
 @import "styleguide/modules/forms/fields";
 @import "grids/scss/grids";
 
-$content_image_width: 975px;
+* {
+  font-family: bernina;
+  color: palette(neutral, x-dark);
+  box-sizing: border-box;
+}
+
+::-webkit-input-placeholder {
+  font-style: italic;
+  color: palette(neutral, base);
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 header {
   height: 43px;
-  > img {
-    width: $content_image_width;
-  }
 }
 
 .sidebar {
@@ -30,26 +37,46 @@ header {
   float: left;
   margin: 20px;
   position: relative;
-  // width: 100%; 
   width: 900px;
+
+  &.no-pad {
+    margin: 0;
+  }
 }
 
 .timesheets-wrapper {
 
-  .timesheets-img {
-    width: $content_image_width;
-  }
-
   .prototype-wrapper {
     position: absolute;
-    background-color: hotpink;
-    top: 480px;
-    left: 650px;
+    top: 615px;
+    left: 819px;
     bottom: 0;
-    width: 175px;
+    width: 200px;
+    height: 46px;
+  }
+
+  .timesheets-img {
+    width: 1225px;
+  }
+
+  .cell, .notes-dropdown {
+    font-family: bernina;
+    font-size: 11px;
+  }
+
+  .cell {
     height: 50px;
+    width: 45px;
+    padding: 4px;
+  }
+
+  .notes-dropdown {
+    display: none;
+    position: absolute;
+    top: -35px;
   }
 }
+
 
 footer {
   clear: both;

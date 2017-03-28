@@ -1,3 +1,9 @@
-# Place all the behaviors and hooks related to the matching controller here.
-# All this logic will automatically be available in application.js.
-# You can use CoffeeScript in this file: http://coffeescript.org/
+$ ->
+  $('.container').addClass 'no-pad'
+
+  $('.cell').on 'click', (e) ->
+    $('.notes-dropdown').show()
+
+  $('.cell, .notes-dropdown').keypress (e) ->
+    if e.which == 13
+      $('.notes-dropdown').hide()

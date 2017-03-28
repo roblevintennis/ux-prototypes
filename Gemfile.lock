@@ -1,6 +1,6 @@
 GIT
   remote: git@github.com:mavenlink/mavenlink-js.git
-  revision: 30226dd44fa1031e228738a5725e1b8c749fc98b
+  revision: 36c7f4a27cdef48ffb3e1c5d0eab60b9b640658f
   branch: move_core_css_stuff_to_mavenlinkjs
   specs:
     mavenlink-js (0.1)

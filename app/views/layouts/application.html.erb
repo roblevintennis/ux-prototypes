@@ -3,11 +3,9 @@
   <head>
     <title>Prototypes</title>
     <%= csrf_meta_tags %>
-
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
-
   <body>
     <%= render 'layouts/sidebar' %>
     <%= render 'layouts/header' %>
@@ -15,5 +13,7 @@
       <%= yield %>
     </div>
     <%= render 'layouts/footer' %>
+    <%= javascript_include_tag 'static_pages': 'reload' %>
+    <%= javascript_include_tag 'nathan': 'reload' %>
   </body>
 </html>
