@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'mavenlink-js', :git => 'git@github.com:mavenlink/mavenlink-js.git', :branch => "master"
+gem 'mavenlink-js', :git => 'git@github.com:mavenlink/mavenlink-js.git', :branch => "move_core_css_stuff_to_mavenlinkjs"
 gem 'bundler'
 gem 'rails'
 gem 'sass-rails'
