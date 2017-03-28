@@ -1,0 +1,42 @@
+//////////////////////////////////////////////////////////
+// BASE DEFAULTS /////////////////////////////////////////
+//////////////////////////////////////////////////////////
+$unicorn-grid-dot: '.' !default;
+$unicorn-grid-before: 'b' !default;
+$unicorn-grid-after: 'a' !default;
+$unicorn-grid-column: 'c' !default;
+$unicorn-grid-mobile: 'phone' !default;
+$unicorn-grid-tablet: 'tablet' !default;
+
+$unicorn-grid-column-namespace: #{$unicorn-grid-dot}#{$unicorn-grid-column} !default;  //EX c1, c2, c3, etc. for column class.
+$unicorn-grid-namespace: #{$unicorn-grid-dot}grid !default; //EX .grid
+$unicorn-grid-after-namespace: #{$unicorn-grid-dot}#{$unicorn-grid-after} !default;  //EX .a
+$unicorn-grid-before-namespace: #{$unicorn-grid-dot}#{$unicorn-grid-before} !default;//EX .b
+$unicorn-grid-small-namespace: #{$unicorn-grid-dot}#{$unicorn-grid-mobile} !default; //EX .phone
+$unicorn-grid-tablet-namespace: #{$unicorn-grid-dot}#{$unicorn-grid-tablet} !default;//EX .tablet
+$unicorn-grid-small-column-namespace: #{$unicorn-grid-small-namespace}-#{$unicorn-grid-column} !default;  //EX phone-c1, phone-c2, phone-c3, etc. for phone column class.
+$unicorn-grid-tablet-column-namespace: #{$unicorn-grid-tablet-namespace}-#{$unicorn-grid-column} !default;  //EX table-c1, tablet-c2, tablet-c3, etc. for tablet column class.
+$unicorn-grid-num-columns: 12 !default;
+
+
+//////////////////////////////////////////////////////////
+// FIXED GRID OPTIONS ////////////////////////////////////
+//////////////////////////////////////////////////////////
+$unicorn-grid-fixed-grid-size: 960px !default;
+$unicorn-grid-fixed-margin: 10px !default;
+
+//////////////////////////////////////////////////////////
+// FLUID GRID OPTIONS ////////////////////////////////////
+//////////////////////////////////////////////////////////
+//value from 1-10 (bigger makes gutter smaller, default based on 960 grid ratio)
+$unicorn-grid-fluid-gutter: 6 !default;
+
+//////////////////////////////////////////////////////////
+// RESPONSIVE OPTIONS ////////////////////////////////////
+//////////////////////////////////////////////////////////
+
+//FIXME: Reactivate when we're ready for responsive
+$unicorn-grid-responsive: 'NOPE' !default;
+
+$unicorn-grid-small-breakpoint: 480px !default;
+$unicorn-grid-tablet-breakpoint: 900px !default;

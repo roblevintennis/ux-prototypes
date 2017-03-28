@@ -1,0 +1,97 @@
+//////////////////////////////////////////////////////////
+// RESPONSIVE STYLES /////////////////////////////////////
+//////////////////////////////////////////////////////////
+
+@mixin showHide ($sizeNamespace) {
+    $visible: #{$sizeNamespace}-show;
+    $hide: #{$sizeNamespace}-hide;
+
+    #{$visible} { display: inherit !important; }
+    #{$hide} { display: none !important; }
+    table {
+        &#{$visible} { display: table; }
+    }
+    thead {
+      &#{$visible} { display: table-header-group !important; }
+    }
+    tbody {
+      &#{$visible} { display: table-row-group !important; }
+    }
+    tr {
+      &#{$visible} { display: table-row !important; }
+    }
+    td,
+    th {
+      &#{$visible} { display: table-cell !important; }
+    }
+}
+
+@if($unicorn-grid-responsive == 'enabled') {
+
+    #{$unicorn-grid-namespace}-fixed, #{$unicorn-grid-namespace}-fluid {
+
+
+        ///////////////////////////////////////////////////////////
+        // PHONE & TABLET FALLBACK ////////////////////////////////
+        // If they don't use phone-X or tablet-X, it
+        // falls back to this.
+        ///////////////////////////////////////////////////////////
+        @media handheld and (max-width: $unicorn-grid-small-breakpoint),
+        screen and (max-width: $unicorn-grid-small-breakpoint),
+        screen and (max-width: $unicorn-grid-tablet-breakpoint) {
+            width: auto;
+        }
+
+        //CREATES A LIST (.c1, .c2, .c3)
+        $full-list: create-list-names($unicorn-grid-num-columns, $unicorn-grid-column-namespace);
+
+        #{$full-list} {
+            @media handheld and (max-width: $unicorn-grid-small-breakpoint),
+            screen and (max-width: $unicorn-grid-small-breakpoint),
+            screen and (max-width: $unicorn-grid-tablet-breakpoint) {
+                margin-left: 20px;
+                margin-right: 20px;
+                float: none;
+                display: block;
+                width: auto;
+            }
+        }
+
+
+        //////////////////////////////////////////////
+        // TABLET ////////////////////////////////////
+        //////////////////////////////////////////////
+        @media handheld and (max-width: $unicorn-grid-tablet-breakpoint),
+        screen and (max-width: $unicorn-grid-tablet-breakpoint) {
+            $before: #{$unicorn-grid-tablet-namespace}-#{$unicorn-grid-before};
+            $after: #{$unicorn-grid-tablet-namespace}-#{$unicorn-grid-after};
+
+            @include grid-tablet;
+            @include clearfix;
+            @include fluid-grid-specific ($unicorn-grid-tablet-column-namespace, $before, $after);
+
+            //VISIBILITY
+            @include showHide ($unicorn-grid-tablet-namespace);
+        }
+
+        //////////////////////////////////////////////
+        // PHONE /////////////////////////////////////
+        //////////////////////////////////////////////
+        
+        @media handheld and (max-width: $unicorn-grid-small-breakpoint),
+        screen and (max-width: $unicorn-grid-small-breakpoint) {
+            $before: #{$unicorn-grid-small-namespace}-#{$unicorn-grid-before};
+            $after: #{$unicorn-grid-small-namespace}-#{$unicorn-grid-after};
+
+            @include grid-phone;
+            @include clearfix;
+            @include fluid-grid-specific ($unicorn-grid-small-column-namespace, $before, $after);
+
+            //VISIBILITY
+            @include showHide ($unicorn-grid-small-namespace);
+        }
+
+    }
+}
+
+
