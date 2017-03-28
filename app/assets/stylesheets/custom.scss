@@ -6,7 +6,11 @@
 @import "core-animation-variables";
 @import "styleguide/base/colors/colors";
 @import "styleguide/base/typography/options";
+@import "styleguide/base/typography/mixins";
 @import "styleguide/components/icons/icons-new";
+
+@import "styleguide/modules/forms/fields";
+@import "grids/scss/grids";
 
 $content_image_width: 975px;
 
@@ -24,8 +28,10 @@ header {
 
 .container {
   float: left;
-  margin: 0;
+  margin: 20px;
   position: relative;
+  // width: 100%; 
+  width: 900px;
 }
 
 .timesheets-wrapper {
