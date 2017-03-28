@@ -9,8 +9,8 @@ Cheatsheet
 
 Learning Resources
 
-* [Ruby on Rails Tutorial](http://www.railstutorial.org/)
-* [rails cheatsheet](https://gist.github.com/mdang/95b4f54cadf12e7e0415)
+* [Ruby on Rails Tutorial](http://www.railstutorial.org/)—a fairly comprehensive tutorial
+* [rails cheatsheet](https://gist.github.com/mdang/95b4f54cadf12e7e0415)—pretty good up and running quickly if you have some dev experience
 * [rails cheatsheet 2](http://www.pragtob.info/rails-beginner-cheatsheet/)
 * [rails cheatsheet 3](https://teamgaslight.com/blog/ready-to-try-ruby-an-awesome-rails-cheat-sheet)
 * [updating rails](http://railsapps.github.io/updating-rails.html)
