@@ -11,6 +11,9 @@ Resources
 
 [Ruby on Rails Tutorial](http://www.railstutorial.org/)
 [updating rails](http://railsapps.github.io/updating-rails.html)
+[rails cheatsheet](https://gist.github.com/mdang/95b4f54cadf12e7e0415)
+[rails cheatsheet 2](http://www.pragtob.info/rails-beginner-cheatsheet/)
+[rails cheatsheet 3]https://teamgaslight.com/blog/ready-to-try-ruby-an-awesome-rails-cheat-sheet
 
 Misc Notes
 `rvm use ruby-2.3.1@prototypes --ruby-version --create`
