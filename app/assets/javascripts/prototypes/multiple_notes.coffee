@@ -5,9 +5,21 @@ $ ->
   $('.cell').on 'click', (e) ->
     $('.notes-dropdown').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
 
-  $('.cell, .notes-dropdown').keypress (e) ->
-    if e.which == 13
-      $('.notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
+  $('.cell').on 'keydown', (e) ->
+    switch e.which
+      when 13
+        $('.notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
+      when 38
+        $('.notes-dropdown').focus()
+      else
+
+  $('.notes-dropdown').on 'keydown', (e) ->
+    switch e.which
+      when 13
+        $('.notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
+      when 40
+        $('.cell').focus()
+      else
 
   # Add/remove arrow indicator if notes field has any content
   $('.cell, .notes-dropdown').keyup (e) ->
