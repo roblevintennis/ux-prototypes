@@ -1,4 +1,5 @@
 @import "reset";
+@import "variables";
 
 // Import what's available from mavenlink-js
 @import "core-ui-variables";
@@ -12,10 +13,7 @@
 @import "grids/scss/grids";
 @import "animatewithsass/animate.scss"; //there's an animate.css too, so I have to diambiguate file extension
 
-$leftSidebarWidth: 160px;
-$contentImageWidth: 1125px;
-
-
 @import "static_pages";
 
-@import "custom";
+// PROTOTYPES
+@import "prototypes/multiple_notes";
