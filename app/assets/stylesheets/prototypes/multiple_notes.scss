@@ -19,10 +19,24 @@
     font-size: 11px;
   }
 
-  .cell {
-    height: 46px;
+  .field-cell {
     width: 42px;
+  }
+  .cell {
     padding: 4px;
+    height: 46px;
+  }
+
+  .notes-indicator {
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-bottom: 5px solid transparent;
+    border-left: 5px solid palette(neutral, mid);
+    position: absolute;
+    right: 2px;
+    bottom: 2px;
+    transform: rotate(45deg);
   }
 
   .notes-dropdown {
