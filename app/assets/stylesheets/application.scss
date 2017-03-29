@@ -1,1 +1,21 @@
-@import "./custom";
+@import "reset";
+
+// Import what's available from mavenlink-js
+@import "core-ui-variables";
+@import "core-animation-variables";
+@import "styleguide/base/colors/colors";
+@import "styleguide/base/typography/options";
+@import "styleguide/base/typography/mixins";
+@import "styleguide/components/buttons/buttons";
+@import "styleguide/components/icons/icons-new";
+@import "styleguide/modules/forms/fields";
+@import "grids/scss/grids";
+@import "animatewithsass/animate.scss"; //there's an animate.css too, so I have to diambiguate file extension
+
+$leftSidebarWidth: 160px;
+$contentImageWidth: 1125px;
+
+
+@import "static_pages";
+
+@import "custom";

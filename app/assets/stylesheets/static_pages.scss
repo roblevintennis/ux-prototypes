@@ -1,3 +1,45 @@
-// Place all the styles related to the StaticPages controller here.
-// They will automatically be included in application.css.
-// You can use Sass (SCSS) here: http://sass-lang.com/
+* {
+  font-family: bernina;
+  color: palette(neutral, x-dark);
+  box-sizing: border-box;
+}
+
+::-webkit-input-placeholder {
+  font-style: italic;
+  color: palette(neutral, base);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.hidden { display: none; }
+
+header {
+  margin-left: $leftSidebarWidth;
+
+  > img {
+    width: $contentImageWidth;
+  }
+}
+
+.sidebar {
+  float: left;
+  width: $leftSidebarWidth;
+}
+
+.container {
+  float: left;
+  margin: 20px;
+  position: relative;
+  width: 900px;
+
+  &.no-pad {
+    margin: 0;
+  }
+}
+
+footer {
+  clear: both;
+}
+
+.wrap {
+  margin: 20px;
+}

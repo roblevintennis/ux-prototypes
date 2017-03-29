@@ -1,0 +1,53 @@
+
+.timesheets-wrapper {
+  .prototype-wrapper {
+    position: absolute;
+    top: 565px;
+    left: 752px;
+    bottom: 0;
+    width: 200px;
+    height: 37px;
+  }
+
+  .timesheets-img {
+    width: $contentImageWidth;
+  }
+
+  .cell, .notes-dropdown {
+    font-family: bernina;
+    font-size: 11px;
+  }
+
+  .cell {
+    height: 46px;
+    width: 42px;
+    padding: 4px;
+  }
+
+  .notes-dropdown {
+    position: absolute;
+    top: -35px;
+    opacity: 1;
+
+    &.slide-in-up {
+      -webkit-animation: slide-in-up .2s forwards;
+    }
+    &.fade-out {
+      -webkit-animation: fade-out .5s forwards;
+    }
+  }
+}
+@keyframes slide-in-up {
+  0% {
+    -webkit-transform: translateY(15px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+}
+@keyframes fade-out {
+  100% {
+    opacity: 0;
+  }
+}
