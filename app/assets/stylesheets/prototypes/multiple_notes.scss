@@ -1,6 +1,10 @@
 // Multiple Notes Prototype
 
 .timesheets-wrapper {
+  .field {
+    margin-bottom: 0;
+  }
+
   .prototype-wrapper {
     position: absolute;
     top: 565px;
@@ -15,7 +19,7 @@
   }
 
   .cell, .notes-dropdown {
-    font-family: bernina;
+    // font-family: bernina;
     font-size: 11px;
   }
 
@@ -39,18 +43,50 @@
     transform: rotate(45deg);
   }
 
-  .notes-dropdown {
+  .field-add-entry,
+  .field-note {
     position: absolute;
     top: -35px;
     opacity: 1;
+  }
 
-    &.slide-in-up {
-      -webkit-animation: slide-in-up .2s forwards;
+  .field-add-entry {
+    background-color: $white;
+    width: 100%;
+    border: 1px solid palette(neutral, light);
+
+    .wrap {
+      padding: 10px;
+      margin: 0;
     }
-    &.fade-out {
-      -webkit-animation: fade-out .5s forwards;
+
+    .edit-link,
+    span {
+      display: inline-block;
+    }
+    .edit-link {
+      float: right;
+    }
+    .duration {
+      font-size: 15px;
+      color: palette(neutral, mid);
+    }
+    .timestamp {
+      margin-left: 5px;
+      font-size: 9px;
+      color: palette(neutral, mid-dark);
+    }
+    .note-content {
+      margin-top: 5px;
     }
   }
+}
+
+.slide-in-up {
+  -webkit-animation: slide-in-up .2s forwards;
+}
+.fade-out {
+  -webkit-animation: fade-out .5s forwards;
 }
 @keyframes slide-in-up {
   0% {

@@ -1,7 +1,21 @@
 <div class="timesheets-wrapper">
   <%= image_tag "timesheets.svg", :class => "timesheets-img" %>
   <div class="prototype-wrapper">
-    <input class="notes-dropdown field field-input hidden" placeholder="Enter a note" name="notes-dropdown">
+    <div class="field field-add-entry hidden">
+      <div class="wrap">
+        <span class="duration"></span>
+        <span class="timestamp"></span>
+        <a href="#" class="edit-link">Edit</a>
+        <div class="note-content"></div>
+      </div>
+      <hr>
+      <div class="wrap">
+        <a href="" class="add-entry">Add Entry</a>
+      </div>
+    </div>
+    <div class="field field-note">
+      <input class="notes-dropdown field field-input hidden" placeholder="Enter a note" name="notes-dropdown">
+    </div>
     <div class="field field-cell">
       <input class="field-input cell" type="text">
       <div class="notes-indicator hidden"></div>
