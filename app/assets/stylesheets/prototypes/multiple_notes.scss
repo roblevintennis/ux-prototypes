@@ -19,7 +19,6 @@
   }
 
   .cell, .notes-dropdown {
-    // font-family: bernina;
     font-size: 11px;
   }
 
@@ -43,7 +42,7 @@
     transform: rotate(45deg);
   }
 
-  .field-add-entry,
+  .notes,
   .field-note {
     position: absolute;
     top: -35px;
@@ -51,7 +50,8 @@
     width: 100%;
   }
 
-  .field-add-entry {
+  .notes {
+    display: none;
     background-color: $white;
     border: 1px solid palette(neutral, light);
 
@@ -88,6 +88,7 @@
 .fade-out {
   -webkit-animation: fade-out .5s forwards;
 }
+
 @keyframes slide-in-up {
   0% {
     -webkit-transform: translateY(15px);

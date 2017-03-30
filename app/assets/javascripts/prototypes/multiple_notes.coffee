@@ -1,25 +1,29 @@
 # Multiple Notes Prototype
 $ ->
-  noteHasValue = ->
-    $('.notes-dropdown').val().length > 0
-
   $('.container').addClass 'no-pad'
 
-  showAddEntry = () ->
+  render = ->
+    $('.notes-container').html template({notes: notes})
+
+  renderNotes = ->
     $('.field-note').addClass('hidden')
-    $('.field-add-entry').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
+    render()
+    $('.notes').show()
+    h = Math.round( parseInt($('.notes').outerHeight()) ) * -1
+    $('.notes').css('top', h)
+    $('.notes').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
 
-    # $('.duration').text($('.cell').val())
-    # now = moment().format("MMM Do YY, h:mma")
-    # $('.timestamp').text(now)
+  template = _.template($('script.template').html())
+  notes = []
+  render() #initial render
 
-    $('.note-content').text($('.notes-dropdown').val())
-    h = Math.round( parseInt($('.field-add-entry').outerHeight()) ) * -1
-    $('.field-add-entry').css('top', h)
+  noteHasValue = ->
+    return false if $('.notes').hasClass('slide-in-up')
+    $('.notes-dropdown').val().length > 0 || notes.length
 
   $('.cell').on 'click', (e) ->
     if noteHasValue()
-      showAddEntry()
+      renderNotes()
     else
       $('.notes-dropdown').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
 
@@ -27,21 +31,22 @@ $ ->
     switch e.which
       when 13
         if noteHasValue()
-          $('.field-add-entry').removeClass('slide-in-up').addClass('fade-out')
-        else
-          $('.notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
+          notes.push({
+            content: $('.notes-dropdown').val(),
+            duration: $('.cell').val()
+          })
 
+        $('.notes').removeClass('slide-in-up').addClass('fade-out')
         console.log("**** TODO *****")
         console.log("Add logic when editing cell e.g. add misc note or update val")
-        # $('.duration').text($('.cell').val())
 
-      when 9
+      when 9 # TAB
         unless noteHasValue()
           $('.notes-dropdown').focus()
           e.preventDefault()
       when 38 # UP
         if noteHasValue()
-          showAddEntry()
+          renderNotes()
         else
           $('.notes-dropdown').focus()
       else
@@ -50,6 +55,12 @@ $ ->
     switch e.which
       when 13
         $('.notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
+        if noteHasValue()
+          notes.push({
+            content: $('.notes-dropdown').val(),
+            duration: $('.cell').val()
+          })
+
       when 40 # DOWN
         $('.cell').focus()
       else

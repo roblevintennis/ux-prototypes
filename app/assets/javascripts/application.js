@@ -14,7 +14,15 @@
 //= require jquery_ujs
 //= require turbolinks
 //= require moment
+//= require underscore
 //= require_tree .
 
 // PROTOTYPES
 // require ./prototypes/multiple_notes
+
+// Make underscore templates behave like mustache templates
+_.templateSettings = {
+  evaluate: /\{\{(.+?)\}\}/g,
+  interpolate: /\{\{=(.+?)\}\}/g,
+  escape: /\{\{-(.+?)\}\}/g,
+}

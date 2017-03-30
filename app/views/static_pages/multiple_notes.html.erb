@@ -1,18 +1,32 @@
 <div class="timesheets-wrapper">
   <%= image_tag "timesheets.svg", :class => "timesheets-img" %>
   <div class="prototype-wrapper">
-    <div class="field field-add-entry hidden">
-      <div class="wrap">
-        <span class="duration hidden"></span>
-        <span class="timestamp hidden"></span>
-        <a href="#" class="edit-link hidden">Edit</a>
-        <div class="note-content"></div>
-      </div>
-      <hr>
-      <div class="wrap">
-        <a href="" class="add-entry">Add Entry</a>
-      </div>
-    </div>
+    <div class="notes-container"></div>
+    <script type="text/template" class="template">
+      <ul class="notes">
+        {{ _.each(notes, function(note, index) { }}
+
+          <li class="note">
+            <div class="field">
+              <div class="wrap">
+
+              {{ if(index > 0) { }}        
+                <span class="duration">{{= note.duration }}</span>
+                <span class="timestamp"></span>
+                <a href="#" class="edit-link">Edit</a>
+              {{ } }}        
+
+                <div class="note-content">{{= note.content }}</div>
+              </div>
+              <hr>
+              <div class="wrap">
+                <a href="" class="add-entry">Add Entry</a>
+              </div>
+            </div>
+          </li>
+        {{ }); }}
+        </ul>
+    </script>
     <div class="field field-note">
       <input class="notes-dropdown field field-input hidden" placeholder="Enter a note" name="notes-dropdown">
     </div>
