@@ -9,9 +9,10 @@ $ ->
     $('.field-note').addClass('hidden')
     $('.field-add-entry').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
 
-    now = moment().format("MMM Do YY, h:mm:ssa")
-    $('.duration').text($('.cell').val())
-    $('.timestamp').text(now)
+    # $('.duration').text($('.cell').val())
+    # now = moment().format("MMM Do YY, h:mma")
+    # $('.timestamp').text(now)
+
     $('.note-content').text($('.notes-dropdown').val())
     h = Math.round( parseInt($('.field-add-entry').outerHeight()) ) * -1
     $('.field-add-entry').css('top', h)
