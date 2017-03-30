@@ -34,6 +34,10 @@ $ ->
         console.log("Add logic when editing cell e.g. add misc note or update val")
         # $('.duration').text($('.cell').val())
 
+      when 9
+        unless noteHasValue()
+          $('.notes-dropdown').focus()
+          e.preventDefault()
       when 38 # UP
         if noteHasValue()
           showAddEntry()
