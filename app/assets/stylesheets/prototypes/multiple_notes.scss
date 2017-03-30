@@ -48,11 +48,11 @@
     position: absolute;
     top: -35px;
     opacity: 1;
+    width: 100%;
   }
 
   .field-add-entry {
     background-color: $white;
-    width: 100%;
     border: 1px solid palette(neutral, light);
 
     .wrap {
