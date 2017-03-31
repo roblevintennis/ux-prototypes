@@ -6,8 +6,8 @@ class StaticPagesControllerTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test "should get multiple_notes2" do
-    get static_pages_multiple_notes2_url
+  test "should get another_prototype" do
+    get static_pages_another_prototype_url
     assert_response :success
   end
 end
