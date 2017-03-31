@@ -25,12 +25,10 @@ $ ->
 
       unless diff == "0h 0"
         applyDurationDifferencePrompt = "<span class='difference-prompt'>You just added #{diff}. </span><a href='#'>Apply here?</a>"
-        prompt = parent.children('.add-entry-form').find('.duration-difference-prompt')
-                       .append(applyDurationDifferencePrompt).show()
+        prompt = parent.children('.add-entry-form').find('.duration-difference-prompt').append(applyDurationDifferencePrompt).show()
 
         $(prompt).on 'click', (e) ->
           e.preventDefault()
-          debugger
           parent.children('.add-entry-form').find('.field-duration').val(diff)
           prompt.hide()
 
