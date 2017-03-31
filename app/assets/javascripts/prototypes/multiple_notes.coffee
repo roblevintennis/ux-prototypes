@@ -11,11 +11,22 @@ $ ->
     $('.notes').show()
     $('.notes').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
     resizeNotes()
+
     # When user clicks 'Add Entry' toggle in the form
     $('.add-entry-link').on 'click', (e) ->
       e.preventDefault()
-      $('.add-entry-form, .add-entry-link').toggle()
+      $(this).parent().children('.add-entry-form, .add-entry-link').toggle()
+      $(this).parent().children('.field-duration').focus()
       resizeNotes()
+
+    $('.field-notes').on 'keydown', (e) ->
+      switch e.which
+        when 13
+          notes.push({
+            content: $(this).val(),
+            duration: $(this).siblings('.field-duration').val()
+          })
+          renderNotes()
 
   resizeNotes = ->
     h = Math.round( parseInt($('.notes').outerHeight()) ) * -1

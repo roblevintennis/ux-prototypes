@@ -20,9 +20,9 @@
 // PROTOTYPES
 // require ./prototypes/multiple_notes
 
-// Make underscore templates behave like mustache templates
 _.templateSettings = {
-  evaluate: /\{\{(.+?)\}\}/g,
-  interpolate: /\{\{=(.+?)\}\}/g,
+  evaluate: /\[\%(.+?)\%\]/g,
+  interpolate: /\[\%=(.+?)\%\]/g,
+  escape: /\{\{-(.+?)\}\}/g,
   escape: /\{\{-(.+?)\}\}/g,
 }
