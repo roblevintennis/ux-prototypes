@@ -23,6 +23,5 @@
 _.templateSettings = {
   evaluate: /\[\%(.+?)\%\]/g,
   interpolate: /\[\%=(.+?)\%\]/g,
-  escape: /\{\{-(.+?)\}\}/g,
-  escape: /\{\{-(.+?)\}\}/g,
+  escape: /\[\%-(.+?)\%\]/g,
 }
