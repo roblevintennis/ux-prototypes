@@ -80,6 +80,17 @@
       margin-top: 5px;
     }
   }
+
+  .add-entry-form {
+    display: none;
+
+    > label {
+      display: block;
+      color: palette(neutral, mid-light);
+      font-size: 9px;
+      margin-bottom: 5px;
+    }
+  }
 }
 
 .slide-in-up {

@@ -9,11 +9,19 @@ $ ->
     $('.field-note').addClass('hidden')
     render()
     $('.notes').show()
+    $('.notes').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
+    resizeNotes()
+    # When user clicks 'Add Entry' toggle in the form
+    $('.add-entry-link').on 'click', (e) ->
+      e.preventDefault()
+      $('.add-entry-form, .add-entry-link').toggle()
+      resizeNotes()
+
+  resizeNotes = ->
     h = Math.round( parseInt($('.notes').outerHeight()) ) * -1
     $('.notes').css('top', h)
-    $('.notes').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
 
-  template = _.template($('script.template').html())
+  template = _.template($('script.notes-template').html())
   notes = []
   render() #initial render
 
@@ -71,4 +79,3 @@ $ ->
       $('.notes-indicator').removeClass('hidden')
     else
       $('.notes-indicator').addClass('hidden')
-

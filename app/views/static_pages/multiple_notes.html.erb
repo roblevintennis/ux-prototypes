@@ -2,7 +2,7 @@
   <%= image_tag "timesheets.svg", :class => "timesheets-img" %>
   <div class="prototype-wrapper">
     <div class="notes-container"></div>
-    <script type="text/template" class="template">
+    <script type="text/template" class="notes-template">
       <ul class="notes">
         {{ _.each(notes, function(note, index) { }}
 
@@ -19,8 +19,12 @@
                 <div class="note-content">{{= note.content }}</div>
               </div>
               <hr>
-              <div class="wrap">
-                <a href="" class="add-entry">Add Entry</a>
+              <div class="wrap add-entry-container">
+                <div class="add-entry-form">
+                  <label class="field-label-initial" for="field-duration">Duration</label>
+                  <input class="field-duration" type="text" id="field-duration">
+                </div>
+                <a href="" class="add-entry-link">Add Entry</a>
               </div>
             </div>
           </li>
