@@ -54,22 +54,16 @@ $ ->
   addNote = (note) ->
     notes.push(note)
     durationTotal = addDurations(durationTotal, note.duration)
+    $('.cell').val(durationTotal)
     console.log('durationTotal: ' + durationTotal)
 
   getDurationDifference = (d1, d2) ->
-    d1minutes = d1hours = d2minutes = d2hours = ''
-    match1 = d1.split(' ')
-    d1hours = match1[0] if match1.length
-    d1minutes = match1[1] if match1.length > 1
-    match2 = d2.split(' ')
-    d2hours = match2[0] if match2.length
-    d2minutes = match2[1] if match2.length > 1
-    totalHours = (parseInt(d1hours) || 0) - (parseInt(d2hours) || 0)
-    totalMinutes = (parseInt(d1minutes) || 0) - (parseInt(d2minutes) || 0)
-    total = totalHours + 'h ' + totalMinutes
-    total
+    _getDuration(d1, d2, false)
 
   addDurations = (d1, d2) ->
+    _getDuration(d1, d2, true)
+
+  _getDuration = (d1, d2, doAddition) ->
     d1minutes = d1hours = d2minutes = d2hours = ''
     match1 = d1.split(' ')
     d1hours = match1[0] if match1.length
@@ -77,8 +71,14 @@ $ ->
     match2 = d2.split(' ')
     d2hours = match2[0] if match2.length
     d2minutes = match2[1] if match2.length > 1
-    totalHours = (parseInt(d1hours) || 0) + (parseInt(d2hours) || 0)
-    totalMinutes = (parseInt(d1minutes) || 0) + (parseInt(d2minutes) || 0)
+
+    if (doAddition)
+      totalHours = (parseInt(d1hours) || 0) + (parseInt(d2hours) || 0)
+      totalMinutes = (parseInt(d1minutes) || 0) + (parseInt(d2minutes) || 0)
+    else
+      totalHours = (parseInt(d1hours) || 0) - (parseInt(d2hours) || 0)
+      totalMinutes = (parseInt(d1minutes) || 0) - (parseInt(d2minutes) || 0)
+
     total = totalHours + 'h ' + totalMinutes
     total
 
