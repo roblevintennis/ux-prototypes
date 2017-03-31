@@ -81,7 +81,22 @@
     }
   }
 
+  .duration-difference-prompt {
+    display: none;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 35%;
+
+    > a {
+      display: block;
+      float: right;
+      margin-top: 5px;
+    }
+  }
+
   .add-entry-form {
+    position: relative;
     display: none;
 
     > label {
