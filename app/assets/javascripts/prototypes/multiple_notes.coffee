@@ -1,4 +1,3 @@
-# Multiple Notes Prototype
 $ ->
   notes = []
   durationTotal = ''
@@ -14,34 +13,35 @@ $ ->
     $('.notes').show()
     $('.notes').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
     resizeNotes()
+    $('.field-notes').bind('keydown', onFieldNotesKeydown)
+    $('.add-entry-link').bind('click', onAddEntryClicked)
 
-    # When user clicks 'Add Entry' toggle in the form
-    $('.add-entry-link').on 'click', (e) ->
-      e.preventDefault()
-      parent = $(this).parent()
-      parent.children('.add-entry-form, .add-entry-link').toggle()
-      parent.children('.field-duration').focus()
-      diff = getDurationDifference($('.cell').val(), durationTotal)
+  onFieldNotesKeydown = (e) ->
+    switch e.which
+      when 13
+        addNote({
+          content: $(this).val(),
+          duration: $(this).siblings('.field-duration').val()
+        })
+        renderNotes()
 
-      unless diff == "0h 0"
-        applyDurationDifferencePrompt = "<span class='difference-prompt'>You just added #{diff}. </span><a href='#'>Apply here?</a>"
-        prompt = parent.children('.add-entry-form').find('.duration-difference-prompt').append(applyDurationDifferencePrompt).show()
+  onAddEntryClicked = (e) ->
+    e.preventDefault()
+    parent = $(this).parent()
+    parent.children('.add-entry-form, .add-entry-link').toggle()
+    parent.children('.field-duration').focus()
+    diff = getDurationDifference($('.cell').val(), durationTotal)
 
-        $(prompt).on 'click', (e) ->
-          e.preventDefault()
-          parent.children('.add-entry-form').find('.field-duration').val(diff)
-          prompt.hide()
+    unless diff == "0h 0"
+      applyDurationDifferencePrompt = "<span class='difference-prompt'>You just added #{diff}. </span><a href='#'>Apply here?</a>"
+      prompt = parent.children('.add-entry-form').find('.duration-difference-prompt').append(applyDurationDifferencePrompt).show()
 
-      resizeNotes()
+      $(prompt).on 'click', (e) ->
+        e.preventDefault()
+        parent.children('.add-entry-form').find('.field-duration').val(diff)
+        prompt.hide()
 
-    $('.field-notes').on 'keydown', (e) ->
-      switch e.which
-        when 13
-          addNote({
-            content: $(this).val(),
-            duration: $(this).siblings('.field-duration').val()
-          })
-          renderNotes()
+    resizeNotes()
 
   resizeNotes = ->
     h = Math.round( parseInt($('.notes').outerHeight()) ) * -1
