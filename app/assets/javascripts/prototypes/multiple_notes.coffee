@@ -30,18 +30,23 @@ $ ->
     parent = $(this).parent()
     parent.children('.add-entry-form, .add-entry-link').toggle()
     parent.children('.field-duration').focus()
+    currentNotesLength = $(this).data('notesLength')
     diff = getDurationDifference($('.cell').val(), durationTotal)
 
-    unless diff == "0h 0"
-      applyDurationDifferencePrompt = "<span class='difference-prompt'>You just added #{diff}. </span><a href='#'>Apply here?</a>"
-      prompt = parent.children('.add-entry-form').find('.duration-difference-prompt').append(applyDurationDifferencePrompt).show()
-
-      $(prompt).on 'click', (e) ->
-        e.preventDefault()
-        parent.children('.add-entry-form').find('.field-duration').val(diff)
-        prompt.hide()
+    unless diff == "0h 0" || currentNotesLength > 1
+      addDurationDifferencePrompt(parent, diff)
 
     resizeNotes()
+
+  addDurationDifferencePrompt = (parent, diff) ->
+    console.log("addDurationDifferencePrompt function...")
+    applyDurationDifferencePrompt = "<span class='difference-prompt'>You just added #{diff}. </span><a href='#'>Apply here?</a>"
+    prompt = parent.children('.add-entry-form').find('.duration-difference-prompt').append(applyDurationDifferencePrompt).show()
+
+    $(prompt).on 'click', (e) ->
+      e.preventDefault()
+      parent.children('.add-entry-form').find('.field-duration').val(diff)
+      prompt.hide()
 
   resizeNotes = ->
     h = Math.round( parseInt($('.notes').outerHeight()) ) * -1
@@ -55,7 +60,6 @@ $ ->
     notes.push(note)
     durationTotal = addDurations(durationTotal, note.duration)
     $('.cell').val(durationTotal)
-    console.log('durationTotal: ' + durationTotal)
 
   getDurationDifference = (d1, d2) ->
     _getDuration(d1, d2, false)
@@ -99,13 +103,13 @@ $ ->
   $('.cell').on 'keydown', (e) ->
     switch e.which
       when 13
-        if noteHasValue()
+        if notes.length < 1 && noteHasValue()
           addNote({
             content: $('.notes-dropdown').val(),
             duration: $('.cell').val()
           })
 
-        $('.notes').removeClass('slide-in-up').addClass('fade-out')
+        $('.notes, .notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
         console.log("**** TODO *****")
         console.log("Add logic when editing cell e.g. add misc note or update val")
 
