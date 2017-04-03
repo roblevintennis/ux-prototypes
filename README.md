@@ -17,7 +17,7 @@ end
 * Do similar thing for JS; add: `app/assets/javascripts/prototypes/your_prototype.coffee` (.js is also fine)
 * Import it from `app/assets/javascripts/application.js`:
 ```javascript
-// require ./prototypes/multiple_notes
+// require ./prototypes/your_prototype
 ```
 
 ### Cheatsheet
