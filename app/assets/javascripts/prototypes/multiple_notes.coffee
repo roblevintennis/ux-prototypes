@@ -79,6 +79,10 @@ $ ->
       totalHours = (parseInt(d1hours) || 0) - (parseInt(d2hours) || 0)
       totalMinutes = (parseInt(d1minutes) || 0) - (parseInt(d2minutes) || 0)
 
+    realmin = totalMinutes % 60
+    additionalHours = Math.floor(totalMinutes / 60)
+    totalHours += additionalHours || 0
+    totalMinutes = realmin
     total = totalHours + 'h ' + totalMinutes
     total
 
