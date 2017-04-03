@@ -15,6 +15,15 @@ $ ->
     resizeNotes()
     $('.field-notes').bind('keydown', onFieldNotesKeydown)
     $('.add-entry-link').bind('click', onAddEntryClicked)
+    $('.edit-link').bind('click', onEditClicked)
+
+  onEditClicked = (e) ->
+    e.preventDefault()
+    $('.timeentry-popover').show()
+
+    $(document).keyup (e) ->
+      if e.keyCode == 27
+        $('.timeentry-popover').hide()
 
   onFieldNotesKeydown = (e) ->
     switch e.which
@@ -103,11 +112,21 @@ $ ->
   $('.cell').on 'keydown', (e) ->
     switch e.which
       when 13
+        # Is it the first note? Then just add
         if notes.length < 1 && noteHasValue()
           addNote({
             content: $('.notes-dropdown').val(),
             duration: $('.cell').val()
           })
+        else if notes.length > 1
+          currentNotesLength = $(this).data('notesLength')
+          diff = getDurationDifference($('.cell').val(), durationTotal)
+
+          unless diff == "0h 0"
+            addNote({
+              content: '<em>Automatically added note</em>'
+              duration: diff
+            })
 
         $('.notes, .notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
         console.log("**** TODO *****")
