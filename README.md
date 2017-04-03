@@ -5,7 +5,7 @@ This project requires a typical Mavenlink system in terms of bundler, rvm, etc. 
 * Add a route in `config/routes.rb` like: `get 'static_pages/your_prototype'`
 * Add an _action_ in `app/controllers/static_pages_controller.rb`:
 ```ruby
-def another_prototype 
+def your_prototype 
 end
 ```
 * Add a corresponding view: `app/views/static_pages/your_prototype.html.erb` with desired markup
