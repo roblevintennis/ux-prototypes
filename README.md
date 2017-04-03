@@ -19,12 +19,7 @@ end
 ```javascript
 // require ./prototypes/your_prototype
 ```
-
-### Cheatsheet
-
-* `bundle install && bundle exec rails server`
-* Prefix all commands with `bundle exec <COMMAND>` so we use the local version e.g. `bundle exec rails -v`
-* Use `rvm gemset list` to ensure on prototypes gemset (should happen just be cd'ing in to this directory).
+* `bundle install && bundle exec rails server` and visit `http://localhost:3000/static_pages/your_prototype`
 
 ### Learning Resources
 
@@ -35,6 +30,9 @@ end
 * [updating rails](http://railsapps.github.io/updating-rails.html)
 
 ### Misc Notes
+
+* Prefix all commands with `bundle exec <COMMAND>` so we use the local version e.g. `bundle exec rails -v`
+* Use `rvm gemset list` to ensure on prototypes gemset (should happen just be cd'ing in to this directory).
 `rvm use ruby-2.3.1@prototypes --ruby-version --create`
 
 ### Listing Routes
