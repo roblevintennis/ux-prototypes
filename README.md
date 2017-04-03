@@ -2,9 +2,8 @@ This project requires a typical Mavenlink system in terms of bundler, rvm, etc. 
 
 # Creating a Prototype
 
-
-* Add a route in `config/routes.rb` like: get 'static_pages/your_prototype'
-* Add an _action_ in app/controllers/static_pages_controller.rb:
+* Add a route in `config/routes.rb` like: `get 'static_pages/your_prototype'`
+* Add an _action_ in `app/controllers/static_pages_controller.rb`:
 ```ruby
 def another_prototype 
 end
