@@ -120,7 +120,6 @@ em {
     .field-notes,
     .field-duration {
       border: none;
-      outline: none;
       border-bottom: 1px solid palette(neutral, mid);
       font-size: 18px;
       width: 60px;
@@ -154,4 +153,9 @@ em {
   100% {
     opacity: 0;
   }
+}
+
+//Override browser default with slightly smaller outline (default is 5px)
+:focus {
+    outline: -webkit-focus-ring-color auto 2px;
 }
