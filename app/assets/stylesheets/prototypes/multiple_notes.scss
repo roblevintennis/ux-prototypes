@@ -11,7 +11,7 @@ em {
 
   .prototype-wrapper {
     position: absolute;
-    top: 565px;
+    top: 250px;
     left: 752px;
     bottom: 0;
     width: 200px;
@@ -34,7 +34,7 @@ em {
   }
 
   .field-cell {
-    width: 42px;
+    width: 41px;
   }
   .cell {
     padding: 4px;
@@ -56,7 +56,7 @@ em {
   .notes,
   .field-note {
     position: absolute;
-    top: -35px;
+    top: 40px;
     opacity: 1;
     width: 100%;
   }
@@ -133,20 +133,20 @@ em {
   }
 }
 
-.slide-in-up {
-  -webkit-animation: slide-in-up .2s forwards;
+.slide-in-down {
+  -webkit-animation: slide-in-down .2s forwards;
 }
 .fade-out {
   -webkit-animation: fade-out .5s forwards;
 }
 
-@keyframes slide-in-up {
+@keyframes slide-in-down {
   0% {
-    -webkit-transform: translateY(15px);
+    -webkit-transform: translateY(0px);
   }
   100% {
     opacity: 1;
-    -webkit-transform: translateY(0);
+    -webkit-transform: translateY(10px);
   }
 }
 @keyframes fade-out {

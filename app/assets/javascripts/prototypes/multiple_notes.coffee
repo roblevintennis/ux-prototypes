@@ -11,8 +11,7 @@ $ ->
     $('.field-note').addClass('hidden')
     render()
     $('.notes').show()
-    $('.notes').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
-    resizeNotes()
+    $('.notes').removeClass('hidden').removeClass('fade-out').addClass('slide-in-down')
     $('.field-notes').bind('keydown', onFieldNotesKeydown)
     $('.add-entry-link').bind('click', onAddEntryClicked)
     $('.edit-link').bind('click', onEditClicked)
@@ -47,8 +46,6 @@ $ ->
     unless diff == "0h 0" || currentNotesLength > 1
       addDurationDifferencePrompt(parent, diff)
 
-    resizeNotes()
-
   addDurationDifferencePrompt = (parent, diff) ->
     console.log("addDurationDifferencePrompt function...")
     applyDurationDifferencePrompt = "<span class='difference-prompt'>You just added #{diff}. </span><a href='#'>Apply here?</a>"
@@ -58,10 +55,6 @@ $ ->
       e.preventDefault()
       parent.children('.add-entry-form').find('.field-duration').val(diff)
       prompt.hide()
-
-  resizeNotes = ->
-    h = Math.round( parseInt($('.notes').outerHeight()) ) * -1
-    $('.notes').css('top', h)
 
   template = _.template($('script.notes-template').html())
 
@@ -102,17 +95,17 @@ $ ->
     total
 
   closeNotes = ->
-    $('.notes, .notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
+    $('.notes, .notes-dropdown').removeClass('slide-in-down').addClass('fade-out')
 
   noteHasValue = ->
-    return false if $('.notes').hasClass('slide-in-up')
+    return false if $('.notes').hasClass('slide-in-down')
     $('.notes-dropdown').val().length > 0 || notes.length
 
   $('html').on 'click', (e) ->
     console.log("HTML click...")
 
     #Don't close if clicking on notes popover
-    if ($(e.target).closest('.notes').length)
+    if ($(e.target).closest('.notes, .notes-dropdown').length)
       console.log("Clicked on notes popover .. ignoring click")
       return false
 
@@ -129,7 +122,7 @@ $ ->
     if noteHasValue()
       renderNotes()
     else
-      $('.notes-dropdown').removeClass('hidden').removeClass('fade-out').addClass('slide-in-up')
+      $('.notes-dropdown').removeClass('hidden').removeClass('fade-out').addClass('slide-in-down')
 
   $('.cell').on 'keydown', (e) ->
     switch e.which
