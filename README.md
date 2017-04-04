@@ -1,4 +1,8 @@
-This project requires a typical Mavenlink system in terms of bundler, rvm, etc. RVM is used to create a local gemset so we can use the latest rails et al in this directory.
+## Prerequisites
+
+This project requires a typical Mavenlink system in terms of bundler, rvm, etc.
+
+_RVM is used to create a local gemset so we can use the latest rails et al in this directory._
 
 # Creating a Prototype
 
@@ -19,9 +23,10 @@ end
 ```javascript
 // require ./prototypes/your_prototype
 ```
-* `bundle install && bundle exec rails server` and visit `http://localhost:3000/static_pages/your_prototype`
+* Now run the app with:
+  `bundle install && bundle exec rails server` and visit `http://localhost:3000/static_pages/your_prototype`
 
-### Learning Resources
+### Rails Learning Resources
 
 * [Ruby on Rails Tutorial](http://www.railstutorial.org/)—a fairly comprehensive tutorial
 * [rails cheatsheet](https://gist.github.com/mdang/95b4f54cadf12e7e0415)—pretty good up and running quickly if you have some dev experience
