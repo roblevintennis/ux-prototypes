@@ -18,6 +18,7 @@ $ ->
     $('.edit-link').bind('click', onEditClicked)
 
   onEditClicked = (e) ->
+    console.log("onEditClicked called")
     e.preventDefault()
     $('.timeentry-popover').show()
 
@@ -35,6 +36,7 @@ $ ->
         renderNotes()
 
   onAddEntryClicked = (e) ->
+    console.log("onAddEntryClicked called")
     e.preventDefault()
     parent = $(this).parent()
     parent.children('.add-entry-form, .add-entry-link').toggle()
@@ -99,11 +101,31 @@ $ ->
     total = totalHours + 'h ' + totalMinutes
     total
 
+  closeNotes = ->
+    $('.notes, .notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
+
   noteHasValue = ->
     return false if $('.notes').hasClass('slide-in-up')
     $('.notes-dropdown').val().length > 0 || notes.length
 
+  $('html').on 'click', (e) ->
+    console.log("HTML click...")
+
+    #Don't close if clicking on notes popover
+    if ($(e.target).closest('.notes').length)
+      console.log("Clicked on notes popover .. ignoring click")
+      return false
+
+    #Don't close if event handed
+    if (e.isDefaultPrevented())
+      console.log("isDefaultPrevented true...returning false...")
+      return false
+
+    closeNotes()
+
   $('.cell').on 'click', (e) ->
+    console.log("cell onclick")
+    e.preventDefault()
     if noteHasValue()
       renderNotes()
     else
@@ -128,9 +150,7 @@ $ ->
               duration: diff
             })
 
-        $('.notes, .notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
-        console.log("**** TODO *****")
-        console.log("Add logic when editing cell e.g. add misc note or update val")
+        closeNotes()
 
       when 9 # TAB
         unless noteHasValue()
@@ -144,9 +164,10 @@ $ ->
       else
 
   $('.notes-dropdown').on 'keydown', (e) ->
+    console.log("notes-dropdown keydown")
     switch e.which
       when 13
-        $('.notes-dropdown').removeClass('slide-in-up').addClass('fade-out')
+        closeNotes()
         if noteHasValue()
           addNote({
             content: $('.notes-dropdown').val(),
