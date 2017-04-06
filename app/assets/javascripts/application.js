@@ -19,6 +19,7 @@
 
 // PROTOTYPES
 // require ./prototypes/multiple_notes
+// require ./prototypes/helloworld
 
 _.templateSettings = {
   evaluate: /\[\%(.+?)\%\]/g,
