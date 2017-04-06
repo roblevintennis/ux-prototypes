@@ -6,6 +6,8 @@ _RVM is used to create a local gemset so we can use the latest rails et al in th
 
 # Creating a Prototype
 
+_If you do not wish to hand create the files below, you can alternatively checkout the `helloworld` branch and then do a search and replace `^helloworld^your_prototype_name^` :)
+
 * Checkout a branch for your prototype: `git checkout -b my_prototype`
 * Add a route in `config/routes.rb` like: `get 'static_pages/your_prototype'`
 * Add an _action_ in `app/controllers/static_pages_controller.rb`:
