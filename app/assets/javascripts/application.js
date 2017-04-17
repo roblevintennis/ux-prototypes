@@ -19,6 +19,7 @@
 
 // PROTOTYPES
 // require ./prototypes/multiple_notes
+//= require ./prototypes/emptystates_prototype
 
 _.templateSettings = {
   evaluate: /\[\%(.+?)\%\]/g,
