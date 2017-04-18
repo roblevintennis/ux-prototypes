@@ -1,0 +1,2701 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY st0 "fill:#53A2ED;stroke:#53A2ED;stroke-miterlimit:10;">
+	<!ENTITY st1 "fill:none;stroke:#FFFFFF;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;">
+	<!ENTITY st2 "display:none;fill:none;">
+	<!ENTITY st3 "fill:#E85342;">
+	<!ENTITY st4 "fill:#C8C8C8;">
+	<!ENTITY st5 "fill:none;stroke:#C8C8C8;stroke-miterlimit:10;">
+	<!ENTITY st6 "fill:none;stroke:#448FEA;stroke-miterlimit:10;">
+	<!ENTITY st7 "fill:none;stroke:#448FEA;stroke-width:2;stroke-miterlimit:10;">
+	<!ENTITY st8 "fill:#D6D6D6;">
+	<!ENTITY st9 "fill:none;stroke:#ABABAB;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st10 "fill:none;stroke:#E1E1DD;stroke-miterlimit:10;">
+	<!ENTITY st11 "fill:#448FEA;">
+	<!ENTITY st12 "fill:#B6B6B6;">
+	<!ENTITY st13 "fill:#333333;">
+	<!ENTITY st14 "fill:none;stroke:#C8C8C8;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st15 "fill:#33AE21;">
+	<!ENTITY st16 "fill:none;stroke:#333333;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st17 "fill:#FFFFFF;">
+	<!ENTITY st18 "fill:none;stroke:#FFFFFF;stroke-miterlimit:10;">
+	<!ENTITY st19 "fill:none;stroke:#E1E1DD;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st20 "fill:none;stroke:#333333;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st21 "fill:none;stroke:#333333;stroke-miterlimit:10;">
+	<!ENTITY st22 "fill:none;stroke:#9D9D9D;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st23 "fill:#F5F5F2;">
+	<!ENTITY st24 "fill:#FBFAF6;">
+	<!ENTITY st25 "fill:none;stroke:#D6D6D6;stroke-miterlimit:10;">
+	<!ENTITY st26 "fill:#737373;">
+	<!ENTITY st27 "fill:#E1E1DD;">
+	<!ENTITY st28 "fill:none;stroke:#F8F8F5;stroke-miterlimit:10;">
+	<!ENTITY st29 "fill:none;stroke:#ABABAB;stroke-miterlimit:10;">
+	<!ENTITY st30 "fill:#4FC71A;">
+	<!ENTITY st31 "fill:#3C8BC6;">
+	<!ENTITY st32 "fill:none;stroke:#9D9D9D;stroke-miterlimit:10;">
+	<!ENTITY st33 "fill:#4A4A4A;">
+	<!ENTITY st34 "fill:#448FDA;stroke:#448FDA;stroke-miterlimit:10;">
+	<!ENTITY st35 "fill:#FF9900;">
+	<!ENTITY st36 "fill:#001C33;">
+	<!ENTITY st37 "fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#C8C8C8;stroke-miterlimit:10;">
+	<!ENTITY st38 "fill:none;stroke:#B6B6B6;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st39 "fill:#F8F8F5;">
+	<!ENTITY st40 "fill:#838383;">
+	<!ENTITY st41 "fill:#EFEFED;">
+	<!ENTITY st42 "fill:none;stroke:#3F8FEA;stroke-width:3;stroke-miterlimit:10;">
+	<!ENTITY st43 "fill:#666666;">
+	<!ENTITY st44 "fill:none;stroke:#666666;stroke-miterlimit:10;">
+	<!ENTITY st45 "fill:#FFFFFF;stroke:#F5F5F2;stroke-miterlimit:10;">
+	<!ENTITY st46 "fill:#FFFFFF;stroke:#D6D6D6;stroke-miterlimit:10;">
+	<!ENTITY st47 "fill:#FFFFFF;stroke:#C2C2C2;stroke-miterlimit:10;">
+	<!ENTITY st48 "fill:none;stroke:#FF9900;stroke-miterlimit:10;">
+	<!ENTITY st49 "fill:none;stroke:#C2C2C2;stroke-miterlimit:10;">
+	<!ENTITY st50 "fill:#33AE10;">
+	<!ENTITY st51 "fill:#FFFFFF;stroke:#F8F8F5;stroke-miterlimit:10;">
+	<!ENTITY st52 "fill:#C2C2C2;">
+	<!ENTITY st53 "fill:none;stroke:#737373;stroke-miterlimit:10;">
+	<!ENTITY st54 "fill:#B6B6B6;stroke:#B6B6B6;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st55 "fill:#33AE21;stroke:#33AE21;stroke-miterlimit:10;">
+	<!ENTITY st56 "fill:none;stroke:#959595;stroke-miterlimit:10;">
+	<!ENTITY st57 "fill:none;stroke:#838383;stroke-miterlimit:10;">
+	<!ENTITY st58 "fill:#959595;">
+	<!ENTITY st59 "fill:none;stroke:#959595;stroke-width:1.2746;stroke-miterlimit:10;">
+	<!ENTITY st60 "fill:#3F8FEA;">
+	<!ENTITY st61 "fill:none;">
+	<!ENTITY st62 "fill:#232323;">
+	<!ENTITY Primary_x0020__x002D__x0020_Default "fill:#448FEA;">
+	<!ENTITY Secondary_x0020__x002D__x0020_Active "fill:#448FEA;stroke:#448FEA;">
+	<!ENTITY st63 "fill:#002642;">
+	<!ENTITY st64 "fill:#448FDA;">
+	<!ENTITY st65 "fill:#585858;">
+	<!ENTITY st66 "fill:#FFFFFF;stroke:#002642;stroke-width:2;stroke-miterlimit:10;">
+	<!ENTITY st67 "fill:none;stroke:#002642;stroke-miterlimit:10;">
+	<!ENTITY st68 "opacity:0.5;fill:#C9DFF9;">
+	<!ENTITY st69 "fill:#002642;stroke:#FFFFFF;stroke-width:0.25;stroke-linecap:round;stroke-miterlimit:10;">
+	<!ENTITY st70 "fill:none;stroke:#002642;stroke-width:2;stroke-miterlimit:10;">
+	<!ENTITY st71 "fill:#FFFFFF;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;">
+	<!ENTITY st72 "fill:#002642;stroke:#FFFFFF;stroke-width:5.000000e-02;stroke-linecap:round;stroke-miterlimit:10;">
+	<!ENTITY st73 "fill:#FFFFFF;stroke:#002642;stroke-miterlimit:10;">
+	<!ENTITY st74 "opacity:0.5;">
+	<!ENTITY st75 "fill:#C9DFF9;">
+	<!ENTITY st76 "fill:#FFFFFF;stroke:#002642;stroke-linecap:round;stroke-miterlimit:10;">
+	<!ENTITY st77 "fill:none;stroke:#002642;stroke-width:1.1683;stroke-miterlimit:10;">
+	<!ENTITY st78 "fill:#019CE2;">
+	<!ENTITY st79 "fill:#01AAF4;">
+	<!ENTITY st80 "fill:#014774;">
+	<!ENTITY st81 "fill:#CF213B;">
+	<!ENTITY st82 "fill:#F4F6F8;">
+	<!ENTITY st83 "fill:#91A3A5;">
+	<!ENTITY st84 "fill:#EDEDED;">
+	<!ENTITY st85 "opacity:0.2;fill:#C9DFF9;">
+	<!ENTITY st86 "fill:#448EE9;">
+	<!ENTITY st87 "clip-path:url(#SVGID_2_);">
+	<!ENTITY st88 "fill:#808D8F;">
+	<!ENTITY st89 "fill:#707B7C;">
+	<!ENTITY st90 "clip-path:url(#SVGID_4_);">
+	<!ENTITY st91 "fill:none;stroke:#00A9F2;stroke-miterlimit:10;">
+	<!ENTITY st92 "fill:#00A9F2;">
+	<!ENTITY st93 "fill:#E6E7E7;">
+	<!ENTITY st94 "fill:#2B3D52;">
+	<!ENTITY st95 "fill:#92A4A4;">
+	<!ENTITY st96 "fill:#00436B;">
+	<!ENTITY st97 "fill:#00AAF4;">
+	<!ENTITY st98 "fill:#01A9F2;">
+	<!ENTITY st99 "fill:#014773;">
+	<!ENTITY st100 "fill:#738989;">
+	<!ENTITY st101 "fill:none;stroke:#00A9F2;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st102 "fill:#231F20;">
+	<!ENTITY st103 "opacity:0.2;fill:#448FEA;">
+	<!ENTITY st104 "font-family:'BerninoSans-Light';">
+	<!ENTITY st105 "font-size:18px;">
+	<!ENTITY st106 "font-family:'BerninoSans-Semibold';">
+]>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="274px" height="104px" viewBox="0 0 274 104" style="enable-background:new 0 0 274 104;" xml:space="preserve">
+<symbol  id="Deleted_Symbol" viewBox="-7 -7 13 13">
+	<rect x="-6.5" y="-6.5" style="&st0;" width="12" height="12"/>
+	<polyline style="&st1;" points="-3.5,-0.5 -1.5,-2.5 3.5,2.5 	"/>
+	<rect x="-7" y="-7" style="&st2;" width="13" height="13"/>
+</symbol>
+<symbol  id="Deleted_Symbol_10" viewBox="-10 -9 20 18">
+	<g id="XMLID_914_">
+		<path id="XMLID_915_" style="&st3;" d="M-3.8-0.5l3.3-0.4L-1.8-6l5.7,6.3L0.5,0.7l1.2,5.3L-3.8-0.5z"/>
+	</g>
+	<g id="XMLID_902_">
+		<path id="XMLID_911_" style="&st4;" d="M0-9c-5,0-9,4-9,9s4,9,9,9s9-4,9-9S5-9,0-9z M0,8.1c-4.5,0-8.1-3.6-8.1-8.1S-4.5-8.1,0-8.1
+			S8.1-4.5,8.1,0S4.5,8.1,0,8.1z"/>
+	</g>
+	<rect x="-10" y="-9" style="&st2;" width="20" height="18"/>
+</symbol>
+<symbol  id="Deleted_Symbol_11" viewBox="-7 -6 14 11.9">
+	<polygon id="XMLID_885_" style="&st4;" points="3.7,0.9 3,0.2 5.1,-2 0,-2 0,-3 5.1,-3 3,-5.3 3.7,-6 7,-2.5 	"/>
+	<polygon id="XMLID_884_" style="&st4;" points="0,2 0,3 -5,3 -3.1,5.2 -3.8,6 -7,2.5 -3.7,-1 -3,-0.2 -5,2 	"/>
+	<rect x="-7" y="-5" style="&st2;" width="14" height="10"/>
+</symbol>
+<symbol  id="Deleted_Symbol_12" viewBox="-7 -7 14 14.6">
+	<path style="&st5;" d="M3.6,4.5c0-2.3-2.5-4.6-3.4-4.6c-1,0-3.5,2.3-3.5,4.5c0,1.7,1.6,2.6,3.5,2.6S3.6,6.1,3.6,4.5z"/>
+	<g>
+		<g>
+			<path style="&st5;" d="M5.5-4.8c0,1.7-1.7,3.3-3.9,3.3h-3.2c-2.1,0-4-2-4-3.4c0-0.3,0-1.6,0-1.6H5.5C5.5-6.5,5.5-5.2,5.5-4.8z"/>
+		</g>
+	</g>
+	<rect x="-7" y="-7" style="&st2;" width="14" height="14"/>
+</symbol>
+<symbol  id="Deleted_Symbol_13" viewBox="-6 -7 11 14">
+	<path id="XMLID_861_" style="&st4;" d="M3,6v1H1V6h-3v1h-2V6h-2V-7H5V6H3z M-5,2h2V0h-2V2z M-2,0v2h3V0H-2z M1-1v-2h-3v2H1z M-5-1
+		h2v-2h-2V-1z M-5-6v2h2v-2H-5z M-2-6v2h3v-2H-2z M4-6H2v2h2V-6z M4-3H2v2h2V-3z M4,0H2v2h2V0z M4,3h-9v2h9V3z"/>
+	<rect x="-6" y="-7" style="&st2;" width="11" height="14"/>
+</symbol>
+<symbol  id="Deleted_Symbol_14" viewBox="-7 -7 13 13">
+	<rect id="XMLID_2467_" x="-6.5" y="-6.5" style="&st6;" width="12" height="12"/>
+	<polyline id="XMLID_2466_" style="&st7;" points="-3.5,-0.5 -1.5,-2.5 3.5,2.5 	"/>
+	<rect x="-7" y="-7" style="&st2;" width="13" height="13"/>
+</symbol>
+<symbol  id="Deleted_Symbol_15" viewBox="-4.8 -6 9 12">
+	<path id="XMLID_4403_" style="&st8;" d="M3.2,2v2.5C3.2,5.4,2.3,6,1.4,6h-3.8c-0.9,0-1.4-0.6-1.4-1.5V2h-1v-8h9v8H3.2z M-2.8,4.5
+		C-2.8,4.9-2.7,5-2.4,5h3.8c0.1,0,0.8,0,0.8-0.5V2h-5V4.5z M3.2-5h-7v6h7V-5z"/>
+	<rect id="XMLID_4402_" x="-0.8" y="-3" style="&st8;" width="1" height="3"/>
+	<rect id="XMLID_4397_" x="-4.8" y="-6" style="&st2;" width="9" height="12"/>
+</symbol>
+<symbol  id="Deleted_Symbol_16" viewBox="-4 -2.2 9 4.4">
+	<g>
+		<g>
+			<g>
+				<polyline style="&st9;" points="4,1.8 0.5,-1.7 -3,1.8 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="-4" y="-2" style="&st2;" width="9" height="4"/>
+</symbol>
+<symbol  id="Deleted_Symbol_17" viewBox="-561.3 -50.5 1121 144">
+	<line id="XMLID_3525_" style="&st10;" x1="-561.3" y1="0" x2="559.7" y2="0"/>
+	<line id="XMLID_3523_" style="&st10;" x1="-561.3" y1="-50" x2="559.7" y2="-50"/>
+	<rect id="XMLID_3521_" x="-458.3" y="0.5" style="&st11;" width="99" height="3"/>
+	<g id="XMLID_3515_">
+		<text transform="matrix(1 0 0 -1 -116.5 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Time  &amp; Expenses</text>
+	</g>
+	<g id="XMLID_3511_">
+		<text transform="matrix(1 0 0 -1 -332.5 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Gantt</text>
+	</g>
+	<g id="XMLID_3507_">
+		<text transform="matrix(1 0 0 -1 -260.5 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Resource Planning</text>
+	</g>
+	<g id="XMLID_3496_">
+		<text transform="matrix(1 0 0 -1 22.5 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Files</text>
+	</g>
+	<g id="XMLID_3493_">
+		<text transform="matrix(1 0 0 -1 -526.2471 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Activity</text>
+	</g>
+	<g id="XMLID_3475_">
+		<text transform="matrix(1 0 0 -1 -440.5811 9.2549)" style="&st13; font-family:'BerninoSans'; font-size:12px;">Task Tracker</text>
+	</g>
+	<g id="XMLID_3451_">
+		<g>
+			
+				<text id="XMLID_3282_" transform="matrix(1 0 0 -1 -527.9766 52.52)" style="&st13; font-family:'Merriweather'; font-size:20px;">Website Brand Refresh</text>
+		</g>
+	</g>
+	<g id="XMLID_3441_">
+		<path id="XMLID_3450_" style="&st14;" d="M543.3,55.8c0,0.5-0.1,1-0.1,1.5l1.8,2l-2.1,3.6l-2.6-0.6c-0.7,0.6-1.6,1-2.5,1.3L537,66
+			h-4.2l-0.9-2.5c-0.9-0.3-1.7-0.8-2.5-1.4l-2.7,0.7l-2.1-3.6l1.9-2.1c-0.1-0.4-0.1-0.9-0.1-1.3c0-0.5,0.1-1,0.1-1.5l-1.9-2.1
+			l2.1-3.6l2.9,0.6c0.7-0.5,1.4-1.1,2.2-1.4l0.8-2.8h4.2l0.9,2.8c0.9,0.3,1.6,0.8,2.3,1.4l2.8-0.6l2.1,3.6l-1.8,2.1
+			C543.2,54.7,543.3,55.3,543.3,55.8z"/>
+		<circle id="XMLID_3443_" style="&st14;" cx="535" cy="55.8" r="4.3"/>
+	</g>
+	<text id="XMLID_3438_" transform="matrix(1 0 0 -1 -526.8535 79.5747)" style="&st15; &st106; font-size:12px;">In Progress  60% </text>
+	<g id="XMLID_3050_">
+		<circle id="XMLID_3425_" style="&st14;" cx="534.1" cy="24.5" r="10"/>
+		<g id="XMLID_3056_">
+			<g id="XMLID_3407_">
+				<g id="XMLID_3410_">
+					<g id="XMLID_3419_">
+						<path style="&st4;" d="M534.7,26v-5v4.5V26 M535.7,27h-3.4l0.5-1.4l0.9,0V21h-1.2v-1h4.4v1h-1.2V27L535.7,27z"/>
+					</g>
+				</g>
+			</g>
+			<g id="XMLID_3358_">
+				<polygon style="&st4;" points="535.7,30 533.7,30 533.7,28 535.7,28 535.7,30 				"/>
+			</g>
+		</g>
+	</g>
+	<rect id="XMLID_3041_" x="-539.3" y="42.5" style="&st15;" width="4" height="51"/>
+	<g id="XMLID_3027_">
+		<g>
+			<g id="XMLID_3550_">
+				<polyline style="&st16;" points="-277.3,61.2 -281.8,56.7 -286.3,61.2 				"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path style="&st11;" d="M541.7-39.4c0-1.2-1-2.2-2.2-2.2h-98.7c-1.2,0-2.2,1-2.2,2.2v27.7c0,1.2,1,2.2,2.2,2.2h98.7
+			c1.2,0,2.2-1,2.2-2.2V-39.4z"/>
+		<text transform="matrix(1 0 0 -1 474.2227 -29.2642)" style="&st17; &st106; font-size:12px;">Add Item</text>
+		<g>
+			<g>
+				<line style="&st18;" x1="450.7" y1="-26" x2="459.7" y2="-26"/>
+				<line style="&st18;" x1="455.2" y1="-30.5" x2="455.2" y2="-21.5"/>
+			</g>
+		</g>
+		<line style="&st19;" x1="-376.8" y1="-11.5" x2="-376.8" y2="-34.5"/>
+		<line style="&st19;" x1="-272.8" y1="-13.5" x2="-272.8" y2="-36.5"/>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 -1 -359.0449 -27.6997)" style="&st13; font-family:'BerninoSans'; font-size:12px;">Configure</text>
+				</g>
+			</g>
+		</g>
+		
+			<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_2942_" x="-4" y="-2.2" transform="matrix(1 0 0 1 -286.3315 -23.5079)" style="overflow:visible;"/>
+		
+			<use xlink:href="#drop_-_emphasis"  width="11" height="5.4" x="-5" y="-3" transform="matrix(1 0 0 1 -408.3315 -23.5079)" style="overflow:visible;"/>
+		<g>
+			<g>
+				<g>
+					<g>
+						<text transform="matrix(1 0 0 -1 -524.5 -27.7236)" style="&st13; font-family:'BerninoSans-Bold'; font-size:12px;">Item Info View</text>
+					</g>
+				</g>
+			</g>
+		</g>
+		<line style="&st10;" x1="-376.8" y1="0.5" x2="-376.8" y2="-50.5"/>
+		<text transform="matrix(1 0 0 -1 -160.5806 -27.6875)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Search</text>
+		<g>
+			<circle style="&st20;" cx="-179.1" cy="-21.2" r="5"/>
+			<line style="&st20;" x1="-176.1" y1="-25.1" x2="-171.4" y2="-29.8"/>
+		</g>
+		<line style="&st19;" x1="-199.8" y1="-13.5" x2="-199.8" y2="-36.5"/>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 -1 -255.0449 -27.6997)" style="&st13; font-family:'BerninoSans'; font-size:12px;">Sort</text>
+				</g>
+			</g>
+		</g>
+		
+			<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_2940_" x="-4" y="-2.2" transform="matrix(1 0 0 1 -213.3315 -23.5079)" style="overflow:visible;"/>
+	</g>
+	<line style="&st10;" x1="282.2" y1="0.5" x2="282.2" y2="-50.5"/>
+	
+		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_2938_" x="-4" y="-2.2" transform="matrix(1 0 0 1 359.6685 -26.5079)" style="overflow:visible;"/>
+	<g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 -1 303.6631 -29.7168)" style="&st13; font-family:'BerninoSans'; font-size:12px;">Export</text>
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_991_">
+		<path id="XMLID_2937_" style="&st6;" d="M426.2-39.9c0-1.2-0.9-2.1-2.1-2.1h-29.8c-1.2,0-2.1,0.9-2.1,2.1v27.8
+			c0,1.2,0.9,2.1,2.1,2.1h29.8c1.2,0,2.1-0.9,2.1-2.1V-39.9z"/>
+		<path id="XMLID_2873_" style="&st6;" d="M412.7-25l4.3-1.9l-6.5-4.4l-6.6,3.3l4.4,2.7"/>
+		<path id="XMLID_2841_" style="&st6;" d="M410.6-26.5l-2.1,1l-4.5,2.2l6.6,4l6.4-2.8L410.6-26.5z"/>
+	</g>
+</symbol>
+<symbol  id="Deleted_Symbol_18" viewBox="-4 -15.1 10 7.1">
+	<path style="&st4;" d="M5.5-8c0.1,0-9.1,0-9.1,0L0-11.7v-3.3l2,1.1v2.3L5.5-8z"/>
+	<rect x="-4" y="-15" style="&st2;" width="10" height="7"/>
+</symbol>
+<symbol  id="Deleted_Symbol_19" viewBox="-5.7 -5.7 11.3 11.3">
+	<line style="&st21;" x1="5.2" y1="5.3" x2="-5.3" y2="-5.3"/>
+	<line style="&st21;" x1="5.3" y1="-5.2" x2="-5.2" y2="5.2"/>
+</symbol>
+<symbol  id="Deleted_Symbol_2" viewBox="-16 -16.3 32 32.3">
+	<g id="XMLID_1340_">
+		
+			<image style="overflow:visible;" width="277" height="277" id="XMLID_1343_" xlink:href="data:image/jpeg;base64,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" transform="matrix(0.1155 0 0 -0.1155 -16 15.7136)">
+		</image>
+	</g>
+</symbol>
+<symbol  id="Deleted_Symbol_21" viewBox="-4 -2.2 9 4.4">
+	<g>
+		<g>
+			<g>
+				<polyline style="&st22;" points="4,1.8 0.5,-1.7 -3,1.8 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="-4" y="-2" style="&st2;" width="9" height="4"/>
+</symbol>
+<symbol  id="Deleted_Symbol_22" viewBox="-5 -3 11 5.4">
+	<g id="XMLID_901_">
+		<g>
+			<g id="XMLID_917_">
+				<polyline style="&st14;" points="5,2 0.5,-2.5 -4,2 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="-5" y="-3" style="&st2;" width="11" height="5"/>
+</symbol>
+<symbol  id="Deleted_Symbol_23" viewBox="-560 -275 1121 559">
+	<g id="Flatland_Table_3_">
+		<polygon id="XMLID_3330_" style="&st23;" points="560,-275 -560,-275 -560,250.3 560,250.5 		"/>
+		<line id="XMLID_3310_" style="&st10;" x1="-560" y1="283.5" x2="560" y2="283.5"/>
+		<rect x="-560" y="251" style="&st24;" width="1120" height="32"/>
+		<line id="XMLID_3308_" style="&st5;" x1="-560" y1="250.5" x2="560" y2="250.5"/>
+		<rect x="-547.5" y="210.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="165.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="120.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="75.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="30.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="-14.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="-59.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="-104.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="-149.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="-194.5" style="&st10;" width="15" height="15"/>
+		<rect x="-547.5" y="-239.5" style="&st10;" width="15" height="15"/>
+		<rect id="XMLID_3306_" x="-547.5" y="259.5" style="&st10;" width="15" height="15"/>
+	</g>
+	<g>
+		<rect x="-524" y="61" style="&st17;" width="1075" height="44"/>
+		<rect x="-482" y="-74" style="&st17;" width="1033" height="44"/>
+		<rect x="-524" y="16" style="&st17;" width="1075" height="44"/>
+		<rect x="-503" y="-29" style="&st17;" width="1054" height="44"/>
+		<rect x="-461" y="-119" style="&st17;" width="1012" height="44"/>
+		<rect x="-524" y="-209" style="&st17;" width="1075" height="44"/>
+		<rect x="-461" y="-164" style="&st17;" width="1012" height="44"/>
+		<rect x="-503" y="106" style="&st17;" width="1054" height="44"/>
+		<rect x="-503" y="-249" style="&st17;" width="1054" height="39"/>
+		<rect x="-524" y="196" style="&st17;" width="1075" height="44"/>
+		<rect x="-503" y="151" style="&st17;" width="1054" height="44"/>
+	</g>
+	<line id="XMLID_3268_" style="&st25;" x1="-560" y1="250.5" x2="561" y2="250.5"/>
+	<rect x="-560" y="-275" style="&st24;" width="1120" height="34"/>
+	<line id="XMLID_3262_" style="&st5;" x1="-560" y1="-240.5" x2="560" y2="-240.5"/>
+	<g>
+		<rect x="-15" y="-275" style="&st11;" width="31" height="5"/>
+		<g>
+			<text transform="matrix(1 0 0 -1 -183.8379 -259.8496)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">|&lt;</tspan><tspan x="9.7" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:23;">	</tspan><tspan x="36" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">&lt;</tspan><tspan x="42.8" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:26;">	</tspan><tspan x="72" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">...</tspan><tspan x="79.6" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:25;">	</tspan><tspan x="108" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">2</tspan><tspan x="113.5" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:27;">	</tspan><tspan x="144" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">3</tspan><tspan x="149.3" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:27;">	</tspan><tspan x="180" y="0" style="&st26; &st106; font-size:10px;">4</tspan><tspan x="186.2" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:26;">	</tspan><tspan x="216" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">5</tspan><tspan x="221.4" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:27;">	</tspan><tspan x="252" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">6 </tspan><tspan x="260.9" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:24;">	</tspan><tspan x="288" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">...</tspan><tspan x="295.6" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:25;">	</tspan><tspan x="324" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">&gt;</tspan><tspan x="330.8" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:26;">	</tspan><tspan x="360" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">&gt;|</tspan></text>
+		</g>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 -1 427.1836 -261.585)" style="&st26; font-family:'BerninoSans'; font-size:10px;">SHOW 50 PER PAGE</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polyline style="&st14;" points="542.7,-256.1 539.2,-259.6 535.7,-256.1 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<rect x="-59" y="-240" transform="matrix(-1 -1.224647e-16 1.224647e-16 -1 -113 2)" style="&st23;" width="5" height="482"/>
+	<line id="XMLID_3064_" style="&st19;" x1="-58.5" y1="-240" x2="-58.5" y2="240"/>
+	<path style="&st10;" d="M-417.3,118.1"/>
+	<path style="&st10;" d="M-416.3,74.1"/>
+	<g>
+		<circle style="&st27;" cx="-493" cy="-249.1" r="1"/>
+		<circle style="&st27;" cx="-493" cy="-261.1" r="1"/>
+		<circle style="&st27;" cx="-493" cy="-255.1" r="1"/>
+		<circle style="&st27;" cx="-493" cy="-267.1" r="1"/>
+	</g>
+	<g>
+		<circle style="&st27;" cx="-514" cy="227.9" r="1"/>
+		<circle style="&st27;" cx="-514" cy="215.9" r="1"/>
+		<circle style="&st27;" cx="-514" cy="221.9" r="1"/>
+		<circle style="&st27;" cx="-514" cy="209.9" r="1"/>
+	</g>
+	<path style="&st10;" d="M-420.3-245.9"/>
+	<path style="&st28;" d="M545-243.5"/>
+	<path style="&st28;" d="M-506-243.5"/>
+	<path style="&st5;" d="M551,80.6"/>
+	<path style="&st5;" d="M-523,80.6"/>
+	<path style="&st5;" d="M551,239.6"/>
+	<polyline style="&st29;" points="-54,105.5 550.5,105.5 550.5,60.5 -54,60.5 	"/>
+	<polyline style="&st29;" points="-59,60.5 -524.5,60.5 -524.5,105.5 -59,105.5 	"/>
+	<g>
+		<g>
+			<g id="XMLID_3035_">
+				<text transform="matrix(1 0 0 -1 392.0015 122.8926)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_3030_">
+				<text transform="matrix(1 0 0 -1 464.2515 122.8926)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 03</text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="126.5" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="126.5" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="126.5" r="1.3"/>
+		</g>
+		<g id="XMLID_3023_">
+			<text transform="matrix(1 0 0 -1 164.0483 121.8867)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</text>
+		</g>
+		<g id="XMLID_2998_">
+			<text transform="matrix(1 0 0 -1 277.0015 121.8867)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Scott W</text>
+		</g>
+		<g id="XMLID_2981_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 121.6133)" style="&st30; font-family:'BerninoSans'; font-size:12px;">Started</text>
+		</g>
+		<g id="XMLID_2975_">
+			<text transform="matrix(1 0 0 -1 108.5054 121.8867)" style="&st26; font-family:'BerninoSans'; font-size:12px;">60%</text>
+		</g>
+		<circle style="&st30;" cx="-11" cy="125.7" r="4"/>
+		<g id="XMLID_2972_">
+			<g>
+				<g>
+					<g>
+						<polyline style="&st19;" points="85,126.6 81.5,123.1 78,126.6 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 -1 -399.9863 123.4648)" style="&st13; &st106; font-size:13px;">Website redesign mockups</text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-493" cy="136.9" r="1"/>
+			<circle style="&st27;" cx="-493" cy="124.9" r="1"/>
+			<circle style="&st27;" cx="-493" cy="130.9" r="1"/>
+			<circle style="&st27;" cx="-493" cy="118.9" r="1"/>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_9"  width="18" height="18" x="-11" y="-9" transform="matrix(1 0 0 1 -440 128)" style="overflow:visible;"/>
+		<g id="XMLID_2966_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-422,129.3 -425.5,125.8 -429,129.3 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g id="XMLID_2951_">
+				<text transform="matrix(1 0 0 -1 392.0015 -237.2783)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 04</text>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g id="XMLID_3280_">
+					<text transform="matrix(1 0 0 -1 464.2515 -237.2725)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Add</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="-232.5" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="-232.5" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="-232.5" r="1.3"/>
+		</g>
+		
+			<use xlink:href="#icon-small-calendar"  width="11" height="14" id="XMLID_2929_" x="-6" y="-7" transform="matrix(1 0 0 1 498 -232)" style="overflow:visible;"/>
+		<g id="XMLID_2925_">
+			<text transform="matrix(1 0 0 -1 164.0493 -237.5967)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Executive</text>
+		</g>
+		<g id="XMLID_2919_">
+			<text transform="matrix(1 0 0 -1 277.0024 -237.5967)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Martha C</text>
+		</g>
+		<g id="XMLID_2896_">
+			<text transform="matrix(1 0 0 -1 108.5044 -237.5908)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+		</g>
+		<g id="XMLID_2886_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -237.5908)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Not Started</text>
+		</g>
+		<circle style="&st26;" cx="-11" cy="-232.3" r="4"/>
+		<g id="XMLID_2884_">
+			<g>
+				<g>
+					<g>
+						<polyline style="&st10;" points="85,-230.6 81.5,-234.1 78,-230.6 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-493" cy="-223.1" r="1"/>
+			<circle style="&st27;" cx="-493" cy="-235.1" r="1"/>
+			<circle style="&st27;" cx="-493" cy="-229.1" r="1"/>
+			<circle style="&st27;" cx="-493" cy="-241.1" r="1"/>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 -1 -399.5669 -237.9995)" style="&st13; &st106; font-size:13px;">Client checkpoint</text>
+			</g>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_9"  width="18" height="18" x="-11" y="-9" transform="matrix(1 0 0 1 -440 -233)" style="overflow:visible;"/>
+		<g id="XMLID_2861_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-422,-232 -425.5,-235.5 -429,-232 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g id="XMLID_2847_">
+				<text transform="matrix(1 0 0 -1 392.0015 -102.5234)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_2832_">
+				<text transform="matrix(1 0 0 -1 464.2515 -102.5234)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 18</text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="-97.3" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="-97.3" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="-97.3" r="1.3"/>
+		</g>
+		<g id="XMLID_2823_">
+			<text transform="matrix(1 0 0 -1 164.0483 -103.2285)" style="&st26; font-family:'BerninoSans'; font-size:12px;">No Tags</text>
+		</g>
+		<g id="XMLID_2817_">
+			<text transform="matrix(1 0 0 -1 277.0015 -103.2285)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Christy K</text>
+		</g>
+		<g id="XMLID_2790_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -103.502)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Not Started</text>
+		</g>
+		<g id="XMLID_2777_">
+			<text transform="matrix(1 0 0 -1 108.5054 -103.4961)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+		</g>
+		<circle style="&st26;" cx="-11" cy="-98.2" r="4"/>
+		<g id="XMLID_2758_">
+			<g>
+				<g>
+					<g>
+						<polyline style="&st10;" points="85,-96.3 81.5,-99.8 78,-96.3 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_7"  width="19" height="18" x="-8" y="-9" transform="matrix(1 0 0 1 -400 -97)" style="overflow:visible;"/>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 -1 -357.5918 -101.7451)" style="&st13; &st106; font-size:13px;">Design Assets | Modified Logo</text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-451" cy="-87.9" r="1"/>
+			<circle style="&st27;" cx="-451" cy="-99.9" r="1"/>
+			<circle style="&st27;" cx="-451" cy="-93.9" r="1"/>
+			<circle style="&st27;" cx="-451" cy="-105.9" r="1"/>
+		</g>
+		<g id="XMLID_2642_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-378,-95.7 -381.5,-99.2 -385,-95.7 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g id="XMLID_2620_">
+			<text transform="matrix(1 0 0 -1 392.0015 167.9707)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+		</g>
+		<g id="XMLID_2562_">
+			<text transform="matrix(1 0 0 -1 464.2515 167.9707)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="171.6" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="171.6" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="171.6" r="1.3"/>
+		</g>
+		<g>
+			<g id="XMLID_2534_">
+				<text transform="matrix(1 0 0 -1 164.0483 166.9902)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Design</text>
+			</g>
+			<g id="XMLID_2526_">
+				<text transform="matrix(1 0 0 -1 277.0015 166.9961)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Unassigned</text>
+			</g>
+			<g id="XMLID_2502_">
+				<text transform="matrix(1 0 0 -1 1.464844e-03 166.7168)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Not Started</text>
+			</g>
+			<g id="XMLID_2468_">
+				<text transform="matrix(1 0 0 -1 108.5054 166.7227)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+			</g>
+			<circle style="&st26;" cx="-11" cy="170.6" r="4"/>
+		</g>
+		<g id="XMLID_2456_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="85,172.6 81.5,169.1 78,172.6 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 -1 -399.5669 166.5166)" style="&st13; &st106; font-size:13px;">Client checkpoint</text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-493" cy="182.4" r="1"/>
+			<circle style="&st27;" cx="-493" cy="170.4" r="1"/>
+			<circle style="&st27;" cx="-493" cy="176.4" r="1"/>
+			<circle style="&st27;" cx="-493" cy="164.4" r="1"/>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_9"  width="18" height="18" x="-11" y="-9" transform="matrix(1 0 0 1 -440 171)" style="overflow:visible;"/>
+		<g id="XMLID_2446_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-422,172.6 -425.5,169.1 -429,172.6 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g id="XMLID_2437_">
+				<text transform="matrix(1 0 0 -1 392.0015 213.7217)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_2420_">
+				<text transform="matrix(1 0 0 -1 464.2515 213.7217)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 05</text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="218.5" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="218.5" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="218.5" r="1.3"/>
+		</g>
+		<g>
+			<g id="XMLID_2412_">
+				<text transform="matrix(1 0 0 -1 1.464844e-03 212.4912)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Not Started</text>
+			</g>
+			<g id="XMLID_2402_">
+				<text transform="matrix(1 0 0 -1 108.5054 212.4971)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+			</g>
+			<g id="XMLID_2394_">
+				<text transform="matrix(1 0 0 -1 164.0493 212.7666)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Design, HR</text>
+			</g>
+			<g id="XMLID_2375_">
+				<text transform="matrix(1 0 0 -1 277.0015 212.7705)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Unassigned</text>
+			</g>
+			<circle style="&st5;" cx="-11" cy="216.1" r="4"/>
+		</g>
+		<g id="XMLID_2345_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="85,217.4 81.5,213.9 78,217.4 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 -1 -421 213.3262)" style="&st13; &st106; font-size:13px;">Marketing calendar </text>
+			</g>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_9"  width="18" height="18" x="-11" y="-9" transform="matrix(1 0 0 1 -461 218)" style="overflow:visible;"/>
+		<g id="XMLID_2334_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-443,219.4 -446.5,215.9 -450,219.4 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon style="&st27;" points="-488,220.3 -494,214.3 -500,220.3 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<circle style="&st26;" cx="538.4" cy="82" r="1.3"/>
+		<circle style="&st26;" cx="532.4" cy="82" r="1.3"/>
+		<circle style="&st26;" cx="526.4" cy="82" r="1.3"/>
+		<g>
+			<g id="XMLID_2306_">
+				<text transform="matrix(1 0 0 -1 392.0015 78.1875)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_2258_">
+				<text transform="matrix(1 0 0 -1 464.2515 78.1875)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 05</text>
+			</g>
+		</g>
+		<g id="XMLID_2242_">
+			<text transform="matrix(1 0 0 -1 164.0483 77.1562)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</text>
+		</g>
+		<g id="XMLID_2203_">
+			<text transform="matrix(1 0 0 -1 277.0015 77.1562)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Katlyn C</text>
+		</g>
+		<g id="XMLID_2193_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 76.8828)" style="&st31; font-family:'BerninoSans'; font-size:12px;">Completed</text>
+		</g>
+		<g id="XMLID_2182_">
+			<text transform="matrix(1 0 0 -1 108.5054 77.1562)" style="&st26; font-family:'BerninoSans'; font-size:12px;">100%</text>
+		</g>
+		<circle style="&st31;" cx="-11" cy="81.3" r="4"/>
+		
+			<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_2138_" x="-4" y="-2.2" transform="matrix(1 0 0 1 81 82)" style="overflow:visible;"/>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 -1 -420.2324 78.4658)" style="&st13; &st106; font-size:13px;">Approve advertising budget for Facebook campaign</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle style="&st26;" cx="-514" cy="91.8" r="1"/>
+			<circle style="&st26;" cx="-514" cy="79.8" r="1"/>
+			<circle style="&st26;" cx="-514" cy="85.8" r="1"/>
+			<circle style="&st26;" cx="-514" cy="73.8" r="1"/>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_7"  width="19" height="18" x="-8" y="-9" transform="matrix(1 0 0 1 -464 84)" style="overflow:visible;"/>
+		<g id="XMLID_2044_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st32;" points="-442,85 -445.5,81.5 -449,85 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon style="&st4;" points="-497,88.9 -491,82.9 -497,76.9 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g id="XMLID_2027_">
+				<text transform="matrix(1 0 0 -1 392.0015 32.9541)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_2023_">
+				<text transform="matrix(1 0 0 -1 464.2515 32.9541)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="37.5" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="37.5" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="37.5" r="1.3"/>
+		</g>
+		<g id="XMLID_2019_">
+			<text transform="matrix(1 0 0 -1 164.0483 31.8994)" style="&st26; font-family:'BerninoSans'; font-size:12px;">UI Development</text>
+		</g>
+		<g id="XMLID_2012_">
+			<text transform="matrix(1 0 0 -1 277.0015 31.8994)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Scott W</text>
+		</g>
+		<g id="XMLID_2000_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 31.626)" style="&st30; font-family:'BerninoSans'; font-size:12px;">Started </text>
+		</g>
+		<g id="XMLID_1972_">
+			<text transform="matrix(1 0 0 -1 108.5054 31.8994)" style="&st26; font-family:'BerninoSans'; font-size:12px;">30%</text>
+		</g>
+		<circle style="&st30;" cx="-11" cy="35.7" r="4"/>
+		<g id="XMLID_1967_">
+			<g>
+				<g>
+					<g>
+						<polyline style="&st19;" points="85,36.6 81.5,33.1 78,36.6 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 -1 -420.9995 33.1338)" style="&st13; &st106; font-size:13px;">Client wireframes</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-514" cy="46.9" r="1"/>
+			<circle style="&st27;" cx="-514" cy="34.9" r="1"/>
+			<circle style="&st27;" cx="-514" cy="40.9" r="1"/>
+			<circle style="&st27;" cx="-514" cy="28.9" r="1"/>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_9"  width="18" height="18" id="XMLID_1961_" x="-11" y="-9" transform="matrix(1 0 0 1 -459 37)" style="overflow:visible;"/>
+		<g id="XMLID_1954_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-441,39.4 -444.5,35.9 -448,39.4 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon style="&st27;" points="-488,40.3 -494,34.3 -500,40.3 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g id="XMLID_1952_">
+				<text transform="matrix(1 0 0 -1 392.0015 -9.291)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02</text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_1453_">
+				<text transform="matrix(1 0 0 -1 464.2515 -9.291)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="-4.5" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="-4.5" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="-4.5" r="1.3"/>
+		</g>
+		<g id="XMLID_1420_">
+			<text transform="matrix(1 0 0 -1 164.0483 -3.2695)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">UX,  </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</tspan></text>
+		</g>
+		<g id="XMLID_1401_">
+			<text transform="matrix(1 0 0 -1 277.0015 -10.3691)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Ross M</text>
+		</g>
+		<g id="XMLID_1390_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -10.6426)" style="&st30; font-family:'BerninoSans'; font-size:12px;">Started </text>
+		</g>
+		<g id="XMLID_1378_">
+			<text transform="matrix(1 0 0 -1 108.5054 -10.6426)" style="&st26; font-family:'BerninoSans'; font-size:12px;">20%</text>
+		</g>
+		<circle style="&st30;" cx="-11" cy="-6.4" r="4"/>
+		<g id="XMLID_1366_">
+			<g>
+				<g>
+					<g>
+						<polyline style="&st19;" points="85,-5.5 81.5,-9 78,-5.5 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<text transform="matrix(1 0 0 -1 -399.9863 -9.0127)" style="&st13; &st106; font-size:13px;">Landing pages</text>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-493" cy="4.8" r="1"/>
+			<circle style="&st27;" cx="-493" cy="-7.2" r="1"/>
+			<circle style="&st27;" cx="-493" cy="-1.2" r="1"/>
+			<circle style="&st27;" cx="-493" cy="-13.2" r="1"/>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_9"  width="18" height="18" x="-11" y="-9" transform="matrix(1 0 0 1 -440 -4)" style="overflow:visible;"/>
+		<g id="XMLID_1361_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-422,-3 -425.5,-6.5 -429,-3 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon style="&st27;" points="-467,-1.7 -473,-7.7 -479,-1.7 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g id="XMLID_1354_">
+				<text transform="matrix(1 0 0 -1 392.0015 -54.3115)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_1326_">
+				<text transform="matrix(1 0 0 -1 464.2515 -54.3115)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 03</text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="-49.6" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="-49.6" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="-49.6" r="1.3"/>
+		</g>
+		<g id="XMLID_1314_">
+			<text transform="matrix(1 0 0 -1 164.0483 -48.2607)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">Production, </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</tspan></text>
+		</g>
+		<g id="XMLID_1301_">
+			<text transform="matrix(1 0 0 -1 277.0015 -55.2607)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Scott W</text>
+		</g>
+		<g id="XMLID_1296_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -55.5342)" style="&st30; font-family:'BerninoSans'; font-size:12px;">Started </text>
+		</g>
+		<g id="XMLID_1292_">
+			<text transform="matrix(1 0 0 -1 108.5054 -55.2607)" style="&st26; font-family:'BerninoSans'; font-size:12px;">60%</text>
+		</g>
+		<circle style="&st30;" cx="-11" cy="-51.3" r="4"/>
+		<g id="XMLID_1291_">
+			<g>
+				<g>
+					<g>
+						<polyline style="&st19;" points="85,-48.5 81.5,-52 78,-48.5 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_10"  width="20" height="18" x="-10" y="-9" transform="matrix(1 0 0 1 -420 -51)" style="overflow:visible;"/>
+		<g>
+			<text transform="matrix(1 0 0 -1 -379.4014 -56.0483)" style="&st13; &st106; font-size:13px;">Logo is Skewed and Cut Off in the Login Page</text>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-472" cy="-41.2" r="1"/>
+			<circle style="&st27;" cx="-472" cy="-53.2" r="1"/>
+			<circle style="&st27;" cx="-472" cy="-47.2" r="1"/>
+			<circle style="&st27;" cx="-472" cy="-59.2" r="1"/>
+		</g>
+		<g id="XMLID_1289_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-399,-50 -402.5,-53.5 -406,-50 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon style="&st27;" points="-447,-48.7 -453,-54.7 -459,-48.7 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<g id="XMLID_1287_">
+				<text transform="matrix(1 0 0 -1 392.0015 -145.5234)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 03 </text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_1283_">
+				<text transform="matrix(1 0 0 -1 464.2515 -145.5234)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 08</text>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="-140.8" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="-140.8" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="-140.8" r="1.3"/>
+		</g>
+		<g id="XMLID_1276_">
+			<text transform="matrix(1 0 0 -1 164.0483 -139.4531)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">UX, User  </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Research, Des...</tspan></text>
+		</g>
+		<g id="XMLID_1272_">
+			<text transform="matrix(1 0 0 -1 277.0015 -138.8535)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">Graham G, Jose S, </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Arturo P</tspan></text>
+		</g>
+		<g id="XMLID_1261_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -145.7266)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Not Started</text>
+		</g>
+		<g id="XMLID_1205_">
+			<text transform="matrix(1 0 0 -1 108.5054 -145.7207)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+		</g>
+		<circle style="&st26;" cx="-11" cy="-140.2" r="4"/>
+		<g id="XMLID_1204_">
+			<g>
+				<g>
+					<g>
+						<polyline style="&st10;" points="85,-139.8 81.5,-143.3 78,-139.8 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<g>
+						<g>
+							<text transform="matrix(1 0 0 -1 -357.5913 -138.0439)"><tspan x="0" y="0" style="&st13; &st106; font-size:13px;">Apply new logo/branding to API and Security </tspan><tspan x="0" y="15.6" style="&st13; &st106; font-size:13px;">sales docs</tspan></text>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-451" cy="-131.4" r="1"/>
+			<circle style="&st27;" cx="-451" cy="-143.4" r="1"/>
+			<circle style="&st27;" cx="-451" cy="-137.4" r="1"/>
+			<circle style="&st27;" cx="-451" cy="-149.4" r="1"/>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_9"  width="18" height="18" x="-11" y="-9" transform="matrix(1 0 0 1 -398 -140)" style="overflow:visible;"/>
+		<g id="XMLID_1146_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-378,-139.2 -381.5,-142.7 -385,-139.2 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon style="&st27;" points="-433,-134.9 -427,-140.9 -433,-146.9 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g>
+		<g>
+			<circle style="&st27;" cx="538.4" cy="-188.1" r="1.3"/>
+			<circle style="&st27;" cx="532.4" cy="-188.1" r="1.3"/>
+			<circle style="&st27;" cx="526.4" cy="-188.1" r="1.3"/>
+		</g>
+		<g>
+			<g id="XMLID_1138_">
+				<text transform="matrix(1 0 0 -1 392.0015 -192.8467)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 04</text>
+			</g>
+		</g>
+		<g>
+			<g id="XMLID_1131_">
+				<text transform="matrix(1 0 0 -1 464.2515 -192.8467)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 04</text>
+			</g>
+		</g>
+		<g id="XMLID_1079_">
+			<text transform="matrix(1 0 0 -1 164.0483 -186.9697)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">Design, </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</tspan></text>
+		</g>
+		<g id="XMLID_1077_">
+			<text transform="matrix(1 0 0 -1 277.0015 -193.0342)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Scott W</text>
+		</g>
+		<g id="XMLID_1073_">
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -193.3076)" style="&st31; font-family:'BerninoSans'; font-size:12px;">Completed</text>
+		</g>
+		<g id="XMLID_1071_">
+			<text transform="matrix(1 0 0 -1 108.5054 -193.0342)" style="&st26; font-family:'BerninoSans'; font-size:12px;">100%</text>
+		</g>
+		<circle style="&st31;" cx="-11" cy="-188.5" r="4"/>
+		<g id="XMLID_1070_">
+			<g>
+				<g>
+					<g>
+						<polyline style="&st19;" points="85,-187 81.5,-190.5 78,-187 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<circle style="&st27;" cx="-514" cy="-178.7" r="1"/>
+			<circle style="&st27;" cx="-514" cy="-190.7" r="1"/>
+			<circle style="&st27;" cx="-514" cy="-184.7" r="1"/>
+			<circle style="&st27;" cx="-514" cy="-196.7" r="1"/>
+		</g>
+		<g>
+			<g>
+				<text transform="matrix(1 0 0 -1 -421 -192.5684)" style="&st13; &st106; font-size:13px;">Marketing calendar </text>
+			</g>
+		</g>
+		
+			<use xlink:href="#Deleted_Symbol_9"  width="18" height="18" x="-11" y="-9" transform="matrix(1 0 0 1 -461 -188)" style="overflow:visible;"/>
+		<path style="&st5;" d="M551-169"/>
+		<path style="&st5;" d="M-523-169"/>
+		<g id="XMLID_1068_">
+			<g>
+				<g>
+					<g>
+						<g>
+							<polyline style="&st10;" points="-442,-186.2 -445.5,-189.7 -449,-186.2 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+		<g>
+			<g>
+				<g>
+					<polygon style="&st27;" points="-488,-185.3 -494,-191.2 -500,-185.3 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+	<line id="XMLID_1067_" style="&st10;" x1="382.5" y1="284" x2="382.5" y2="251"/>
+	<line id="XMLID_1066_" style="&st10;" x1="514.5" y1="284" x2="514.5" y2="251"/>
+	<line id="XMLID_1047_" style="&st10;" x1="453.5" y1="284" x2="453.5" y2="251"/>
+	<g id="XMLID_1030_">
+		<text transform="matrix(1 0 0 -1 464.2524 264.2295)" style="&st33; font-family:'BerninoSans'; font-size:10px;">DUE </text>
+	</g>
+	<g id="XMLID_1021_">
+		<text transform="matrix(1 0 0 -1 392.0024 264.2295)" style="&st33; font-family:'BerninoSans'; font-size:10px;">START </text>
+	</g>
+	
+		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_1020_" x="-4" y="-2.2" transform="matrix(1 0 0 1 433 268)" style="overflow:visible;"/>
+	
+		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_1019_" x="-4" y="-2.2" transform="matrix(1 0 0 1 500 268)" style="overflow:visible;"/>
+	<g>
+		<line id="XMLID_1018_" style="&st10;" x1="-60.5" y1="283" x2="-60.5" y2="251"/>
+		
+			<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_1017_" x="-4" y="-2.2" transform="matrix(1 0 0 1 -76 268)" style="overflow:visible;"/>
+		
+			<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_1016_" x="-4" y="-2.2" transform="matrix(1 0 0 1 -46 268)" style="overflow:visible;"/>
+	</g>
+	<line id="XMLID_1015_" style="&st10;" x1="264.5" y1="284" x2="264.5" y2="251"/>
+	<g id="XMLID_1012_">
+		<text transform="matrix(1 0 0 -1 164.0483 264.23)" style="&st33; font-family:'BerninoSans'; font-size:10px;">TAGS</text>
+	</g>
+	<g id="XMLID_1009_">
+		<text transform="matrix(1 0 0 -1 108.5054 264.23)" style="&st26; font-family:'BerninoSans'; font-size:10px;">%</text>
+	</g>
+	<g id="XMLID_986_">
+		<text transform="matrix(1 0 0 -1 277.0024 264.23)" style="&st33; font-family:'BerninoSans'; font-size:10px;">ASSIGNEES</text>
+	</g>
+	<line id="XMLID_984_" style="&st10;" x1="151.5" y1="283" x2="151.5" y2="251"/>
+	
+		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_979_" x="-4" y="-2.2" transform="matrix(1 0 0 1 248 268)" style="overflow:visible;"/>
+	<line id="XMLID_978_" style="&st10;" x1="94.5" y1="284" x2="94.5" y2="251"/>
+	<g id="XMLID_962_">
+		<text transform="matrix(1 0 0 -1 -15.0005 264.23)" style="&st33; font-family:'BerninoSans'; font-size:10px;">STATUS</text>
+	</g>
+	<line id="XMLID_952_" style="&st10;" x1="-27.5" y1="283" x2="-27.5" y2="251"/>
+	
+		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_950_" x="-4" y="-2.2" transform="matrix(1 0 0 1 72 268)" style="overflow:visible;"/>
+	
+		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_946_" x="-4" y="-2.2" transform="matrix(1 0 0 1 132 270)" style="overflow:visible;"/>
+	
+		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_936_" x="-4" y="-2.2" transform="matrix(1 0 0 1 367 268)" style="overflow:visible;"/>
+	<g id="XMLID_807_">
+		<text transform="matrix(1 0 0 -1 -502 264)" style="&st33; font-family:'BerninoSans'; font-size:10px;">TITLE </text>
+	</g>
+	<rect x="-560" y="-275" style="&st2;" width="1121" height="559"/>
+</symbol>
+<symbol  id="Deleted_Symbol_3" viewBox="-8 -8 13 13">
+	<polyline id="XMLID_10768_" style="&st1;" points="-3.5,-0.5 -1.5,-2.5 3.5,2.5 	"/>
+	<rect id="XMLID_10767_" x="-7.5" y="-7.5" style="&st34;" width="12" height="12"/>
+	<polyline id="XMLID_15_" style="&st1;" points="-4.3,-1.3 -2.3,-3.3 2.7,1.7 	"/>
+	<rect id="XMLID_13_" x="-8" y="-8" style="&st2;" width="13" height="13"/>
+</symbol>
+<symbol  id="Deleted_Symbol_4" viewBox="-5.5 -8 11 16">
+	
+		<image style="overflow:visible;" width="11" height="16" id="pointer_xA0_Image_7_" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAQpJREFUeNqMUssKglAQ1bwSgVG4
+CCL6hMBlRnt/ol8JdRO0aNeqVoUfI64Et0K0chtoBAndzpiFhd0aOM6DOXfGmZE45w5/iCP9IYw+
+ruuSsvM8b6iqSsSbkEDiOEWBOUiSiMSqzj8k9hn4RWJ1ZUUk9u3nvpGYaIR1JPZr7p8kYUu2bVdD
+cyz3VjfWl/Z93zNN0yv7PwOHt8VZluWV7qwkzcIwvBqGsYWdU6BR3ARKUzJe2yuK8jZ3TdMuUAlw
+BE4SHV0URRs4U2ACjOI4XqMCh81Jp2m6gN0sxirL8hK6D3SAlF7Rdf1crZJlGSW3nm2R0wMGQLvc
+TTdJkhXdfBAEO/hjYEi5dwEGAOQaidNQdlfvAAAAAElFTkSuQmCC" transform="matrix(1 0 0 -1 -5.5 8)">
+	</image>
+</symbol>
+<symbol  id="Deleted_Symbol_5" viewBox="-16 -7 85 15">
+	
+		<use xlink:href="#icon-link"  width="14" height="12.7" x="-7" y="-6.3" transform="matrix(1 0 0 1 -8.0001 1)" style="overflow:visible;"/>
+	
+		<use xlink:href="#icon-trash"  width="13" height="15" x="-7" y="-8" transform="matrix(1 0 0 1 63 1)" style="overflow:visible;"/>
+	
+		<use xlink:href="#icon-archive"  width="14" height="14" x="-7" y="-7" transform="matrix(1 0 0 1 28 0)" style="overflow:visible;"/>
+	<rect x="-16" y="-7" style="&st2;" width="85" height="15"/>
+</symbol>
+<symbol  id="Deleted_Symbol_6" viewBox="-5 -3 11 5.4">
+	<g>
+		<g>
+			<g>
+				<polyline style="&st14;" points="5,2 0.5,-2.5 -4,2 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="-5" y="-3" style="&st2;" width="11" height="5"/>
+</symbol>
+<symbol  id="Deleted_Symbol_7" viewBox="-8 -9 19 18">
+	<path id="XMLID_890_" style="&st4;" d="M6.4,9H-4.1L-8,5.9l0-0.1V-9h18V5.8l0.1,0.2L6.4,9z M-3.7,8H6l2.5-2H-6.3L-3.7,8z M9-8H-7V5
+		H9V-8z"/>
+	<g id="XMLID_36_">
+		<g id="XMLID_883_">
+			<polygon id="XMLID_886_" style="&st15;" points="1.1,2.4 2.1,-0.2 4.8,-0.1 2.7,-2 3.4,-4.4 1.2,-2.9 -1.1,-4.3 -0.5,-1.9 
+				-2.6,-0.1 0.1,-0.2 			"/>
+		</g>
+	</g>
+	<rect x="-8" y="-9" style="&st2;" width="19" height="18"/>
+</symbol>
+<symbol  id="Deleted_Symbol_8" viewBox="-7 -7 13 14">
+	<polygon id="XMLID_882_" style="&st12;" points="4,7 3,7 3,-4 -6,-4 -6,7 -7,7 -7,-5 4,-5 	"/>
+	<polygon id="XMLID_881_" style="&st12;" points="5,4 5,-6 -5,-6 -5,-7 6,-7 6,4 	"/>
+	<rect id="XMLID_880_" x="-2" y="2" style="&st12;" width="3" height="1"/>
+	<rect id="XMLID_879_" x="-4" y="2" style="&st12;" width="1" height="1"/>
+	<rect id="XMLID_878_" x="-2" style="&st12;" width="3" height="1"/>
+	<rect id="XMLID_877_" x="-4" style="&st12;" width="1" height="1"/>
+	<rect id="XMLID_876_" x="-2" y="-2" style="&st12;" width="3" height="1"/>
+	<rect id="XMLID_875_" x="-4" y="-2" style="&st12;" width="1" height="1"/>
+	<rect id="XMLID_874_" x="-5" y="5" style="&st12;" width="1" height="2"/>
+	<rect id="XMLID_873_" x="-3" y="5" style="&st12;" width="1" height="2"/>
+	<rect id="XMLID_16_" x="-1" y="5" style="&st12;" width="1" height="2"/>
+	<rect id="XMLID_14_" x="1" y="5" style="&st12;" width="1" height="2"/>
+	<rect x="-7" y="-7" style="&st2;" width="13" height="14"/>
+</symbol>
+<symbol  id="Deleted_Symbol_9" viewBox="-11 -9 18 18">
+	<g id="XMLID_898_">
+		<polygon id="XMLID_899_" style="&st35;" points="-3.4,-5.1 -5.9,-2.4 -4.8,-1.4 -3.4,-2.9 0.4,1.2 1.5,0.2 		"/>
+	</g>
+	<path id="XMLID_894_" style="&st4;" d="M2,8v1h-8V8h-5V-9H7V8H2z M-5,8h6V5h-6V8z M6,5H4V4h2V-8h-16V4h2v1h-2v2h4V4h8v3h4V5z"/>
+	<rect x="-11" y="-9" style="&st2;" width="18" height="18"/>
+</symbol>
+<symbol  id="Picture_-_Les_4" viewBox="-16.8 -20 40 40">
+	
+		<image style="overflow:visible;" width="277" height="277" id="XMLID_5011_" xlink:href="data:image/jpeg;base64,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" transform="matrix(0.1444 0 0 -0.1444 -16.7744 20)">
+	</image>
+</symbol>
+<symbol  id="add" viewBox="-9 -9 18 17">
+	<circle style="&st5;" cx="-0.5" cy="-0.5" r="8"/>
+	<line style="&st5;" x1="-0.5" y1="3" x2="-0.5" y2="-4"/>
+	<line style="&st5;" x1="3" y1="-0.5" x2="-4" y2="-0.5"/>
+	<rect x="-9" y="-9" style="&st2;" width="18" height="16"/>
+</symbol>
+<symbol  id="body-nav-main-nav" viewBox="-755 -497 160 768">
+	<g id="left_nav_2_">
+		<g id="XMLID_2410_">
+			<rect id="XMLID_2460_" x="-755" y="-497" style="&st36;" width="160" height="768"/>
+			<g id="XMLID_2416_">
+				<path id="XMLID_2427_" style="&st11;" d="M-711.8,177.2c-0.5,0-1,0.2-1.3,0.6c-0.5,0.5-0.6,1.2-0.4,1.9l13.7,47.7
+					c0.2,0.6,0.6,1.1,1.2,1.2c0.6,0.2,1.2,0,1.8-0.4l19.2-16.9l19.2,17c0.5,0.4,1.1,0.6,1.8,0.4s1.1-0.6,1.2-1.2l13.7-47.7
+					c0.2-0.6,0-1.3-0.4-1.8c-0.4-0.4-1.1-0.7-1.8-0.6l-33.8,6.3l-33.6-6.4C-711.6,177.3-711.7,177.2-711.8,177.2z M-677.6,186
+					c0.1,0,0.2,0,0.3,0l27.4-4.5l-27.7,24.6l-27.6-24.7l27.3,4.6C-677.9,186-677.8,186-677.6,186z M-697.1,223.4l-11.2-38.8
+					l27.7,24.3L-697.1,223.4z M-674.8,208.9l27.7-24.2l-11.1,38.7L-674.8,208.9z"/>
+				<path id="XMLID_2419_" style="&st11;" d="M-677.6,183.7c-0.7,0-1.3,0.4-1.7,1l-20.5,41.2c-0.4,0.9-0.1,2.1,0.8,2.5
+					c0.9,0.4,2.1,0.1,2.5-0.8l18.7-37.8l18.9,37.7c0.4,0.9,1.6,1.3,2.5,0.8c0.9-0.4,1.3-1.6,0.8-2.5l-20.4-41.1
+					C-676.2,184.1-676.9,183.7-677.6,183.7z"/>
+			</g>
+			<text id="XMLID_2413_" transform="matrix(1 0 0 -1 -731.8027 109.5586)"><tspan x="0" y="0" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">DASHBOARD</tspan><tspan x="0" y="36" style="&st106; fill:#8F9AA3; font-size:13px;">PROJECTS</tspan><tspan x="0" y="72" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">TEMPLATES</tspan><tspan x="0" y="108" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">TASKS</tspan><tspan x="0" y="144" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">TIME &amp; EXPENSE</tspan><tspan x="0" y="180" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">BILLING</tspan><tspan x="0" y="216" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">PLANNING</tspan><tspan x="0" y="252" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">ANALYTICS</tspan><tspan x="0" y="288" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">INSIGHTS</tspan><tspan x="0" y="324" style="&st106; fill:#E3E6E8; font-size:13px;">SETTINGS</tspan></text>
+		</g>
+	</g>
+	<rect x="-755" y="-497" style="&st2;" width="160" height="768"/>
+</symbol>
+<symbol  id="body-profile-summary" viewBox="-560.2 -28.9 1121 50">
+	<rect x="-560.2" y="-27.9" style="&st24;" width="1121" height="48"/>
+	<line id="XMLID_3000_" style="&st10;" x1="-560.2" y1="-28.4" x2="560.8" y2="-28.4"/>
+	<line id="XMLID_2996_" style="&st10;" x1="-560.2" y1="20.6" x2="560.8" y2="20.6"/>
+	
+		<text id="XMLID_2994_" transform="matrix(0.98 0 0 -1 365.5587 -8.1963)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jonathan Rubenstein</text>
+	
+		<use xlink:href="#Deleted_Symbol_2"  width="32" height="32.3" id="XMLID_2984_" x="-16" y="-16.3" transform="matrix(1 0 0 1 337.5099 -3.0528)" style="overflow:visible;"/>
+	
+		<use xlink:href="#icon-small-circle-timer_2"  width="22" height="21" id="XMLID_2982_" x="-12" y="-11" transform="matrix(1 0 0 1 91.842 -1.9162)" style="overflow:visible;"/>
+	<text id="XMLID_2980_" transform="matrix(1 0 0 -1 111.5588 -7.5392)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:14px;">0:00</tspan><tspan x="30.9" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;"> </tspan><tspan x="34.3" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">00</tspan></text>
+	
+		<use xlink:href="#icon-small-circle-question_2"  width="22" height="21" id="XMLID_2978_" x="-72" y="-11" transform="matrix(1 0 0 1 271.8419 -2.9162)" style="overflow:visible;"/>
+	<g id="XMLID_2973_">
+		<text transform="matrix(0.98 0 0 -1 233.5581 -8.1973)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Support</text>
+	</g>
+	
+		<use xlink:href="#Deleted_Symbol_22"  width="11" height="5.4" id="XMLID_2970_" x="-5" y="-3" transform="matrix(1 0 0 1 541.842 -3.9162)" style="overflow:visible;"/>
+	
+		<use xlink:href="#Deleted_Symbol_22"  width="11" height="5.4" id="XMLID_2837_" x="-5" y="-3" transform="matrix(1 0 0 1 294.8419 -3.9162)" style="overflow:visible;"/>
+	<line style="&st10;" x1="309.3" y1="-27.9" x2="309.3" y2="21.1"/>
+	<line style="&st10;" x1="189.3" y1="-27.9" x2="189.3" y2="21.1"/>
+	<line style="&st10;" x1="69.3" y1="-27.9" x2="69.3" y2="21.1"/>
+</symbol>
+<symbol  id="calendar" viewBox="-6 -7 12 14">
+	<rect x="-5.5" y="-6.5" style="&st14;" width="11" height="12"/>
+	<line style="&st14;" x1="-5" y1="2.5" x2="5" y2="2.5"/>
+	<line style="&st14;" x1="-5" y1="-0.5" x2="5" y2="-0.5"/>
+	<line style="&st14;" x1="-2.5" y1="3" x2="-2.5" y2="-7"/>
+	<line style="&st14;" x1="2.5" y1="3" x2="2.5" y2="-7"/>
+	<line style="&st14;" x1="-5" y1="-3.5" x2="5" y2="-3.5"/>
+	<line style="&st14;" x1="-3" y1="6.5" x2="-2" y2="6.5"/>
+	<line style="&st14;" x1="2" y1="6.5" x2="3" y2="6.5"/>
+	<rect x="-6" y="-7" style="&st2;" width="12" height="14"/>
+</symbol>
+<symbol  id="downlaod" viewBox="-5 -6 11 12">
+	<polyline style="&st37;" points="-4.5,-4 -4.5,-5.5 5.5,-5.5 5.5,-4 	"/>
+	<line style="&st5;" x1="0.5" y1="1" x2="0.5" y2="6"/>
+	<g>
+		<polygon style="&st4;" points="3.5,1 -2.8,1 0.4,-3.2 3.5,1 		"/>
+	</g>
+	<rect x="-5" y="-6" style="&st2;" width="11" height="12"/>
+</symbol>
+<symbol  id="drop_-_emphasis" viewBox="-5 -3 11 5.4">
+	<g>
+		<g>
+			<g>
+				<polyline style="&st16;" points="5,2 0.5,-2.5 -4,2 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="-5" y="-3" style="&st2;" width="11" height="5"/>
+</symbol>
+<symbol  id="drop_-_small" viewBox="-4 -2.2 9 4.4">
+	<g>
+		<g>
+			<g>
+				<polyline style="&st38;" points="4,1.8 0.5,-1.7 -3,1.8 				"/>
+			</g>
+		</g>
+	</g>
+	<rect x="-4" y="-2" style="&st2;" width="9" height="4"/>
+</symbol>
+<symbol  id="filter-date-picker" viewBox="-127 -135.1 254 270.2">
+	<g id="XMLID_2814_">
+		
+			<image style="overflow:visible;opacity:8.000000e-02;" width="1054" height="1126" xlink:href="data:image/png;base64,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
+b1dEHO54exdPgTukdQcd7nhnj/4u2PM9ysd/Dc6+ZgAA0HyOXJ9C15vBMFok0HtuPVsVcVfvOayy
+TP7x96ozVkTgovVxvmZmQgAA8KjPkbdB4jy4ti6T4DC6Rp/Fh7tcYz3d+Y5ZfZ97VRXHdsJjPggD
+AMAjaJ1C1z2NorrevmZFRJl8zLt4jxkRe97nPfapuFABAADgO+idQlcG19Wja+RD57p8z7X1zVHi
+eIc75aOOQ7Q1AwAAgEewMs/h1o+7vca/54zHvxzf6Q7qzYhY+XMrf8ZWDAAAAB7JynXwh5+IseL4
+wXfi7E5Y+X0AAAB4JIdP8jGucvRFAAAAANe+KccvdocfiugAAAAAX/Za+Ri+cwAAAIDPJ3bNfnRf
+AwAAACnpEGFVBAAAAHwu0Wt1KyIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
+ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
+gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
+AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
+AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
+IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
+iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
+AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
+AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
+IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
+GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
+AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
+AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
+AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
+ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
+gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
+AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
+AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
+IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
+iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
+AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
+AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
+IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
+GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
+AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
+AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
+AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
+ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
+gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
+AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
+AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
+IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
+iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
+AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
+AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
+IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
+GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
+AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
+AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
+AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
+ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
+gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
+AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
+AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
+IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
+iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
+AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
+AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
+IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
+GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
+AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
+AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
+AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
+ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
+gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
+AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
+AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
+IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
+iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
+AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
+AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
+IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
+GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
+AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
+AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
+AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
+ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
+gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
+AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
+AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
+IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
+iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
+AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
+AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
+IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
+GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
+AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
+AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
+AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
+ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
+gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
+AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
+AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
+IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
+iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
+AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
+AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQLgv+zdYW/avAKG4RDY+f9/d2shR5NAb+bZiQPh6QrX
+JUVQCi14++K7jgMAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAA
+AECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBAB
+AAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQI
+EQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABA
+jBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAA
+AMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEA
+AABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQ
+AQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADE
+CBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAA
+QIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEA
+AADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgR
+AAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECM
+EAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAA
+xAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAA
+AECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBAB
+AAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQI
+EQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABA
+jBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAA
+AMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEA
+AABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQ
+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" transform="matrix(0.24 0 0 -0.24 -126.4801 135.1199)">
+		</image>
+		<g>
+			<path style="&st39;" d="M120-125.4c0-1.1-1.1-1.6-2.2-1.6H-118c-1.1,0-2,0.5-2,1.6v243.2c0,1.1,0.9,2.2,2,2.2h34.3
+				c1.1,0,2.7,0.4,3.5,1.1l9.9,8c0.9,0.7,2.2,0.6,3-0.1l9-7.9c0.8-0.7,2.4-1.2,3.5-1.2h172.5c1.1,0,2.2-1.1,2.2-2.2V-125.4z"/>
+			<path style="&st25;" d="M119.5-125.4c0-1.1-0.6-2.1-1.7-2.1H-118c-1.1,0-1.5,1-1.5,2.1v243.2c0,1.1,0.4,1.7,1.5,1.7h34.3
+				c1.1,0,2.7,0.7,3.5,1.4l9.9,8.2c0.9,0.7,2.2,0.7,3,0l9-8.1c0.8-0.7,2.4-1.4,3.5-1.4h172.5c1.1,0,1.7-0.6,1.7-1.7V-125.4z"/>
+		</g>
+	</g>
+	<g id="XMLID_2810_">
+		<text transform="matrix(1 0 0 -1 52.7783 -112.6191)" style="&st40; font-family:'BerninoSans'; font-size:10px;">NEXT YEAR</text>
+	</g>
+	<g id="XMLID_2806_">
+		<text transform="matrix(1 0 0 -1 -105.1035 -112.6191)" style="&st40; font-family:'BerninoSans'; font-size:10px;">PREVIOUS YEAR</text>
+	</g>
+	<g id="XMLID_2800_">
+		<g id="XMLID_2803_">
+			<path style="&st17;" d="M105-90.6c0-0.8-0.6-1.4-1.4-1.4h-207.1c-0.8,0-1.4,0.6-1.4,1.4V73.6c0,0.8,0.6,1.4,1.4,1.4h207.1
+				c0.8,0,1.4-0.6,1.4-1.4V-90.6z"/>
+		</g>
+	</g>
+	<g>
+		<path style="&st41;" d="M95-22.8c0-0.1-0.1-0.2-0.2-0.2H-65.8c-0.1,0-0.2,0.1-0.2,0.2v22.6c0,0.1,0.1,0.2,0.2,0.2H94.8
+			C94.9,0,95-0.1,95-0.2V-22.8z"/>
+	</g>
+	<g>
+		<path style="&st41;" d="M69-52.8c0-0.1-0.1-0.2-0.2-0.2H-97.8c-0.1,0-0.2,0.1-0.2,0.2v22.6c0,0.1,0.1,0.2,0.2,0.2H68.8
+			c0.1,0,0.2-0.1,0.2-0.2V-52.8z"/>
+	</g>
+	<g id="XMLID_2792_">
+		<text transform="matrix(1 0 0 -1 -39.999 90.1348)" style="&st13; &st105; font-family:'BerninoSans';">Mar 2015</text>
+	</g>
+	<g id="XMLID_2787_">
+		<text transform="matrix(1 0 0 -1 -88.3955 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">1</text>
+	</g>
+	<g id="XMLID_2784_">
+		<text transform="matrix(1 0 0 -1 -58.6738 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">2</text>
+	</g>
+	<g id="XMLID_2781_">
+		<text transform="matrix(1 0 0 -1 -31.4531 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">3</text>
+	</g>
+	<g id="XMLID_2778_">
+		<text transform="matrix(1 0 0 -1 -2.1416 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">4</text>
+	</g>
+	<g id="XMLID_2775_">
+		<text transform="matrix(1 0 0 -1 24.8994 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">5</text>
+	</g>
+	<g id="XMLID_2772_">
+		<text transform="matrix(1 0 0 -1 51.7637 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">6</text>
+	</g>
+	<g id="XMLID_2760_">
+		<text transform="matrix(1 0 0 -1 78.4492 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">7</text>
+	</g>
+	<g id="XMLID_2756_">
+		<text transform="matrix(1 0 0 -1 -94.2656 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Su</text>
+	</g>
+	<g id="XMLID_2563_">
+		<text transform="matrix(1 0 0 -1 -66.751 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Mo</text>
+	</g>
+	<g id="XMLID_2536_">
+		<text transform="matrix(1 0 0 -1 -37.1602 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Tu</text>
+	</g>
+	<g id="XMLID_2528_">
+		<text transform="matrix(1 0 0 -1 -9.7324 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">We</text>
+	</g>
+	<g id="XMLID_2514_">
+		<text transform="matrix(1 0 0 -1 19.0195 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Th</text>
+	</g>
+	<g id="XMLID_2504_">
+		<text transform="matrix(1 0 0 -1 46.5918 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Fr</text>
+	</g>
+	<g id="XMLID_2422_">
+		<text transform="matrix(1 0 0 -1 73.6318 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Sa</text>
+	</g>
+	<g id="XMLID_2339_">
+		<text transform="matrix(1 0 0 -1 -88.3945 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">8</text>
+	</g>
+	<g id="XMLID_2335_">
+		<text transform="matrix(1 0 0 -1 -35.085 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">10</text>
+	</g>
+	<g id="XMLID_2325_">
+		<text transform="matrix(1 0 0 -1 -4.8564 -15.2568)" style="&st13; &st106; font-size:12px;">11</text>
+	</g>
+	<g id="XMLID_2310_">
+		<text transform="matrix(1 0 0 -1 21.8926 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">12</text>
+	</g>
+	<g id="XMLID_2307_">
+		<text transform="matrix(1 0 0 -1 49.4639 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">13</text>
+	</g>
+	<g id="XMLID_2305_">
+		<text transform="matrix(1 0 0 -1 76.2383 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">14</text>
+	</g>
+	<g id="XMLID_2296_">
+		<text transform="matrix(1 0 0 -1 -90.8711 -45.2295)" style="&st40; font-family:'BerninoSans'; font-size:12px;">15</text>
+	</g>
+	<g id="XMLID_2269_">
+		<text transform="matrix(1 0 0 -1 -62.2119 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">16</text>
+	</g>
+	<g id="XMLID_2266_">
+		<text transform="matrix(1 0 0 -1 -35.085 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">17</text>
+	</g>
+	<g id="XMLID_2260_">
+		<text transform="matrix(1 0 0 -1 -5.6797 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">18</text>
+	</g>
+	<g id="XMLID_2255_">
+		<text transform="matrix(1 0 0 -1 21.8926 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">19</text>
+	</g>
+	<g id="XMLID_2251_">
+		<text transform="matrix(1 0 0 -1 76.1504 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">21</text>
+	</g>
+	<g id="XMLID_2243_">
+		<text transform="matrix(1 0 0 -1 -90.8711 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">22</text>
+	</g>
+	<g id="XMLID_2234_">
+		<text transform="matrix(1 0 0 -1 -61.1504 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">23</text>
+	</g>
+	<g id="XMLID_2207_">
+		<text transform="matrix(1 0 0 -1 -35.085 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">24</text>
+	</g>
+	<g id="XMLID_2205_">
+		<text transform="matrix(1 0 0 -1 -5.6797 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">25</text>
+	</g>
+	<g id="XMLID_2202_">
+		<text transform="matrix(1 0 0 -1 21.8926 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">26</text>
+	</g>
+	<g id="XMLID_2200_">
+		<text transform="matrix(1 0 0 -1 49.4639 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">27</text>
+	</g>
+	<g id="XMLID_2196_">
+		<text transform="matrix(1 0 0 -1 76.1504 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">28</text>
+	</g>
+	<g id="XMLID_2064_">
+		<g id="XMLID_2067_">
+			<g id="XMLID_2188_">
+				<g>
+					<g id="XMLID_1492_">
+						<polyline style="&st16;" points="72.1,100.6 75.6,97.1 72.1,93.6 						"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<g id="XMLID_2029_">
+		<g>
+			<g id="XMLID_1521_">
+				<g id="XMLID_1522_">
+					<g>
+						<g id="XMLID_1523_">
+							<polyline style="&st16;" points="-74.1,93.6 -77.6,97.1 -74.1,100.6 							"/>
+						</g>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+	<path id="XMLID_1999_" style="&st42;" d="M17.2-49.5"/>
+	<path id="XMLID_1976_" style="&st42;" d="M39.6-49.5"/>
+	<g>
+		<path style="&st11;" d="M-44-21c0-1.1-0.9-2-2-2h-18c-1.1,0-2,0.9-2,2v19c0,1.1,0.9,2,2,2h18c1.1,0,2-0.9,2-2V-21z"/>
+	</g>
+	<g>
+		<path style="&st11;" d="M71-51c0-1.1-0.9-2-2-2H45c-1.1,0-2,0.9-2,2v19c0,1.1,0.9,2,2,2h24c1.1,0,2-0.9,2-2V-51z"/>
+	</g>
+	
+		<text id="XMLID_1968_" transform="matrix(1 0 0 -1 -58.6738 -15.2568)" style="&st17; font-family:'BerninoSans-Bold'; font-size:12px;">9</text>
+	<g id="XMLID_41_">
+		<text transform="matrix(1 0 0 -1 49.4639 -45.2285)" style="&st17; font-family:'BerninoSans-Bold'; font-size:12px;">20</text>
+	</g>
+	<rect x="-127" y="-135" style="&st2;" width="254" height="270"/>
+</symbol>
+<symbol  id="filter-status" viewBox="-80 -157.1 159 315.1">
+	<g id="XMLID_9026_">
+		<g id="XMLID_10452_">
+			
+				<image style="overflow:visible;opacity:7.000000e-02;" width="651" height="1310" xlink:href="data:image/png;base64,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
+AADCEQAA4QgAgHAEAEA4AgAgHAEAQDgCACAcAQAQjgAACEcAAIQjAADCEQAA4QgAAMIRAADhCACA
+cAQAQDgCACAcAQAQjgAACEcAABCOAAAIRwAAhCMAAMIRAADhCACAcAQAQDgCAIBwBABAOAIAIBwB
+ABCOAAAIRwAAhCMAAMIRAACEIwAAwhEAAOEIAIBwBABAOAIAIBwBABCOAAAgHAEAEI4AAAhHAACE
+IwAAwhEAAOEIAIBwBAAA4QgAgHAEAEA4AgAgHAEAEI4AAAhHAACEIwAACEcAAIQjAADCEQAA4QgA
+gHAEAEA4AgAgHAEAQDgCACAcAQAQjgAACEcAAIQjAADCEQAA4QgAAMIRAADhCACAcAQAQDgCACAc
+AQAQjgAACEcAABCOAAAIRwAAhCMAAMIRAADhCACAcAQAQDgCAIBwBABAOAIAIBwBABCOAAAIRwAA
+hCMAAMIRAACEIwAAwhEAAOEIAIBwBABAOAIAIBwBABCOAAAgHAEAEI4AAAhHAACEIwAAwhEAAOEI
+AIBwBAAA4QgAgHAEAEA4AgAgHAEAEI4AAAhHAACEIwAACEcAAIQjAADCEQAA4QgAgHAEAEA4AgAg
+HAEAQDgCACAcAQAQjgAACEcAAIQjAADCEQAA4QgAAMIRAADhCACAcAQAQDgCACAcAQAQjgAACEcA
+ABCOAAAIRwAAhCMAAMIRAADhCACAcAQAQDj6EwAAIBwBABCOAAAIRwAAhCMAAMIRAADhCAAAwhEA
+AOEIAIBwBABAOAIAIBwBABCOAAAIRwAAEI4AAAhHAACEIwAAwhEAAOEIAIBwBABAOAIAgHAEAEA4
+AgAgHAEAEI4AAAhHAACEIwAAwhEAAIQjAADCEQAA4QgAgHAEAEA4AgAgHAEAEI4AACAcAQAQjgAA
+CEcAAIQjAADCEQAA4QgAgHAEAADhCACAcAQAQDgCACAcAQAQjgAACEcAAIQjAAAIRwAAhCMAAMIR
+AADhCACAcAQAQDgCACAcAQBAOAIAIBwBABCOAAAIRwAAhCMAAMIRAADhCAAAwhEAAOEIAIBwBABA
+OAIAIBwBABCOAAAIRwAAEI4AAAhHAACEIwAAwhEAAOEIAIBwBABAOAIAgHAEAEA4AgAgHAEAEI4A
+AAhHAACEIwAAwhEAAIQjAADCEQAA4QgAgHAEAEA4AgAgHAEAEI4AACAcAQAQjgAACEcAAIQjAADC
+EQAA4QgAgHAEAADhCACAcAQAQDgCACAcAQAQjgAACEcAAIQjAAAIRwAAhCMAAMIRAADhCACAcAQA
+QDgCACAcAQBAOAIAIBwBABCOAAAIRwAAhCMAAMIRAADhCAAAwhEAAOEIAIBwBABAOAIAIBwBABCO
+AAAIRwAAEI4AAAhHAACEIwAAwhEAAOEIAIBwBABAOAIAgHAEAEA4AgAgHAEAEI4AAAhHAACEIwAA
+whEAAIQjAADCEQAA4QgAgHAEAEA4AgAgHAEAEI4AACAcAQAQjgAACEcAAIQjAADCEQAA4QgAgHAE
+AADhCACAcAQAQDgCACAcAQAQjgAACEcAAIQjAAAIRwAAhCMAAMIRAADhCACAcAQAQDgCACAcAQBA
+OAIAIBwBABCOAAAIRwAAhCMAAMIRAADhCAAAwhEAAOEIAIBwBABAOAIAIBwBABCOAAAIRwAAEI4A
+AAhHAACEIwAAwhEAAOEIAIBwBABAOAIAgHAEAEA4AgAgHAEAEI4AAAhHAACEIwAAwhEAAIQjAADC
+EQAA4QgAgHAEAEA4AgAgHAEAEI4AACAcAQAQjgAACEcAAIQjAADCEQAA4QgAgHAEAADhCACAcAQA
+QDgCACAcAQAQjgAACEcAAIQjAAAIRwAAhCMAAMIRAADhCACAcAQAQDgCACAcAQBAOAIAIBwBABCO
+AAAIRwAAhCMAAMIRAADhCAAAwhEAAOEIAIBwBABAOAIAIBwBABCOAAAIRwAAEI4AAAhHAACEIwAA
+whEAAOEIAIBwBABAOAIAgHAEAEA4AgAgHAEAEI4AAAhHAACEIwAAwhEAAIQjAADCEQAA4QgAgHAE
+AEA4AgAgHAEAEI7+BAAACEcAAIQjAADCEQAA4QgAgHAEAEA4AgCAcAQAQDgCACAcAQAQjgAACEcA
+AIQjAADCEQAAhCMAAMIRAADhCACAcAQAQDgCACAcAQAQjgAAIBwBABCOAAAIRwAAhCMAAMIRAADh
+CACAcAQAAOEIAIBwBABAOAIAIBwBABCOAAAIRwAAhCMAAAhHAACEIwAAwhEAAOEIAIBwBABAOAIA
+IBwBAEA4AgAgHAEAEI4AAAhHAACEIwAAwhEAAOEIAADCEQAA4QgAgHAEAEA4AgAgHAEAEI4AAAhH
+AAAQjgAACEcAAIQjAADCEQAA4QgAgHAEAEA4AgCAcAQAQDgCACAcAQAQjgAACEcAAIQjAADCEQAA
+hCMAAMIRAADhCACAcAQAQDgCACAcAQAQjgAAIBwBABCOAAAIRwAAhCMAAMIRAADhCACAcAQAAOEI
+AIBwBABAOAIAIBwBABCOAAAIRwAAhCMAAAhHAACEIwAAwhEAAOEIAIBwBABAOAIAIBwBAEA4AgAg
+HAEAEI4AAAhHAACEIwAAwhEAAOEIAADCEQAA4QgAgHAEAEA4AgAgHAEAEI4AAAhHAAAQjgAACEcA
+AIQjAADCEQAA4QgAgHAEAEA4AgCAcAQAQDgCACAcAQAQjgAACEcAAIQjAADCEQAAhCMAAMIRAADh
+CACAcAQAQDgCACAcAQAQjgAAIBwBABCOAAAIRwAAhCMAAMIRAADhCACAcAQAAOEIAIBwBABAOAIA
+IBwBABCOAAAIRwAAhCMAAAhHAACEIwAAwhEAAOEIAIBwBABAOAIAIBwBAEA4AgAgHAEAEI4AAAhH
+AACEIwAAwhEAAOEIAADCEQAA4QgAgHAEAEA4AgAgHAEAEI4AAAhHAAAQjgAACEcAAIQjAADCEQAA
+4QgAgHAEAEA4AgCAcAQAQDgCACAcAQAQjgAACEcAAIQjAADCEQAAhCMAAMIRAADhCACAcAQAQDgC
+ACAcAQAQjgAAIBwBABCOAAAIRwAAhCMAAMIRAADhCACAcAQAAOEIAIBwBABAOAIAIBwBABCOAAAI
+RwAAhCMAAAhHAACEIwAAwhEAAOEIAIBwBABAOAIAIBwBAEA4AgAgHAEAEI4AAAhHAACEIwAAwhEA
+AOEIAADCEQAA4QgAgHAEAEA4AgAgHAEAEI4AAAhHAAAQjgAACEcAAIQjAADCEQAA4QgAgHAEAEA4
+AgCAcAQAQDgCACAcAQAQjgAACEcAAIQjAADCEQAAhCMAAMIRAADhCACAcAQAQDgCACAcAQAQjgAA
+IBwBABCOAAAIRwAAhCMAAMIRAADhCACAcAQAAOEIAIBwBABAOAIAIBwBABCOAAAIRwAAhKM/AQAA
+whEAAOEIAIBwBABAOAIAIBwBABCOAAAgHAEAEI4AAAhHAACEIwAAwhEAAOEIAIBwBAAA4QgAgHAE
+AEA4AgAgHAEAEI4AAAhHAACEIwAACEcAAIQjAADCEQAA4QgAgHAEAEA4AgAgHAEAQDgCACAcAQAQ
+jgAACEcAAIQjAADCEQAA4QgAAMIRAADhCACAcAQAQDgCACAcAQAQjgAACEcAABCOAAAIRwAAhCMA
+AMIRAADhCACAcAQAQDgCAIBwBABAOAIAIBwBABCOAAAIRwAAhCMAAMIRAACEIwAAwhEAAOEIAIBw
+BABAOAIAIBwBABCOAAAgHAEAEI4AAAhHAACEIwAAwhEAAOEIAIBwBAAA4QgAgHAEAEA4AgAgHAEA
+EI4AAAhHAACEIwAACEcAAIQjAADCEQAA4QgAgHAEAEA4AgAgHAEAQDgCACAcAQAQjgAACEcAAIQj
+AADCEQAA4QgAAMIRAADhCACAcAQAQDgCACAcAQAQjgAACEcAABCOAAAIRwAAhCMAAMIRAADhCACA
+cAQAQDgCAIBwBABAOAIAIBwBABCOAAAIRwAAhCMAAMIRAACEIwAAwhEAAOEIAIBwBABAOAIAIBwB
+ABCOAAAgHAEAEI4AAAhHAACEIwAAwhEAAOEIAIBwBAAA4QgAgHAEAEA4AgAgHAEAEI4AAAhHAACE
+IwAACEcAAIQjAADCEQAA4QgAgHAEAEA4AgAgHAEAQDgCACAcAQAQjgAACEcAAIQjAADCEQAA4QgA
+AMIRAADhCACAcAQAQDgCACAcAQAQjgAACEcAABCOAAAIRwAAhCMAAMIRAADhCACAcAQAQDgCAIBw
+BABAOAIAIBwBABCOAAAIRwAAhCMAAMIRAACEIwAAwhEAAOEIAIBwBABAOAIAIBwBABCOAAAgHAEA
+EI4AAAhHAACEIwAAwhEAAOEIAIBwBAAA4QgAgHAEAEA4AgAgHAEAEI4AAAhHAACEIwAACEcAAIQj
+AADCEQAA4QgAgHAEAEA4AgAgHAEAQDgCACAcAQAQjgAACEcAAIQjAADCEQAA4QgAAMIRAADhCACA
+cAQAQDgCACAcAQAQjgAACEcAABCOAAAIRwAAhCMAAMIRAADhCACAcAQAQDgCAIBwBABAOAIAIBwB
+ABCOAAAIRwAAhCMAAMIRAACEIwAAwhEAAOEIAIBwBABAOAIAIBwBABCOAAAgHAEAEI4AAAhHAACE
+IwAAwhEAAOEIAIBwBAAA4QgAgHAEAEA4AgAgHAEAEI4AAAhHAACEIwAACEcAAIQjAADCEQAA4QgA
+gHAEAEA4AgAgHAEAQDgCACAcAQAQjgAACEcAAIQjAADCEQAA4ehPAACAcAQAQDgCACAcAQAQjgAA
+CEcAAIQjAAAIRwAAhCMAAMIRAADhCACAcAQAQDgCACAcAQBAOAIAIBwBABCOAAAIRwAAhCMAAMIR
+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" transform="matrix(0.24 0 0 -0.24 -78.3211 157.3355)">
+			</image>
+			<g>
+				<rect x="-74" y="-151" style="&st17;" width="147" height="305"/>
+				<g>
+					<path style="&st23;" d="M73,154v-305H-74v305H73 M74,155H-74v-307H74V155L74,155z"/>
+				</g>
+			</g>
+		</g>
+		<rect id="XMLID_10451_" x="-74" y="94" style="&st27;" width="147" height="31"/>
+		<g id="XMLID_10442_">
+			<text transform="matrix(1 0 0 -1 -34.9082 106.0635)"><tspan x="0" y="0" style="&st43; font-family:'BerninoSans'; font-size:12px;">Sort ascending</tspan><tspan x="0" y="28" style="&st43; font-family:'BerninoSans'; font-size:12px;">Sort descending</tspan></text>
+		</g>
+		<g id="XMLID_10413_">
+			<text id="XMLID_10441_" transform="matrix(1 0 0 -1 -57.9072 111.0635)"><tspan x="0" y="0" style="&st43; font-family:'BerninoSans'; font-size:8px;">A</tspan><tspan x="0" y="6.6" style="&st43; font-family:'BerninoSans'; font-size:8px;">Z</tspan></text>
+			<g id="XMLID_10437_">
+				<g id="XMLID_10439_">
+					<line id="XMLID_10440_" style="&st44;" x1="-47.5" y1="106" x2="-47.5" y2="112"/>
+				</g>
+				<polygon id="XMLID_10438_" style="&st43;" points="-47.4,114.5 -44.9,111 -49.9,111 				"/>
+			</g>
+		</g>
+		<g id="XMLID_9283_">
+			<text transform="matrix(1 0 0 -1 -57.9072 83.0635)"><tspan x="0" y="0" style="&st43; font-family:'BerninoSans'; font-size:8px;">Z</tspan><tspan x="0" y="6.6" style="&st43; font-family:'BerninoSans'; font-size:8px;">A</tspan></text>
+		</g>
+		<g id="XMLID_9122_">
+			<g id="XMLID_9155_">
+				<line id="XMLID_9265_" style="&st44;" x1="-47.5" y1="87" x2="-47.5" y2="81"/>
+			</g>
+			<polygon id="XMLID_9132_" style="&st43;" points="-47.4,77.5 -49.9,81 -44.9,81 			"/>
+		</g>
+		
+			<text id="XMLID_9029_" transform="matrix(1 0 0 -1 -59.5166 132.2412)" style="fill:#9D9D9D; font-family:'BerninoSans'; font-size:10px;">SORT</text>
+		
+			<text id="XMLID_9027_" transform="matrix(1 0 0 -1 34.7471 132.2412)" style="&st11; font-family:'BerninoSans'; font-size:10px;">Clear</text>
+	</g>
+	<g id="XMLID_9002_">
+		<text transform="matrix(1 0 0 -1 -35.0322 -24.312)"><tspan x="0" y="0" style="&st43; font-family:'BerninoSans'; font-size:12px;">Blocked</tspan><tspan x="0" y="33.4" style="&st43; font-family:'BerninoSans'; font-size:12px;">Not Started</tspan><tspan x="0" y="66.8" style="&st43; font-family:'BerninoSans'; font-size:12px;">Started</tspan><tspan x="0" y="100.2" style="&st43; font-family:'BerninoSans'; font-size:12px;">Complete</tspan></text>
+	</g>
+	<line id="XMLID_8991_" style="&st45;" x1="-73" y1="59.5" x2="72" y2="59.5"/>
+	<g id="XMLID_8461_">
+		
+			<use xlink:href="#Deleted_Symbol_3"  width="13" height="13" id="XMLID_8986_" x="-8" y="-8" transform="matrix(1 0 0 1 -50 -19)" style="overflow:visible;"/>
+		
+			<use xlink:href="#Deleted_Symbol_3"  width="13" height="13" id="XMLID_8984_" x="-8" y="-8" transform="matrix(1 0 0 1 -50 -85)" style="overflow:visible;"/>
+		
+			<use xlink:href="#Deleted_Symbol_3"  width="13" height="13" id="XMLID_8886_" x="-8" y="-8" transform="matrix(1 0 0 1 -50 -119)" style="overflow:visible;"/>
+		
+			<use xlink:href="#icon-checkbox-off"  width="13" height="13" id="XMLID_8812_" x="-7" y="-7" transform="matrix(1 0 0 1 -51 -53)" style="overflow:visible;"/>
+	</g>
+	
+		<text id="XMLID_8364_" transform="matrix(1 0 0 -1 -58.876 33.8755)" style="fill:#9D9D9D; font-family:'BerninoSans'; font-size:10px;">Filter</text>
+	<g id="XMLID_7315_">
+		<text transform="matrix(1 0 0 -1 -58.876 10.2817)" style="&st43; font-family:'BerninoSans'; font-size:12px;">By Status</text>
+	</g>
+	<text id="XMLID_7314_" transform="matrix(1 0 0 -1 14.0879 33.8755)"><tspan x="0" y="0" style="fill:#448FEE; font-family:'BerninoSans'; font-size:10px;">All</tspan><tspan x="12.1" y="0" style="fill:#9D9D9D; font-family:'BerninoSans'; font-size:10px;"> | </tspan><tspan x="20.7" y="0" style="fill:#448FEE; font-family:'BerninoSans'; font-size:10px;">Clear</tspan></text>
+	<rect id="XMLID_10461_" x="-80" y="-157" style="&st2;" width="159" height="315"/>
+</symbol>
+<symbol  id="filter-subitem-menu" viewBox="-189 -229 378 457">
+	<rect id="XMLID_1834_" x="-188.5" y="-228.5" style="&st46;" width="377" height="456"/>
+	<rect id="XMLID_1135_" x="-188" y="117" style="&st39;" width="376" height="28"/>
+	<path d="M-161.5,193.8l-3.3,3c0.8,1,1.2,2.2,1.2,3.5c0,3.2-2.6,5.8-5.8,5.8s-5.8-2.6-5.8-5.8s2.6-5.8,5.8-5.8
+		c1.3,0,2.5,0.4,3.5,1.2c0.3-0.3,0.6-0.5,0.6-0.5l2.6-2.5C-161.9,192-160.6,192.9-161.5,193.8z M-173.7,200.3c0,2.4,1.9,4.3,4.3,4.3
+		s4.3-1.9,4.3-4.3s-1.9-4.3-4.3-4.3S-173.7,197.9-173.7,200.3z"/>
+	<g id="XMLID_1128_">
+		<polyline id="XMLID_1133_" style="&st47;" points="-162,161.5 -158.5,161.5 -158.5,149.5 -171.5,149.5 -171.5,161.5 -169,161.5 		
+			"/>
+		<rect id="XMLID_1132_" x="-168.5" y="159.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_1130_" style="&st48;" points="-167.4,155.4 -165.9,153.8 -162.6,157.4 		"/>
+	</g>
+	<g id="XMLID_1086_">
+		<polyline id="XMLID_1119_" style="&st47;" points="-162,109.5 -158.5,109.5 -158.5,97.5 -171.5,97.5 -171.5,109.5 -169,109.5 		
+			"/>
+		<rect id="XMLID_1116_" x="-168.5" y="107.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_1114_" style="&st48;" points="-167.4,103.4 -165.9,101.8 -162.6,105.4 		"/>
+	</g>
+	<g id="XMLID_1080_">
+		<polyline id="XMLID_1084_" style="&st47;" points="-162,5.5 -158.5,5.5 -158.5,-6.5 -171.5,-6.5 -171.5,5.5 -169,5.5 		"/>
+		<rect id="XMLID_1082_" x="-168.5" y="3.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_1081_" style="&st48;" points="-167.4,-0.6 -165.9,-2.2 -162.6,1.4 		"/>
+	</g>
+	<g id="XMLID_1043_">
+		<polyline id="XMLID_1065_" style="&st47;" points="-162,-47.5 -158.5,-47.5 -158.5,-59.5 -171.5,-59.5 -171.5,-47.5 -169,-47.5 		
+			"/>
+		<rect id="XMLID_1045_" x="-168.5" y="-49.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_1044_" style="&st48;" points="-167.4,-53.6 -165.9,-55.2 -162.6,-51.6 		"/>
+	</g>
+	<g id="XMLID_1039_">
+		<polyline id="XMLID_1042_" style="&st47;" points="-162,-177.5 -158.5,-177.5 -158.5,-189.5 -171.5,-189.5 -171.5,-177.5 
+			-169,-177.5 		"/>
+		<rect id="XMLID_1041_" x="-168.5" y="-179.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_1040_" style="&st48;" points="-167.4,-183.6 -165.9,-185.2 -162.6,-181.6 		"/>
+	</g>
+	<g id="XMLID_1007_">
+		<polyline id="XMLID_1038_" style="&st47;" points="-143,83.5 -139.5,83.5 -139.5,71.5 -152.5,71.5 -152.5,83.5 -150,83.5 		"/>
+		<rect id="XMLID_1022_" x="-149.5" y="81.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_1013_" style="&st48;" points="-148.4,77.4 -146.9,75.8 -143.6,79.4 		"/>
+	</g>
+	<g id="XMLID_1002_">
+		<polyline id="XMLID_1006_" style="&st47;" points="-143,57.5 -139.5,57.5 -139.5,45.5 -152.5,45.5 -152.5,57.5 -150,57.5 		"/>
+		<rect id="XMLID_1005_" x="-149.5" y="55.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_1004_" style="&st48;" points="-148.4,51.4 -146.9,49.8 -143.6,53.4 		"/>
+	</g>
+	<g id="XMLID_996_">
+		<polyline id="XMLID_1000_" style="&st47;" points="-143,-72.5 -139.5,-72.5 -139.5,-84.5 -152.5,-84.5 -152.5,-72.5 -150,-72.5 		
+			"/>
+		<rect id="XMLID_999_" x="-149.5" y="-74.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_998_" style="&st48;" points="-148.4,-78.6 -146.9,-80.2 -143.6,-76.6 		"/>
+	</g>
+	<g id="XMLID_974_">
+		<polyline id="XMLID_994_" style="&st47;" points="-143,-97.5 -139.5,-97.5 -139.5,-109.5 -152.5,-109.5 -152.5,-97.5 -150,-97.5 
+					"/>
+		<rect id="XMLID_983_" x="-149.5" y="-99.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_981_" style="&st48;" points="-148.4,-103.6 -146.9,-105.2 -143.6,-101.6 		"/>
+	</g>
+	<g id="XMLID_960_">
+		<polyline id="XMLID_972_" style="&st47;" points="-124,-123.5 -120.5,-123.5 -120.5,-135.5 -133.5,-135.5 -133.5,-123.5 
+			-131,-123.5 		"/>
+		<rect id="XMLID_970_" x="-130.5" y="-125.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_963_" style="&st48;" points="-129.4,-129.6 -127.9,-131.2 -124.6,-127.6 		"/>
+	</g>
+	<g id="XMLID_945_">
+		<polyline id="XMLID_957_" style="&st47;" points="-124,-149.5 -120.5,-149.5 -120.5,-161.5 -133.5,-161.5 -133.5,-149.5 
+			-131,-149.5 		"/>
+		<rect id="XMLID_956_" x="-130.5" y="-151.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_951_" style="&st48;" points="-129.4,-155.6 -127.9,-157.2 -124.6,-153.6 		"/>
+	</g>
+	<g id="XMLID_909_">
+		<polyline id="XMLID_944_" style="&st47;" points="-124,31.5 -120.5,31.5 -120.5,19.5 -133.5,19.5 -133.5,31.5 -131,31.5 		"/>
+		<rect id="XMLID_943_" x="-130.5" y="29.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_942_" style="&st48;" points="-129.4,25.4 -127.9,23.8 -124.6,27.4 		"/>
+	</g>
+	<g id="XMLID_905_">
+		<polyline id="XMLID_908_" style="&st47;" points="-143,-20.5 -139.5,-20.5 -139.5,-32.5 -152.5,-32.5 -152.5,-20.5 -150,-20.5 		
+			"/>
+		<rect id="XMLID_907_" x="-149.5" y="-22.5" style="&st47;" width="7" height="3"/>
+		<polyline id="XMLID_906_" style="&st48;" points="-148.4,-26.6 -146.9,-28.2 -143.6,-24.6 		"/>
+	</g>
+	<g id="XMLID_246_">
+		<polygon id="XMLID_904_" style="&st49;" points="-172.5,136.5 -172.5,124.5 -157.5,124.5 -157.5,136.5 -160.9,139.5 -169.7,139.5 
+					"/>
+		<line id="XMLID_903_" style="&st47;" x1="-172" y1="136.5" x2="-158" y2="136.5"/>
+		<polygon id="XMLID_664_" style="&st50;" points="-165.3,134.8 -164.3,132.2 -161.6,132.1 -163.7,130.5 -163,128.1 -165.2,129.6 
+			-167.5,128.1 -166.9,130.5 -168.9,132.1 -166.3,132.2 		"/>
+	</g>
+	<line id="XMLID_243_" style="&st51;" x1="-187" y1="176.5" x2="186" y2="176.5"/>
+	<g>
+		<text transform="matrix(1 0 0 -1 -154.1797 194.3057)" style="&st52; font-family:'BerninoSans-Italic'; font-size:12px;">Search</text>
+	</g>
+	<rect x="-154.2" y="-210.9" style="&st61;" width="266" height="372"/>
+	<text transform="matrix(1 0 0 -1 -154.1797 151.7715)"><tspan x="0" y="0" style="&st13; &st106; font-size:12px;">Detail View</tspan><tspan x="0" y="26" style="&st13; &st106; font-size:12px;">How to show subs/parents in detail</tspan><tspan x="0" y="52" style="&st13; &st106; font-size:12px;">Detirmine description in header</tspan><tspan x="0" y="78" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="78" style="&st13; font-family:'BerninoSans'; font-size:12px;">Determine how to open detail view</tspan><tspan x="0" y="104" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="104" style="&st13; font-family:'BerninoSans'; font-size:12px;">Task Tracker</tspan><tspan x="0" y="130" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="130" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="40" y="130" style="&st13; font-family:'BerninoSans'; font-size:12px;">Bulk Add</tspan><tspan x="0" y="156" style="&st13; &st106; font-size:12px;">Saving personal views</tspan><tspan x="0" y="182" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="182" style="&st13; font-family:'BerninoSans'; font-size:12px;">Options for create a task</tspan><tspan x="0" y="208" style="&st13; &st106; font-size:12px;">Go to project for global task tracker</tspan><tspan x="0" y="234" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="234" style="&st13; font-family:'BerninoSans'; font-size:12px;">Key Commands for Navigation through</tspan><tspan x="0" y="260" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="260" style="&st13; font-family:'BerninoSans'; font-size:12px;">Flatland</tspan><tspan x="0" y="286" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="286" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="40" y="286" style="&st13; font-family:'BerninoSans'; font-size:12px;">Expand/Collapse all below</tspan><tspan x="0" y="312" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="312" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="40" y="312" style="&st13; font-family:'BerninoSans'; font-size:12px;">Pagination</tspan><tspan x="0" y="338" style="&st13; &st106; font-size:12px;">Cascade Changes</tspan></text>
+	<line style="&st51;" x1="-175" y1="12.5" x2="179" y2="12.5"/>
+	<line style="&st51;" x1="-175" y1="-39.5" x2="179" y2="-39.5"/>
+	<line style="&st51;" x1="-180" y1="-168.5" x2="174" y2="-168.5"/>
+	<line id="XMLID_10_" style="&st51;" x1="-187" y1="-197.5" x2="188" y2="-197.5"/>
+	<g>
+		<text transform="matrix(1 0 0 -1 -172.1797 -216.8687)" style="&st52; font-family:'BerninoSans-Italic'; font-size:12px;">15 Parent Items with 453 Subs</text>
+	</g>
+	<rect x="-189" y="-229" style="&st2;" width="378" height="457"/>
+</symbol>
+<symbol  id="icon-archive" viewBox="-7 -7 14 14">
+	<path style="&st26;" d="M-7,3V-7H7V3H-7z M6-6H-6v8H6V-6z"/>
+	<rect x="-6" y="4" style="&st26;" width="12" height="1"/>
+	<rect x="-5" y="6" style="&st26;" width="10" height="1"/>
+	<path style="&st26;" d="M3,0h-6v-3h6V0z M2-2h-4v1h4V-2z"/>
+	<rect x="-7" y="-7" style="&st2;" width="14" height="14"/>
+</symbol>
+<symbol  id="icon-checkbox-off" viewBox="-7 -7 13 13">
+	<rect id="XMLID_810_" x="-6.5" y="-6.5" style="&st5;" width="12" height="12"/>
+	<rect x="-7" y="-7" style="&st2;" width="13" height="13"/>
+</symbol>
+<symbol  id="icon-checkbox-on" viewBox="-7 -7 13 13">
+	<rect id="XMLID_921_" x="-6.5" y="-6.5" style="&st6;" width="12" height="12"/>
+	<polyline id="XMLID_900_" style="&st7;" points="-3.5,-0.5 -1.5,-2.5 3.5,2.5 	"/>
+	<rect x="-7" y="-7" style="&st2;" width="13" height="13"/>
+</symbol>
+<symbol  id="icon-link" viewBox="-7 -6.3 14 12.7">
+	<path id="XMLID_889_" style="&st53;" d="M-3.4,0l-2.6,2.5C-6.3,2.9-6.2,3.7-5.9,4l1.5,1.5c0.4,0.4,1,0.4,1.4,0l4.3-4.2
+		c0.4-0.4,0.4-1,0-1.4l-1-1"/>
+	<path id="XMLID_888_" style="&st53;" d="M3.3-0.1l2.6-2.5c0.4-0.4,0.4-1,0-1.4L4.4-5.5c-0.4-0.4-1-0.4-1.4,0l-4.4,4.1
+		c-0.4,0.4-0.3,1,0.1,1.4l1.2,1.2"/>
+	<rect x="-7" y="-6" style="&st2;" width="14" height="12"/>
+</symbol>
+<symbol  id="icon-small-buildings" viewBox="-8 -6 15 12">
+	<path id="XMLID_101_" style="&st4;" d="M0,6V-6h7V6H0z M1,5h2V3H1V5z M1,2h2V0H1V2z M1-1h2v-2H1V-1z M6-3H4v2h2V-3z M6,0H4v2h2V0z
+		 M6,3H4v2h2V3z"/>
+	<path id="XMLID_95_" style="&st4;" d="M-8-6h7v8h-7V-6z M-2-4h-2v2h2V-4z M-2,1v-2h-2v2H-2z M-7,1h2v-2h-2V1z M-7-2h2v-2h-2V-2z"/>
+	<rect x="-8" y="-6" style="&st2;" width="15" height="12"/>
+</symbol>
+<symbol  id="icon-small-calendar" viewBox="-6 -7 11 14">
+	<path id="XMLID_108_" style="&st4;" d="M3,6v1H1V6h-3v1h-2V6h-2V-7H5V6H3z M-5,2h2V0h-2V2z M-2,0v2h3V0H-2z M1-1v-2h-3v2H1z M-5-1
+		h2v-2h-2V-1z M-5-6v2h2v-2H-5z M-2-6v2h3v-2H-2z M4-6H2v2h2V-6z M4-3H2v2h2V-3z M4,0H2v2h2V0z M4,3h-9v2h9V3z"/>
+	<rect x="-6" y="-7" style="&st2;" width="11" height="14"/>
+</symbol>
+<symbol  id="icon-small-circle-question_2" viewBox="-72 -11 22 21">
+	<circle id="XMLID_38_" style="&st54;" cx="-60.6" cy="-0.5" r="10"/>
+	
+		<text id="XMLID_37_" transform="matrix(1 0 0 -1 -63.8115 -4.5195)" style="&st17; font-family:'BerninoSans-Bold'; font-size:12px;">?</text>
+	<rect x="-72" y="-10" style="&st2;" width="22" height="20"/>
+</symbol>
+<symbol  id="icon-small-circle-timer_2" viewBox="-12 -11 22 21">
+	<circle id="XMLID_662_" style="&st55;" cx="-0.5" cy="-0.5" r="10"/>
+	<polygon id="XMLID_39_" style="&st17;" points="-3,-4.2 -3,3.6 3,-0.2 	"/>
+	<rect x="-12" y="-11" style="&st2;" width="22" height="20"/>
+</symbol>
+<symbol  id="icon-small-person-appt" viewBox="-8 -7 15 14">
+	<path id="XMLID_549_" style="&st4;" d="M5,6v1H3V6H1v1h-2V6h-2V5c-2-0.2-3-1.2-3-2.6C-6,0.2-3.6-2-2.5-2C-1.9-2-1-1.2,0-0.2V-1v-1
+		v-0.1C0-2-0.4-2-0.6-2h-3.6C-6.2-2-8-3.5-8-5v-2H3v0.5c0,0,0,1.2,0,1.5c0,0.3-0.1,0.7-0.2,1H3h1.1H7V6H5z M-2.5-1
+		C-3-0.9-5,0.8-5,2.4C-5,3.5-3.6,4-2.3,4C-1.3,4,0,3.6,0,2.3C0,0.6-2-1-2.5-1z M1,2h2V1H1.1H0.7C0.9,1.3,0.9,1.7,1,2z M1,0h2v-1H1V0
+		z M-7-6v1c0,0.8,1.2,2,2.8,2h3.6C0.9-3,2-3.9,2-5c0-0.2,0-0.6,0-1H-7z M2.1-3C1.8-2.7,1.5-2.5,1.1-2.3V-2h2v-1H2.1z M6-3H4v1h2V-3z
+		 M6-1H4v1h2V-1z M6,1H4v1h2V1z M6,3H4.1h-1H0.9C0.6,4.1,0,4.9-2,5v0h8V3z"/>
+	<rect x="-8" y="-7" style="&st2;" width="15" height="14"/>
+</symbol>
+<symbol  id="icon-small-settings-cog" viewBox="-8 -7 16 14">
+	<path id="XMLID_643_" style="&st4;" d="M7,0.3C7,0.8,6.6,1,6.2,1H5.6c-0.5,0-0.9,0.4-1,0.8c-0.1,0.3,0,0.7,0.2,0.9l0.5,0.6
+		c0.3,0.3,0.3,0.8,0,1.2C5.2,4.8,5,5,4.7,5.2c-0.3,0.3-0.9,0.3-1.2,0L3.1,4.7C2.8,4.4,2.4,4.4,2,4.5C1.6,4.7,1.4,5,1.4,5.4l0,0.8
+		C1.3,6.6,1,7,0.5,7C0.3,7,0,7-0.4,7C-0.8,7-1,6.6-1,6.2V5.5c0-0.5-0.4-0.9-0.9-1c-0.3-0.1-0.6,0-0.9,0.2l-0.7,0.5
+		c-0.3,0.3-0.8,0.3-1.2,0C-4.8,5.1-5,4.9-5.2,4.7c-0.3-0.3-0.3-0.9,0-1.2L-4.7,3c0.4-0.4,0.4-0.9,0.1-1.3c-0.2-0.2-0.5-0.4-0.8-0.4
+		l-0.8,0C-6.7,1.2-7,0.9-7,0.4C-7,0.2-7,0-7-0.3C-7-0.7-6.6-1-6.2-1h1c0.3,0,0.7-0.5,0.7-0.9c0-0.4-0.2-0.9-0.8-1.5
+		c-0.3-0.3-0.3-0.9,0-1.2c0.2-0.2,0.4-0.5,0.6-0.7c0.3-0.3,0.9-0.3,1.2,0L-3-4.8c0.3,0.3,0.8,0.4,1.1,0.2c0.3-0.2,0.6-0.5,0.6-0.9
+		l0-0.8C-1.2-6.7-0.8-7-0.3-7h0.2c0.2,0,0.4,0,0.6,0C0.9-7,1-6.6,1-6.2v0.7c0,0.4,0.4,0.8,0.7,0.9c0.3,0.1,0.7,0.1,1-0.2l0.7-0.5
+		c0.3-0.3,0.9-0.3,1.2,0c0.2,0.2,0.5,0.4,0.6,0.6c0.3,0.3,0.3,0.8,0,1.2L4.9-3.1c-0.3,0.3-0.4,0.7-0.3,1C4.7-1.7,5-1.3,5.5-1.3
+		l0.7,0C6.7-1.2,7-1,7-0.5C7-0.3,7,0,7,0.3z M0-3.1c-1.7,0-3,1.4-3,3s1.4,3,3,3s3-1.4,3-3S1.7-3.1,0-3.1z"/>
+	<rect x="-8" y="-7" style="&st2;" width="16" height="14"/>
+</symbol>
+<symbol  id="icon-trash" viewBox="-7 -8 13 15">
+	<g id="XMLID_9_">
+		<g id="XMLID_940_">
+			<path id="XMLID_941_" style="&st53;" d="M4.5-5.4c0-0.8-1-2.1-1.8-2.1h-6.2c-0.5,0-2,1-2,2.1v8.9h10V-5.4z"/>
+		</g>
+		<line id="XMLID_928_" style="&st53;" x1="-2.5" y1="1" x2="-2.5" y2="-5"/>
+		<line id="XMLID_131_" style="&st53;" x1="-0.5" y1="1" x2="-0.5" y2="-5"/>
+		<line id="XMLID_130_" style="&st53;" x1="1.5" y1="1" x2="1.5" y2="-5"/>
+		<line id="XMLID_129_" style="&st53;" x1="-7" y1="5.5" x2="6" y2="5.5"/>
+		<line id="XMLID_128_" style="&st53;" x1="-4" y1="6.5" x2="3" y2="6.5"/>
+	</g>
+	<rect x="-7" y="-8" style="&st2;" width="13" height="15"/>
+</symbol>
+<symbol  id="menu-right-click" viewBox="-91 -135.1 182 270.3">
+	<g>
+		<g id="XMLID_1293_">
+			
+				<image style="overflow:visible;opacity:7.000000e-02;" width="753" height="1121" xlink:href="data:image/png;base64,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
+EPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg
+7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDY
+AwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAH
+AABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQAAYQ8A
+AMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAA
+hD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAI
+ewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2
+AAAg7AEAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwB
+AEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAA
+gLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAA
+YQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADC
+HgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9
+AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4A
+ABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAAMIeAACEPQAA
+IOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA
+2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICw
+BwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAAGEP
+AADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcA
+AIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAA
+CHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ
+9gAAIOwBAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDs
+AQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYA
+AICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEA
+AGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAA
+wh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACE
+PQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIe
+AAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAADCHgAAhD0A
+ACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAA
+QNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACA
+sAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAABh
+DwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAH
+AACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8A
+AAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAA
+EPYAACDsAQAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg
+7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2
+AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwB
+AABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMA
+AMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAA
+hD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADC
+HgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwAAwh4AAIQ9
+AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsA
+AEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAA
+gLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQAA
+YQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICw
+BwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEP
+AAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4A
+ABD2AAAg7AEAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAA
+IOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ
+9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDs
+AQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgD
+AADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcA
+AIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAA
+wh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAAMIeAACE
+PQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7
+AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYA
+AICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEA
+AGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCA
+sAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABh
+DwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIe
+AAAQ9gAAIOwBAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0A
+ACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAA
+EPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg
+7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDY
+AwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAH
+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
+QmCC" transform="matrix(0.24 0 0 -0.24 -90.3597 133.9048)">
+			</image>
+			<g>
+				<rect x="-86" y="-129" style="&st17;" width="172" height="260"/>
+				<g>
+					<path style="&st41;" d="M85,130v-259H-85v259H85 M86,131H-86v-261H86V131L86,131z"/>
+				</g>
+			</g>
+		</g>
+		<rect id="XMLID_1284_" x="-85" y="64" style="&st39;" width="170" height="32"/>
+		<g id="XMLID_1152_">
+			<path id="XMLID_1260_" style="&st56;" d="M-71.2-79l-2.6,2.5c-0.4,0.4-0.3,1.1,0.1,1.5l1.5,1.5c0.4,0.4,1,0.4,1.4,0l4.3-4.2
+				c0.4-0.4,0.4-1,0-1.4l-1-1"/>
+			<path id="XMLID_1259_" style="&st56;" d="M-64.5-79.2l2.6-2.5c0.4-0.4,0.4-1,0-1.4l-1.5-1.5c-0.4-0.4-1-0.4-1.4,0l-4.4,4.1
+				c-0.4,0.4-0.3,1,0.1,1.4l1.2,1.2"/>
+		</g>
+		<g id="XMLID_1062_">
+			<g id="XMLID_1147_">
+				<path id="XMLID_1150_" style="&st57;" d="M-62.5-20.3c0-0.8-1-1.2-1.8-1.2h-7c-0.5,0-1.2,0.2-1.2,1.2v9.8h10V-20.3z"/>
+			</g>
+			<line id="XMLID_1144_" style="&st57;" x1="-69.5" y1="-13" x2="-69.5" y2="-19"/>
+			<line id="XMLID_1075_" style="&st57;" x1="-67.5" y1="-13" x2="-67.5" y2="-19"/>
+			<line id="XMLID_1074_" style="&st57;" x1="-65.5" y1="-13" x2="-65.5" y2="-19"/>
+			<line id="XMLID_1064_" style="&st57;" x1="-74" y1="-8.5" x2="-61" y2="-8.5"/>
+			<line id="XMLID_1063_" style="&st57;" x1="-71" y1="-7.5" x2="-64" y2="-7.5"/>
+		</g>
+		<g>
+			<path style="&st58;" d="M-75-44v-10h14v10H-75z M-62-53h-12v8h12V-53z"/>
+			<rect x="-74" y="-43" style="&st58;" width="12" height="1"/>
+			<rect x="-73" y="-41" style="&st58;" width="10" height="1"/>
+			<path style="&st58;" d="M-65-47h-6v-3h6V-47z M-66-49h-4v1h4V-49z"/>
+		</g>
+		<g>
+			<path id="XMLID_1060_" style="&st56;" d="M-65.6,17.4l4.3-1.9l-6.5-4.4l-6.6,3.3l4.4,2.7"/>
+			<path id="XMLID_1058_" style="&st56;" d="M-67.8,16l-2.1,1l-4.5,2.2l6.6,4l6.4-2.8L-67.8,16z"/>
+		</g>
+		<g>
+			<path style="&st56;" d="M-69.7-104.8c1.1,0,2.2-0.9,2.2-2v-8.2c0-1.1-1-2-2.1-2"/>
+			<path style="&st56;" d="M-65.7-116.9c-1.1,0-1.8,0.9-1.8,2v8.2c0,1.1,0.8,2,1.9,2"/>
+			<line style="&st56;" x1="-69" y1="-110.5" x2="-67" y2="-110.5"/>
+		</g>
+		<g>
+			<path style="&st56;" d="M-61.3,120.8"/>
+			<path style="&st56;" d="M-74.3,120.8"/>
+			<line id="XMLID_1057_" style="&st56;" x1="-67.5" y1="118" x2="-67.5" y2="105"/>
+			<line id="XMLID_1056_" style="&st56;" x1="-61" y1="111.5" x2="-74" y2="111.5"/>
+			<line id="XMLID_1055_" style="&st56;" x1="-62.5" y1="119" x2="-62.5" y2="114"/>
+			<polyline style="&st56;" points="-65.3,115.9 -62.8,119 -60.3,115.9 			"/>
+		</g>
+		<g>
+			<g id="XMLID_1050_">
+				<line id="XMLID_1054_" style="&st56;" x1="-67.5" y1="89" x2="-67.5" y2="76"/>
+				<line id="XMLID_1053_" style="&st56;" x1="-61" y1="82.5" x2="-74" y2="82.5"/>
+				<path style="&st56;" d="M-64.3,73.9"/>
+				<line id="XMLID_1052_" style="&st56;" x1="-62.5" y1="75" x2="-62.5" y2="80"/>
+				<polyline style="&st56;" points="-60.3,77.8 -62.8,74.8 -65.3,77.8 				"/>
+			</g>
+		</g>
+		<path style="&st58;" d="M-62,48v5h-5v-3h-3v5h2v1h-5v-1h2V43h4v-1h5v5h-5v-3h-3v5h3v-1H-62z M-66,50.6V52h3v-3h-3V50.6z M-66,45.3
+			V46h3v-3h-3V45.3z"/>
+		<g>
+			<rect x="-49.3" y="-123.3" style="&st61;" width="127.6" height="241.6"/>
+			<text transform="matrix(1 0 0 -1 -49.3022 109.0356)"><tspan x="0" y="0" style="&st13; font-family:'BerninoSans'; font-size:12px;">Add above</tspan><tspan x="0" y="32" style="&st13; font-family:'BerninoSans'; font-size:12px;">Add below</tspan><tspan x="0" y="64" style="&st13; font-family:'BerninoSans'; font-size:12px;">Add Sub-Item</tspan><tspan x="0" y="96" style="&st13; font-family:'BerninoSans'; font-size:12px;">Add from template</tspan><tspan x="0" y="128" style="&st13; font-family:'BerninoSans'; font-size:12px;">Remove</tspan><tspan x="0" y="160" style="&st13; font-family:'BerninoSans'; font-size:12px;">Archive</tspan><tspan x="0" y="192" style="&st13; font-family:'BerninoSans'; font-size:12px;">Permalink</tspan><tspan x="0" y="224" style="&st13; font-family:'BerninoSans'; font-size:12px;">Rename</tspan></text>
+		</g>
+		<path style="&st59;" d="M-57.6,114.9"/>
+	</g>
+	<circle style="&st60;" cx="84.3" cy="133.8" r="1.3"/>
+	<circle style="&st60;" cx="78.3" cy="133.8" r="1.3"/>
+	<circle style="&st60;" cx="72.3" cy="133.8" r="1.3"/>
+	
+		<use xlink:href="#Deleted_Symbol_4"  width="11" height="16" x="-5.5" y="-8" transform="matrix(1 0 0 1 76 126)" style="overflow:visible;"/>
+	<rect x="-91" y="-135" style="&st2;" width="182" height="270"/>
+</symbol>
+<symbol  id="pointer_-_hover_11" viewBox="-5.5 -8 11 16">
+	
+		<image style="overflow:visible;" width="11" height="16" id="pointer_xA0_Image_2_" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAwAAAAQCAYAAAAiYZ4HAAAACXBIWXMAAAsSAAALEgHS3X78AAAA
+GXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAQpJREFUeNqMUssKglAQ1bwSgVG4
+CCL6hMBlRnt/ol8JdRO0aNeqVoUfI64Et0K0chtoBAndzpiFhd0aOM6DOXfGmZE45w5/iCP9IYw+
+ruuSsvM8b6iqSsSbkEDiOEWBOUiSiMSqzj8k9hn4RWJ1ZUUk9u3nvpGYaIR1JPZr7p8kYUu2bVdD
+cyz3VjfWl/Z93zNN0yv7PwOHt8VZluWV7qwkzcIwvBqGsYWdU6BR3ARKUzJe2yuK8jZ3TdMuUAlw
+BE4SHV0URRs4U2ACjOI4XqMCh81Jp2m6gN0sxirL8hK6D3SAlF7Rdf1crZJlGSW3nm2R0wMGQLvc
+TTdJkhXdfBAEO/hjYEi5dwEGAOQaidNQdlfvAAAAAElFTkSuQmCC" transform="matrix(1 0 0 -1 -5.5 8)">
+	</image>
+</symbol>
+<symbol  id="small_trash__can" viewBox="-6 -7 11 13">
+	<g>
+		<path style="&st57;" d="M3.5-4.4c0-0.8-1.2-2.1-2-2.1h-4c-0.5,0-2,1-2,2.1v6.9h8V-4.4z"/>
+	</g>
+	<line style="&st57;" x1="-2.5" y1="0" x2="-2.5" y2="-4"/>
+	<line style="&st57;" x1="-0.5" y1="0" x2="-0.5" y2="-4"/>
+	<line style="&st57;" x1="1.5" y1="0" x2="1.5" y2="-4"/>
+	<line style="&st57;" x1="-6" y1="4.5" x2="5" y2="4.5"/>
+	<line style="&st57;" x1="-3" y1="5.5" x2="2" y2="5.5"/>
+	<rect x="-6" y="-7" style="&st2;" width="11" height="13"/>
+</symbol>
+<pattern  x="-160" y="-1421" width="2.1" height="3.1" patternUnits="userSpaceOnUse" id="Unnamed_Pattern" viewBox="0 -3.1 2.1 3.1" style="overflow:visible;">
+	<g>
+		<rect y="-3.1" style="&st61;" width="2.1" height="3.1"/>
+		<rect x="0" y="-1.1" style="&st62;" width="1.1" height="1.1"/>
+		<rect x="0" y="-3.1" style="&st62;" width="1.1" height="1.1"/>
+		<rect x="1" y="-2.1" style="&st62;" width="1.1" height="1.1"/>
+	</g>
+</pattern>
+<rect x="48.1" y="-81.2" style="&st61;" width="355.7" height="140.9"/>
+<text transform="matrix(1 0 0 1 48.1475 -65.478)"><tspan x="0" y="0" style="&st36; &st104; &st105;">Create a project and start planning tasks, </tspan><tspan x="0" y="24" style="&st36; &st104; &st105;">resources and budgets to  </tspan><tspan x="0" y="48" style="&st36; &st104; &st105;">complete your goals.</tspan></text>
+<g>
+	<path style="&st64;" d="M237.9,82.1h-186c-2.1,0-3.7-1.7-3.7-3.7V29.8c0-2.1,1.7-3.7,3.7-3.7h186c2.1,0,3.7,1.7,3.7,3.7v48.6
+		C241.6,80.4,239.9,82.1,237.9,82.1z"/>
+	<g>
+		<text transform="matrix(1 0 0 1 69.8132 60.0354)" style="&st17; &st106; &st105;">Create a Project</text>
+	</g>
+</g>
+</svg>
