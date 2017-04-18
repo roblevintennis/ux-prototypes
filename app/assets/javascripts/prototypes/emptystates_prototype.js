@@ -1,5 +1,7 @@
 $( document ).ready(function() {
-  document.getElementById("cta").addEventListener("click", function(){
-    alert("You did something!");
+  $(".load.one").addClass("loaded");
+  document.getElementById("my-btn").addEventListener("click", function(){
+    $(".load.one").addClass("hide");
+    $(".load.two").addClass("loaded");
   });
 });
