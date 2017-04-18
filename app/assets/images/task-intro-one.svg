@@ -67,6 +67,7 @@
 	<!ENTITY st63 "fill:#232323;">
 	<!ENTITY Primary_x0020__x002D__x0020_Default "fill:#448FEA;">
 	<!ENTITY Secondary_x0020__x002D__x0020_Active "fill:#448FEA;stroke:#448FEA;">
+	<!ENTITY Secondary_x0020__x002D__x0020_Hover "fill:#5B9DED;stroke:#5B9DED;">
 	<!ENTITY st64 "fill:#002642;">
 	<!ENTITY st65 "fill:#448FDA;">
 	<!ENTITY st66 "fill:#585858;">
@@ -95,16 +96,16 @@
 	<!ENTITY st89 "fill:#808D8F;">
 	<!ENTITY st90 "fill:#707B7C;">
 	<!ENTITY st91 "clip-path:url(#SVGID_4_);">
-	<!ENTITY st92 "fill:none;stroke:#00A9F2;stroke-miterlimit:10;">
-	<!ENTITY st93 "fill:#00A9F2;">
-	<!ENTITY st94 "fill:#E6E7E7;">
-	<!ENTITY st95 "fill:#2B3D52;">
-	<!ENTITY st96 "fill:#92A4A4;">
-	<!ENTITY st97 "fill:#00436B;">
-	<!ENTITY st98 "fill:#00AAF4;">
-	<!ENTITY st99 "fill:#01A9F2;">
-	<!ENTITY st100 "fill:#014773;">
-	<!ENTITY st101 "fill:#738989;">
+	<!ENTITY st92 "fill:#00A9F2;">
+	<!ENTITY st93 "fill:#E6E7E7;">
+	<!ENTITY st94 "fill:#2B3D52;">
+	<!ENTITY st95 "fill:#92A4A4;">
+	<!ENTITY st96 "fill:#00436B;">
+	<!ENTITY st97 "fill:#00AAF4;">
+	<!ENTITY st98 "fill:#01A9F2;">
+	<!ENTITY st99 "fill:#014773;">
+	<!ENTITY st100 "fill:#738989;">
+	<!ENTITY st101 "fill:none;stroke:#737373;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
 	<!ENTITY st102 "fill:none;stroke:#00A9F2;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
 	<!ENTITY st103 "fill:#231F20;">
 	<!ENTITY st104 "opacity:0.2;fill:#448FEA;">
@@ -132,6 +133,16 @@
 	<!ENTITY st126 "font-size:18px;">
 	<!ENTITY st127 "font-family:'Merriweather';">
 	<!ENTITY st128 "font-size:30px;">
+	<!ENTITY st129 "fill:none;stroke:#FF8400;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st130 "fill:none;stroke:#448FEA;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st131 "fill:none;stroke:#E85342;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st132 "fill:none;stroke:#33AE10;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;">
+	<!ENTITY st133 "fill:none;stroke:#5B9DED;">
+	<!ENTITY st134 "fill:#5B9DED;">
+	<!ENTITY st135 "font-family:'BerninoSans';">
+	<!ENTITY st136 "font-size:12px;">
+	<!ENTITY st137 "fill:none;stroke:#448FEA;stroke-width:4;">
+	<!ENTITY st138 "fill:#737373;stroke:#737373;stroke-miterlimit:10;">
 ]>
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1120px" height="549px" viewBox="0 0 1120 549" style="enable-background:new 0 0 1120 549;" xml:space="preserve">
@@ -195,22 +206,22 @@
 	<line id="XMLID_3523_" style="&st10;" x1="-561.3" y1="-50" x2="559.7" y2="-50"/>
 	<rect id="XMLID_3521_" x="-458.3" y="0.5" style="&st11;" width="99" height="3"/>
 	<g id="XMLID_3515_">
-		<text transform="matrix(1 0 0 -1 -116.5 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Time  &amp; Expenses</text>
+		<text transform="matrix(1 0 0 -1 -116.5 9.2549)" style="&st12; &st135; &st136;">Time  &amp; Expenses</text>
 	</g>
 	<g id="XMLID_3511_">
-		<text transform="matrix(1 0 0 -1 -332.5 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Gantt</text>
+		<text transform="matrix(1 0 0 -1 -332.5 9.2549)" style="&st12; &st135; &st136;">Gantt</text>
 	</g>
 	<g id="XMLID_3507_">
-		<text transform="matrix(1 0 0 -1 -260.5 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Resource Planning</text>
+		<text transform="matrix(1 0 0 -1 -260.5 9.2549)" style="&st12; &st135; &st136;">Resource Planning</text>
 	</g>
 	<g id="XMLID_3496_">
-		<text transform="matrix(1 0 0 -1 22.5 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Files</text>
+		<text transform="matrix(1 0 0 -1 22.5 9.2549)" style="&st12; &st135; &st136;">Files</text>
 	</g>
 	<g id="XMLID_3493_">
-		<text transform="matrix(1 0 0 -1 -526.2471 9.2549)" style="&st12; font-family:'BerninoSans'; font-size:12px;">Activity</text>
+		<text transform="matrix(1 0 0 -1 -526.2471 9.2549)" style="&st12; &st135; &st136;">Activity</text>
 	</g>
 	<g id="XMLID_3475_">
-		<text transform="matrix(1 0 0 -1 -440.5811 9.2549)" style="&st13; font-family:'BerninoSans'; font-size:12px;">Task Tracker</text>
+		<text transform="matrix(1 0 0 -1 -440.5811 9.2549)" style="&st13; &st135; &st136;">Task Tracker</text>
 	</g>
 	<g id="XMLID_3451_">
 		<g>
@@ -225,7 +236,7 @@
 		<circle id="XMLID_3443_" style="&st14;" cx="535" cy="55.8" r="4.3"/>
 	</g>
 	
-		<text id="XMLID_3438_" transform="matrix(1 0 0 -1 -526.8535 79.5747)" style="&st15; font-family:'BerninoSans-Semibold'; font-size:12px;">In Progress  60% </text>
+		<text id="XMLID_3438_" transform="matrix(1 0 0 -1 -526.8535 79.5747)" style="&st15; &st136; font-family:'BerninoSans-Semibold';">In Progress  60% </text>
 	<g id="XMLID_3050_">
 		<circle id="XMLID_3425_" style="&st14;" cx="534.1" cy="24.5" r="10"/>
 		<g id="XMLID_3056_">
@@ -252,7 +263,7 @@
 	<g>
 		<path style="&st11;" d="M541.7-39.4c0-1.2-1-2.2-2.2-2.2h-98.7c-1.2,0-2.2,1-2.2,2.2v27.7c0,1.2,1,2.2,2.2,2.2h98.7
 			c1.2,0,2.2-1,2.2-2.2V-39.4z"/>
-		<text transform="matrix(1 0 0 -1 474.2227 -29.2642)" style="&st17; font-family:'BerninoSans-Semibold'; font-size:12px;">Add Item</text>
+		<text transform="matrix(1 0 0 -1 474.2227 -29.2642)" style="&st17; &st136; font-family:'BerninoSans-Semibold';">Add Item</text>
 		<g>
 			<g>
 				<line style="&st18;" x1="450.7" y1="-26" x2="459.7" y2="-26"/>
@@ -264,7 +275,7 @@
 		<g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 -1 -359.0449 -27.6997)" style="&st13; font-family:'BerninoSans'; font-size:12px;">Configure</text>
+					<text transform="matrix(1 0 0 -1 -359.0449 -27.6997)" style="&st13; &st135; &st136;">Configure</text>
 				</g>
 			</g>
 		</g>
@@ -276,13 +287,13 @@
 			<g>
 				<g>
 					<g>
-						<text transform="matrix(1 0 0 -1 -524.5 -27.7236)" style="&st13; font-family:'BerninoSans-Bold'; font-size:12px;">Item Info View</text>
+						<text transform="matrix(1 0 0 -1 -524.5 -27.7236)" style="&st13; &st136; font-family:'BerninoSans-Bold';">Item Info View</text>
 					</g>
 				</g>
 			</g>
 		</g>
 		<line style="&st10;" x1="-376.8" y1="0.5" x2="-376.8" y2="-50.5"/>
-		<text transform="matrix(1 0 0 -1 -160.5806 -27.6875)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Search</text>
+		<text transform="matrix(1 0 0 -1 -160.5806 -27.6875)" style="&st4; &st136; font-family:'BerninoSans-Italic';">Search</text>
 		<g>
 			<circle style="&st20;" cx="-179.1" cy="-21.2" r="5"/>
 			<line style="&st20;" x1="-176.1" y1="-25.1" x2="-171.4" y2="-29.8"/>
@@ -291,7 +302,7 @@
 		<g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 -1 -255.0449 -27.6997)" style="&st13; font-family:'BerninoSans'; font-size:12px;">Sort</text>
+					<text transform="matrix(1 0 0 -1 -255.0449 -27.6997)" style="&st13; &st135; &st136;">Sort</text>
 				</g>
 			</g>
 		</g>
@@ -304,7 +315,7 @@
 	<g>
 		<g>
 			<g>
-				<text transform="matrix(1 0 0 -1 303.6631 -29.7168)" style="&st13; font-family:'BerninoSans'; font-size:12px;">Export</text>
+				<text transform="matrix(1 0 0 -1 303.6631 -29.7168)" style="&st13; &st135; &st136;">Export</text>
 			</g>
 		</g>
 	</g>
@@ -706,12 +717,12 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<rect x="-15" y="-275" style="&st11;" width="31" height="5"/>
 		<g>
-			<text transform="matrix(1 0 0 -1 -183.8379 -259.8496)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">|&lt;</tspan><tspan x="9.7" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:23;">	</tspan><tspan x="36" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">&lt;</tspan><tspan x="42.8" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:26;">	</tspan><tspan x="72" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">...</tspan><tspan x="79.6" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:25;">	</tspan><tspan x="108" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">2</tspan><tspan x="113.5" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:27;">	</tspan><tspan x="144" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">3</tspan><tspan x="149.3" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:27;">	</tspan><tspan x="180" y="0" style="&st26; font-family:'BerninoSans-Semibold'; font-size:10px;">4</tspan><tspan x="186.2" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:26;">	</tspan><tspan x="216" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">5</tspan><tspan x="221.4" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:27;">	</tspan><tspan x="252" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">6 </tspan><tspan x="260.9" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:24;">	</tspan><tspan x="288" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">...</tspan><tspan x="295.6" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:25;">	</tspan><tspan x="324" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">&gt;</tspan><tspan x="330.8" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px; letter-spacing:26;">	</tspan><tspan x="360" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">&gt;|</tspan></text>
+			<text transform="matrix(1 0 0 -1 -183.8379 -259.8496)"><tspan x="0" y="0" style="&st26; &st135; font-size:10px;">|&lt;</tspan><tspan x="9.7" y="0" style="&st26; &st135; font-size:10px; letter-spacing:23;">	</tspan><tspan x="36" y="0" style="&st26; &st135; font-size:10px;">&lt;</tspan><tspan x="42.8" y="0" style="&st26; &st135; font-size:10px; letter-spacing:26;">	</tspan><tspan x="72" y="0" style="&st26; &st135; font-size:10px;">...</tspan><tspan x="79.6" y="0" style="&st26; &st135; font-size:10px; letter-spacing:25;">	</tspan><tspan x="108" y="0" style="&st26; &st135; font-size:10px;">2</tspan><tspan x="113.5" y="0" style="&st26; &st135; font-size:10px; letter-spacing:27;">	</tspan><tspan x="144" y="0" style="&st26; &st135; font-size:10px;">3</tspan><tspan x="149.3" y="0" style="&st26; &st135; font-size:10px; letter-spacing:27;">	</tspan><tspan x="180" y="0" style="&st26; font-family:'BerninoSans-Semibold'; font-size:10px;">4</tspan><tspan x="186.2" y="0" style="&st26; &st135; font-size:10px; letter-spacing:26;">	</tspan><tspan x="216" y="0" style="&st26; &st135; font-size:10px;">5</tspan><tspan x="221.4" y="0" style="&st26; &st135; font-size:10px; letter-spacing:27;">	</tspan><tspan x="252" y="0" style="&st26; &st135; font-size:10px;">6 </tspan><tspan x="260.9" y="0" style="&st26; &st135; font-size:10px; letter-spacing:24;">	</tspan><tspan x="288" y="0" style="&st26; &st135; font-size:10px;">...</tspan><tspan x="295.6" y="0" style="&st26; &st135; font-size:10px; letter-spacing:25;">	</tspan><tspan x="324" y="0" style="&st26; &st135; font-size:10px;">&gt;</tspan><tspan x="330.8" y="0" style="&st26; &st135; font-size:10px; letter-spacing:26;">	</tspan><tspan x="360" y="0" style="&st26; &st135; font-size:10px;">&gt;|</tspan></text>
 		</g>
 		<g>
 			<g>
 				<g>
-					<text transform="matrix(1 0 0 -1 427.1836 -261.585)" style="&st26; font-family:'BerninoSans'; font-size:10px;">SHOW 50 PER PAGE</text>
+					<text transform="matrix(1 0 0 -1 427.1836 -261.585)" style="&st26; &st135; font-size:10px;">SHOW 50 PER PAGE</text>
 				</g>
 			</g>
 		</g>
@@ -750,12 +761,12 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<g>
 			<g id="XMLID_3035_">
-				<text transform="matrix(1 0 0 -1 392.0015 122.8926)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+				<text transform="matrix(1 0 0 -1 392.0015 122.8926)" style="&st26; &st135; &st136;">Jun 02 </text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_3030_">
-				<text transform="matrix(1 0 0 -1 464.2515 122.8926)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 03</text>
+				<text transform="matrix(1 0 0 -1 464.2515 122.8926)" style="&st26; &st135; &st136;">Jun 03</text>
 			</g>
 		</g>
 		<g>
@@ -764,16 +775,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 			<circle style="&st27;" cx="526.4" cy="126.5" r="1.3"/>
 		</g>
 		<g id="XMLID_3023_">
-			<text transform="matrix(1 0 0 -1 164.0483 121.8867)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</text>
+			<text transform="matrix(1 0 0 -1 164.0483 121.8867)" style="&st26; &st135; &st136;">Development</text>
 		</g>
 		<g id="XMLID_2998_">
-			<text transform="matrix(1 0 0 -1 277.0015 121.8867)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Scott W</text>
+			<text transform="matrix(1 0 0 -1 277.0015 121.8867)" style="&st26; &st135; &st136;">Scott W</text>
 		</g>
 		<g id="XMLID_2981_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 121.6133)" style="&st30; font-family:'BerninoSans'; font-size:12px;">Started</text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 121.6133)" style="&st30; &st135; &st136;">Started</text>
 		</g>
 		<g id="XMLID_2975_">
-			<text transform="matrix(1 0 0 -1 108.5054 121.8867)" style="&st26; font-family:'BerninoSans'; font-size:12px;">60%</text>
+			<text transform="matrix(1 0 0 -1 108.5054 121.8867)" style="&st26; &st135; &st136;">60%</text>
 		</g>
 		<circle style="&st30;" cx="-11" cy="125.7" r="4"/>
 		<g id="XMLID_2972_">
@@ -813,13 +824,13 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<g>
 			<g id="XMLID_2951_">
-				<text transform="matrix(1 0 0 -1 392.0015 -237.2783)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 04</text>
+				<text transform="matrix(1 0 0 -1 392.0015 -237.2783)" style="&st26; &st135; &st136;">Jun 04</text>
 			</g>
 		</g>
 		<g>
 			<g>
 				<g id="XMLID_3280_">
-					<text transform="matrix(1 0 0 -1 464.2515 -237.2725)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Add</text>
+					<text transform="matrix(1 0 0 -1 464.2515 -237.2725)" style="&st4; &st136; font-family:'BerninoSans-Italic';">Add</text>
 				</g>
 			</g>
 		</g>
@@ -831,16 +842,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 		
 			<use xlink:href="#icon-small-calendar"  width="11" height="14" id="XMLID_2929_" x="-6" y="-7" transform="matrix(1 0 0 1 498 -232)" style="overflow:visible;"/>
 		<g id="XMLID_2925_">
-			<text transform="matrix(1 0 0 -1 164.0493 -237.5967)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Executive</text>
+			<text transform="matrix(1 0 0 -1 164.0493 -237.5967)" style="&st26; &st135; &st136;">Executive</text>
 		</g>
 		<g id="XMLID_2919_">
-			<text transform="matrix(1 0 0 -1 277.0024 -237.5967)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Martha C</text>
+			<text transform="matrix(1 0 0 -1 277.0024 -237.5967)" style="&st26; &st135; &st136;">Martha C</text>
 		</g>
 		<g id="XMLID_2896_">
-			<text transform="matrix(1 0 0 -1 108.5044 -237.5908)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+			<text transform="matrix(1 0 0 -1 108.5044 -237.5908)" style="&st4; &st136; font-family:'BerninoSans-Italic';">0%</text>
 		</g>
 		<g id="XMLID_2886_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 -237.5908)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Not Started</text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -237.5908)" style="&st26; &st135; &st136;">Not Started</text>
 		</g>
 		<circle style="&st26;" cx="-11" cy="-232.3" r="4"/>
 		<g id="XMLID_2884_">
@@ -880,12 +891,12 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<g>
 			<g id="XMLID_2847_">
-				<text transform="matrix(1 0 0 -1 392.0015 -102.5234)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+				<text transform="matrix(1 0 0 -1 392.0015 -102.5234)" style="&st26; &st135; &st136;">Jun 02 </text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_2832_">
-				<text transform="matrix(1 0 0 -1 464.2515 -102.5234)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 18</text>
+				<text transform="matrix(1 0 0 -1 464.2515 -102.5234)" style="&st26; &st135; &st136;">Jun 18</text>
 			</g>
 		</g>
 		<g>
@@ -894,16 +905,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 			<circle style="&st27;" cx="526.4" cy="-97.3" r="1.3"/>
 		</g>
 		<g id="XMLID_2823_">
-			<text transform="matrix(1 0 0 -1 164.0483 -103.2285)" style="&st26; font-family:'BerninoSans'; font-size:12px;">No Tags</text>
+			<text transform="matrix(1 0 0 -1 164.0483 -103.2285)" style="&st26; &st135; &st136;">No Tags</text>
 		</g>
 		<g id="XMLID_2817_">
-			<text transform="matrix(1 0 0 -1 277.0015 -103.2285)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Christy K</text>
+			<text transform="matrix(1 0 0 -1 277.0015 -103.2285)" style="&st26; &st135; &st136;">Christy K</text>
 		</g>
 		<g id="XMLID_2790_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 -103.502)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Not Started</text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -103.502)" style="&st26; &st135; &st136;">Not Started</text>
 		</g>
 		<g id="XMLID_2777_">
-			<text transform="matrix(1 0 0 -1 108.5054 -103.4961)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+			<text transform="matrix(1 0 0 -1 108.5054 -103.4961)" style="&st4; &st136; font-family:'BerninoSans-Italic';">0%</text>
 		</g>
 		<circle style="&st26;" cx="-11" cy="-98.2" r="4"/>
 		<g id="XMLID_2758_">
@@ -942,10 +953,10 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	</g>
 	<g>
 		<g id="XMLID_2620_">
-			<text transform="matrix(1 0 0 -1 392.0015 167.9707)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			<text transform="matrix(1 0 0 -1 392.0015 167.9707)" style="&st26; &st135; &st136;">Jun 02 </text>
 		</g>
 		<g id="XMLID_2562_">
-			<text transform="matrix(1 0 0 -1 464.2515 167.9707)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+			<text transform="matrix(1 0 0 -1 464.2515 167.9707)" style="&st26; &st135; &st136;">Jun 02 </text>
 		</g>
 		<g>
 			<circle style="&st27;" cx="538.4" cy="171.6" r="1.3"/>
@@ -954,16 +965,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 		</g>
 		<g>
 			<g id="XMLID_2534_">
-				<text transform="matrix(1 0 0 -1 164.0483 166.9902)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Design</text>
+				<text transform="matrix(1 0 0 -1 164.0483 166.9902)" style="&st26; &st135; &st136;">Design</text>
 			</g>
 			<g id="XMLID_2526_">
-				<text transform="matrix(1 0 0 -1 277.0015 166.9961)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Unassigned</text>
+				<text transform="matrix(1 0 0 -1 277.0015 166.9961)" style="&st4; &st136; font-family:'BerninoSans-Italic';">Unassigned</text>
 			</g>
 			<g id="XMLID_2502_">
-				<text transform="matrix(1 0 0 -1 1.464844e-03 166.7168)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Not Started</text>
+				<text transform="matrix(1 0 0 -1 1.464844e-03 166.7168)" style="&st26; &st135; &st136;">Not Started</text>
 			</g>
 			<g id="XMLID_2468_">
-				<text transform="matrix(1 0 0 -1 108.5054 166.7227)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+				<text transform="matrix(1 0 0 -1 108.5054 166.7227)" style="&st4; &st136; font-family:'BerninoSans-Italic';">0%</text>
 			</g>
 			<circle style="&st26;" cx="-11" cy="170.6" r="4"/>
 		</g>
@@ -1006,12 +1017,12 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<g>
 			<g id="XMLID_2437_">
-				<text transform="matrix(1 0 0 -1 392.0015 213.7217)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+				<text transform="matrix(1 0 0 -1 392.0015 213.7217)" style="&st26; &st135; &st136;">Jun 02 </text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_2420_">
-				<text transform="matrix(1 0 0 -1 464.2515 213.7217)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 05</text>
+				<text transform="matrix(1 0 0 -1 464.2515 213.7217)" style="&st26; &st135; &st136;">Jun 05</text>
 			</g>
 		</g>
 		<g>
@@ -1021,16 +1032,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 		</g>
 		<g>
 			<g id="XMLID_2412_">
-				<text transform="matrix(1 0 0 -1 1.464844e-03 212.4912)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Not Started</text>
+				<text transform="matrix(1 0 0 -1 1.464844e-03 212.4912)" style="&st4; &st136; font-family:'BerninoSans-Italic';">Not Started</text>
 			</g>
 			<g id="XMLID_2402_">
-				<text transform="matrix(1 0 0 -1 108.5054 212.4971)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+				<text transform="matrix(1 0 0 -1 108.5054 212.4971)" style="&st4; &st136; font-family:'BerninoSans-Italic';">0%</text>
 			</g>
 			<g id="XMLID_2394_">
-				<text transform="matrix(1 0 0 -1 164.0493 212.7666)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Design, HR</text>
+				<text transform="matrix(1 0 0 -1 164.0493 212.7666)" style="&st26; &st135; &st136;">Design, HR</text>
 			</g>
 			<g id="XMLID_2375_">
-				<text transform="matrix(1 0 0 -1 277.0015 212.7705)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">Unassigned</text>
+				<text transform="matrix(1 0 0 -1 277.0015 212.7705)" style="&st4; &st136; font-family:'BerninoSans-Italic';">Unassigned</text>
 			</g>
 			<circle style="&st5;" cx="-11" cy="216.1" r="4"/>
 		</g>
@@ -1077,25 +1088,25 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 		<circle style="&st26;" cx="526.4" cy="82" r="1.3"/>
 		<g>
 			<g id="XMLID_2306_">
-				<text transform="matrix(1 0 0 -1 392.0015 78.1875)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+				<text transform="matrix(1 0 0 -1 392.0015 78.1875)" style="&st26; &st135; &st136;">Jun 02 </text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_2258_">
-				<text transform="matrix(1 0 0 -1 464.2515 78.1875)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 05</text>
+				<text transform="matrix(1 0 0 -1 464.2515 78.1875)" style="&st26; &st135; &st136;">Jun 05</text>
 			</g>
 		</g>
 		<g id="XMLID_2242_">
-			<text transform="matrix(1 0 0 -1 164.0483 77.1562)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</text>
+			<text transform="matrix(1 0 0 -1 164.0483 77.1562)" style="&st26; &st135; &st136;">Development</text>
 		</g>
 		<g id="XMLID_2203_">
-			<text transform="matrix(1 0 0 -1 277.0015 77.1562)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Katlyn C</text>
+			<text transform="matrix(1 0 0 -1 277.0015 77.1562)" style="&st26; &st135; &st136;">Katlyn C</text>
 		</g>
 		<g id="XMLID_2193_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 76.8828)" style="&st31; font-family:'BerninoSans'; font-size:12px;">Completed</text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 76.8828)" style="&st31; &st135; &st136;">Completed</text>
 		</g>
 		<g id="XMLID_2182_">
-			<text transform="matrix(1 0 0 -1 108.5054 77.1562)" style="&st26; font-family:'BerninoSans'; font-size:12px;">100%</text>
+			<text transform="matrix(1 0 0 -1 108.5054 77.1562)" style="&st26; &st135; &st136;">100%</text>
 		</g>
 		<circle style="&st31;" cx="-11" cy="81.3" r="4"/>
 		
@@ -1137,12 +1148,12 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<g>
 			<g id="XMLID_2027_">
-				<text transform="matrix(1 0 0 -1 392.0015 32.9541)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+				<text transform="matrix(1 0 0 -1 392.0015 32.9541)" style="&st26; &st135; &st136;">Jun 02 </text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_2023_">
-				<text transform="matrix(1 0 0 -1 464.2515 32.9541)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+				<text transform="matrix(1 0 0 -1 464.2515 32.9541)" style="&st26; &st135; &st136;">Jun 02 </text>
 			</g>
 		</g>
 		<g>
@@ -1151,16 +1162,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 			<circle style="&st27;" cx="526.4" cy="37.5" r="1.3"/>
 		</g>
 		<g id="XMLID_2019_">
-			<text transform="matrix(1 0 0 -1 164.0483 31.8994)" style="&st26; font-family:'BerninoSans'; font-size:12px;">UI Development</text>
+			<text transform="matrix(1 0 0 -1 164.0483 31.8994)" style="&st26; &st135; &st136;">UI Development</text>
 		</g>
 		<g id="XMLID_2012_">
-			<text transform="matrix(1 0 0 -1 277.0015 31.8994)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Scott W</text>
+			<text transform="matrix(1 0 0 -1 277.0015 31.8994)" style="&st26; &st135; &st136;">Scott W</text>
 		</g>
 		<g id="XMLID_2000_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 31.626)" style="&st30; font-family:'BerninoSans'; font-size:12px;">Started </text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 31.626)" style="&st30; &st135; &st136;">Started </text>
 		</g>
 		<g id="XMLID_1972_">
-			<text transform="matrix(1 0 0 -1 108.5054 31.8994)" style="&st26; font-family:'BerninoSans'; font-size:12px;">30%</text>
+			<text transform="matrix(1 0 0 -1 108.5054 31.8994)" style="&st26; &st135; &st136;">30%</text>
 		</g>
 		<circle style="&st30;" cx="-11" cy="35.7" r="4"/>
 		<g id="XMLID_1967_">
@@ -1209,12 +1220,12 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<g>
 			<g id="XMLID_1952_">
-				<text transform="matrix(1 0 0 -1 392.0015 -9.291)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02</text>
+				<text transform="matrix(1 0 0 -1 392.0015 -9.291)" style="&st26; &st135; &st136;">Jun 02</text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_1453_">
-				<text transform="matrix(1 0 0 -1 464.2515 -9.291)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+				<text transform="matrix(1 0 0 -1 464.2515 -9.291)" style="&st26; &st135; &st136;">Jun 02 </text>
 			</g>
 		</g>
 		<g>
@@ -1223,16 +1234,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 			<circle style="&st27;" cx="526.4" cy="-4.5" r="1.3"/>
 		</g>
 		<g id="XMLID_1420_">
-			<text transform="matrix(1 0 0 -1 164.0483 -3.2695)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">UX,  </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</tspan></text>
+			<text transform="matrix(1 0 0 -1 164.0483 -3.2695)"><tspan x="0" y="0" style="&st26; &st135; &st136;">UX,  </tspan><tspan x="0" y="14.4" style="&st26; &st135; &st136;">Development</tspan></text>
 		</g>
 		<g id="XMLID_1401_">
-			<text transform="matrix(1 0 0 -1 277.0015 -10.3691)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Ross M</text>
+			<text transform="matrix(1 0 0 -1 277.0015 -10.3691)" style="&st26; &st135; &st136;">Ross M</text>
 		</g>
 		<g id="XMLID_1390_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 -10.6426)" style="&st30; font-family:'BerninoSans'; font-size:12px;">Started </text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -10.6426)" style="&st30; &st135; &st136;">Started </text>
 		</g>
 		<g id="XMLID_1378_">
-			<text transform="matrix(1 0 0 -1 108.5054 -10.6426)" style="&st26; font-family:'BerninoSans'; font-size:12px;">20%</text>
+			<text transform="matrix(1 0 0 -1 108.5054 -10.6426)" style="&st26; &st135; &st136;">20%</text>
 		</g>
 		<circle style="&st30;" cx="-11" cy="-6.4" r="4"/>
 		<g id="XMLID_1366_">
@@ -1281,12 +1292,12 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<g>
 			<g id="XMLID_1354_">
-				<text transform="matrix(1 0 0 -1 392.0015 -54.3115)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 02 </text>
+				<text transform="matrix(1 0 0 -1 392.0015 -54.3115)" style="&st26; &st135; &st136;">Jun 02 </text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_1326_">
-				<text transform="matrix(1 0 0 -1 464.2515 -54.3115)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 03</text>
+				<text transform="matrix(1 0 0 -1 464.2515 -54.3115)" style="&st26; &st135; &st136;">Jun 03</text>
 			</g>
 		</g>
 		<g>
@@ -1295,16 +1306,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 			<circle style="&st27;" cx="526.4" cy="-49.6" r="1.3"/>
 		</g>
 		<g id="XMLID_1314_">
-			<text transform="matrix(1 0 0 -1 164.0483 -48.2607)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">Production, </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</tspan></text>
+			<text transform="matrix(1 0 0 -1 164.0483 -48.2607)"><tspan x="0" y="0" style="&st26; &st135; &st136;">Production, </tspan><tspan x="0" y="14.4" style="&st26; &st135; &st136;">Development</tspan></text>
 		</g>
 		<g id="XMLID_1301_">
-			<text transform="matrix(1 0 0 -1 277.0015 -55.2607)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Scott W</text>
+			<text transform="matrix(1 0 0 -1 277.0015 -55.2607)" style="&st26; &st135; &st136;">Scott W</text>
 		</g>
 		<g id="XMLID_1296_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 -55.5342)" style="&st30; font-family:'BerninoSans'; font-size:12px;">Started </text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -55.5342)" style="&st30; &st135; &st136;">Started </text>
 		</g>
 		<g id="XMLID_1292_">
-			<text transform="matrix(1 0 0 -1 108.5054 -55.2607)" style="&st26; font-family:'BerninoSans'; font-size:12px;">60%</text>
+			<text transform="matrix(1 0 0 -1 108.5054 -55.2607)" style="&st26; &st135; &st136;">60%</text>
 		</g>
 		<circle style="&st30;" cx="-11" cy="-51.3" r="4"/>
 		<g id="XMLID_1291_">
@@ -1349,12 +1360,12 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<g>
 		<g>
 			<g id="XMLID_1287_">
-				<text transform="matrix(1 0 0 -1 392.0015 -145.5234)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 03 </text>
+				<text transform="matrix(1 0 0 -1 392.0015 -145.5234)" style="&st26; &st135; &st136;">Jun 03 </text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_1283_">
-				<text transform="matrix(1 0 0 -1 464.2515 -145.5234)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 08</text>
+				<text transform="matrix(1 0 0 -1 464.2515 -145.5234)" style="&st26; &st135; &st136;">Jun 08</text>
 			</g>
 		</g>
 		<g>
@@ -1363,16 +1374,16 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 			<circle style="&st27;" cx="526.4" cy="-140.8" r="1.3"/>
 		</g>
 		<g id="XMLID_1276_">
-			<text transform="matrix(1 0 0 -1 164.0483 -139.4531)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">UX, User  </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Research, Des...</tspan></text>
+			<text transform="matrix(1 0 0 -1 164.0483 -139.4531)"><tspan x="0" y="0" style="&st26; &st135; &st136;">UX, User  </tspan><tspan x="0" y="14.4" style="&st26; &st135; &st136;">Research, Des...</tspan></text>
 		</g>
 		<g id="XMLID_1272_">
-			<text transform="matrix(1 0 0 -1 277.0015 -138.8535)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">Graham G, Jose S, </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Arturo P</tspan></text>
+			<text transform="matrix(1 0 0 -1 277.0015 -138.8535)"><tspan x="0" y="0" style="&st26; &st135; &st136;">Graham G, Jose S, </tspan><tspan x="0" y="14.4" style="&st26; &st135; &st136;">Arturo P</tspan></text>
 		</g>
 		<g id="XMLID_1261_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 -145.7266)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Not Started</text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -145.7266)" style="&st26; &st135; &st136;">Not Started</text>
 		</g>
 		<g id="XMLID_1205_">
-			<text transform="matrix(1 0 0 -1 108.5054 -145.7207)" style="&st4; font-family:'BerninoSans-Italic'; font-size:12px;">0%</text>
+			<text transform="matrix(1 0 0 -1 108.5054 -145.7207)" style="&st4; &st136; font-family:'BerninoSans-Italic';">0%</text>
 		</g>
 		<circle style="&st26;" cx="-11" cy="-140.2" r="4"/>
 		<g id="XMLID_1204_">
@@ -1430,25 +1441,25 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 		</g>
 		<g>
 			<g id="XMLID_1138_">
-				<text transform="matrix(1 0 0 -1 392.0015 -192.8467)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 04</text>
+				<text transform="matrix(1 0 0 -1 392.0015 -192.8467)" style="&st26; &st135; &st136;">Jun 04</text>
 			</g>
 		</g>
 		<g>
 			<g id="XMLID_1131_">
-				<text transform="matrix(1 0 0 -1 464.2515 -192.8467)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jun 04</text>
+				<text transform="matrix(1 0 0 -1 464.2515 -192.8467)" style="&st26; &st135; &st136;">Jun 04</text>
 			</g>
 		</g>
 		<g id="XMLID_1079_">
-			<text transform="matrix(1 0 0 -1 164.0483 -186.9697)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;">Design, </tspan><tspan x="0" y="14.4" style="&st26; font-family:'BerninoSans'; font-size:12px;">Development</tspan></text>
+			<text transform="matrix(1 0 0 -1 164.0483 -186.9697)"><tspan x="0" y="0" style="&st26; &st135; &st136;">Design, </tspan><tspan x="0" y="14.4" style="&st26; &st135; &st136;">Development</tspan></text>
 		</g>
 		<g id="XMLID_1077_">
-			<text transform="matrix(1 0 0 -1 277.0015 -193.0342)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Scott W</text>
+			<text transform="matrix(1 0 0 -1 277.0015 -193.0342)" style="&st26; &st135; &st136;">Scott W</text>
 		</g>
 		<g id="XMLID_1073_">
-			<text transform="matrix(1 0 0 -1 1.464844e-03 -193.3076)" style="&st31; font-family:'BerninoSans'; font-size:12px;">Completed</text>
+			<text transform="matrix(1 0 0 -1 1.464844e-03 -193.3076)" style="&st31; &st135; &st136;">Completed</text>
 		</g>
 		<g id="XMLID_1071_">
-			<text transform="matrix(1 0 0 -1 108.5054 -193.0342)" style="&st26; font-family:'BerninoSans'; font-size:12px;">100%</text>
+			<text transform="matrix(1 0 0 -1 108.5054 -193.0342)" style="&st26; &st135; &st136;">100%</text>
 		</g>
 		<circle style="&st31;" cx="-11" cy="-188.5" r="4"/>
 		<g id="XMLID_1070_">
@@ -1498,10 +1509,10 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	<line id="XMLID_1066_" style="&st10;" x1="514.5" y1="284" x2="514.5" y2="251"/>
 	<line id="XMLID_1047_" style="&st10;" x1="453.5" y1="284" x2="453.5" y2="251"/>
 	<g id="XMLID_1030_">
-		<text transform="matrix(1 0 0 -1 464.2524 264.2295)" style="&st33; font-family:'BerninoSans'; font-size:10px;">DUE </text>
+		<text transform="matrix(1 0 0 -1 464.2524 264.2295)" style="&st33; &st135; font-size:10px;">DUE </text>
 	</g>
 	<g id="XMLID_1021_">
-		<text transform="matrix(1 0 0 -1 392.0024 264.2295)" style="&st33; font-family:'BerninoSans'; font-size:10px;">START </text>
+		<text transform="matrix(1 0 0 -1 392.0024 264.2295)" style="&st33; &st135; font-size:10px;">START </text>
 	</g>
 	
 		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_1020_" x="-4" y="-2.2" transform="matrix(1 0 0 1 433 268)" style="overflow:visible;"/>
@@ -1516,20 +1527,20 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	</g>
 	<line id="XMLID_1015_" style="&st10;" x1="264.5" y1="284" x2="264.5" y2="251"/>
 	<g id="XMLID_1012_">
-		<text transform="matrix(1 0 0 -1 164.0483 264.23)" style="&st33; font-family:'BerninoSans'; font-size:10px;">TAGS</text>
+		<text transform="matrix(1 0 0 -1 164.0483 264.23)" style="&st33; &st135; font-size:10px;">TAGS</text>
 	</g>
 	<g id="XMLID_1009_">
-		<text transform="matrix(1 0 0 -1 108.5054 264.23)" style="&st26; font-family:'BerninoSans'; font-size:10px;">%</text>
+		<text transform="matrix(1 0 0 -1 108.5054 264.23)" style="&st26; &st135; font-size:10px;">%</text>
 	</g>
 	<g id="XMLID_986_">
-		<text transform="matrix(1 0 0 -1 277.0024 264.23)" style="&st33; font-family:'BerninoSans'; font-size:10px;">ASSIGNEES</text>
+		<text transform="matrix(1 0 0 -1 277.0024 264.23)" style="&st33; &st135; font-size:10px;">ASSIGNEES</text>
 	</g>
 	<line id="XMLID_984_" style="&st10;" x1="151.5" y1="283" x2="151.5" y2="251"/>
 	
 		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_979_" x="-4" y="-2.2" transform="matrix(1 0 0 1 248 268)" style="overflow:visible;"/>
 	<line id="XMLID_978_" style="&st10;" x1="94.5" y1="284" x2="94.5" y2="251"/>
 	<g id="XMLID_962_">
-		<text transform="matrix(1 0 0 -1 -15.0005 264.23)" style="&st33; font-family:'BerninoSans'; font-size:10px;">STATUS</text>
+		<text transform="matrix(1 0 0 -1 -15.0005 264.23)" style="&st33; &st135; font-size:10px;">STATUS</text>
 	</g>
 	<line id="XMLID_952_" style="&st10;" x1="-27.5" y1="283" x2="-27.5" y2="251"/>
 	
@@ -1539,7 +1550,7 @@ zGnRfP5I+Oda5DCfBzR3QkGfRcgEJGPHIjcxyXkk3Yptsn7FUhL2FCWwvY0K8h9h/wCC/wD/2Q==" tr
 	
 		<use xlink:href="#drop_-_small"  width="9" height="4.4" id="XMLID_936_" x="-4" y="-2.2" transform="matrix(1 0 0 1 367 268)" style="overflow:visible;"/>
 	<g id="XMLID_807_">
-		<text transform="matrix(1 0 0 -1 -502 264)" style="&st33; font-family:'BerninoSans'; font-size:10px;">TITLE </text>
+		<text transform="matrix(1 0 0 -1 -502 264)" style="&st33; &st135; font-size:10px;">TITLE </text>
 	</g>
 	<rect x="-560" y="-275" style="&st2;" width="1121" height="559"/>
 </symbol>
@@ -1784,7 +1795,7 @@ YV6Ra6lqf3H8z/ZgWtmt/Q/t65aGtfLkquizMg1kOOS2P7kPEYf/2Q==" transform="matrix(0.14
 					c0.9,0.4,2.1,0.1,2.5-0.8l18.7-37.8l18.9,37.7c0.4,0.9,1.6,1.3,2.5,0.8c0.9-0.4,1.3-1.6,0.8-2.5l-20.4-41.1
 					C-676.2,184.1-676.9,183.7-677.6,183.7z"/>
 			</g>
-			<text id="XMLID_2413_" transform="matrix(1 0 0 -1 -731.8027 109.5586)"><tspan x="0" y="0" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">DASHBOARD</tspan><tspan x="0" y="36" style="fill:#8F9AA3; font-family:'BerninoSans-Semibold'; font-size:13px;">PROJECTS</tspan><tspan x="0" y="72" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">TEMPLATES</tspan><tspan x="0" y="108" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">TASKS</tspan><tspan x="0" y="144" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">TIME &amp; EXPENSE</tspan><tspan x="0" y="180" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">BILLING</tspan><tspan x="0" y="216" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">PLANNING</tspan><tspan x="0" y="252" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">ANALYTICS</tspan><tspan x="0" y="288" style="fill:#8F9AA3; font-family:'BerninoSans'; font-size:13px;">INSIGHTS</tspan><tspan x="0" y="324" style="fill:#E3E6E8; font-family:'BerninoSans-Semibold'; font-size:13px;">SETTINGS</tspan></text>
+			<text id="XMLID_2413_" transform="matrix(1 0 0 -1 -731.8027 109.5586)"><tspan x="0" y="0" style="&st135; fill:#8F9AA3; font-size:13px;">DASHBOARD</tspan><tspan x="0" y="36" style="fill:#8F9AA3; font-family:'BerninoSans-Semibold'; font-size:13px;">PROJECTS</tspan><tspan x="0" y="72" style="&st135; fill:#8F9AA3; font-size:13px;">TEMPLATES</tspan><tspan x="0" y="108" style="&st135; fill:#8F9AA3; font-size:13px;">TASKS</tspan><tspan x="0" y="144" style="&st135; fill:#8F9AA3; font-size:13px;">TIME &amp; EXPENSE</tspan><tspan x="0" y="180" style="&st135; fill:#8F9AA3; font-size:13px;">BILLING</tspan><tspan x="0" y="216" style="&st135; fill:#8F9AA3; font-size:13px;">PLANNING</tspan><tspan x="0" y="252" style="&st135; fill:#8F9AA3; font-size:13px;">ANALYTICS</tspan><tspan x="0" y="288" style="&st135; fill:#8F9AA3; font-size:13px;">INSIGHTS</tspan><tspan x="0" y="324" style="fill:#E3E6E8; font-family:'BerninoSans-Semibold'; font-size:13px;">SETTINGS</tspan></text>
 		</g>
 	</g>
 	<rect x="-755" y="-497" style="&st2;" width="160" height="768"/>
@@ -1793,17 +1804,16 @@ YV6Ra6lqf3H8z/ZgWtmt/Q/t65aGtfLkquizMg1kOOS2P7kPEYf/2Q==" transform="matrix(0.14
 	<rect x="-560.2" y="-27.9" style="&st24;" width="1121" height="48"/>
 	<line id="XMLID_3000_" style="&st10;" x1="-560.2" y1="-28.4" x2="560.8" y2="-28.4"/>
 	<line id="XMLID_2996_" style="&st10;" x1="-560.2" y1="20.6" x2="560.8" y2="20.6"/>
-	
-		<text id="XMLID_2994_" transform="matrix(0.98 0 0 -1 365.5587 -8.1963)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Jonathan Rubenstein</text>
+	<text id="XMLID_2994_" transform="matrix(0.98 0 0 -1 365.5587 -8.1963)" style="&st26; &st135; &st136;">Jonathan Rubenstein</text>
 	
 		<use xlink:href="#Deleted_Symbol_2"  width="32" height="32.3" id="XMLID_2984_" x="-16" y="-16.3" transform="matrix(1 0 0 1 337.5099 -3.0528)" style="overflow:visible;"/>
 	
 		<use xlink:href="#icon-small-circle-timer_2"  width="22" height="21" id="XMLID_2982_" x="-12" y="-11" transform="matrix(1 0 0 1 91.842 -1.9162)" style="overflow:visible;"/>
-	<text id="XMLID_2980_" transform="matrix(1 0 0 -1 111.5588 -7.5392)"><tspan x="0" y="0" style="&st26; font-family:'BerninoSans'; font-size:14px;">0:00</tspan><tspan x="30.9" y="0" style="&st26; font-family:'BerninoSans'; font-size:12px;"> </tspan><tspan x="34.3" y="0" style="&st26; font-family:'BerninoSans'; font-size:10px;">00</tspan></text>
+	<text id="XMLID_2980_" transform="matrix(1 0 0 -1 111.5588 -7.5392)"><tspan x="0" y="0" style="&st26; &st135; font-size:14px;">0:00</tspan><tspan x="30.9" y="0" style="&st26; &st135; &st136;"> </tspan><tspan x="34.3" y="0" style="&st26; &st135; font-size:10px;">00</tspan></text>
 	
 		<use xlink:href="#icon-small-circle-question_2"  width="22" height="21" id="XMLID_2978_" x="-72" y="-11" transform="matrix(1 0 0 1 271.8419 -2.9162)" style="overflow:visible;"/>
 	<g id="XMLID_2973_">
-		<text transform="matrix(0.98 0 0 -1 233.5581 -8.1973)" style="&st26; font-family:'BerninoSans'; font-size:12px;">Support</text>
+		<text transform="matrix(0.98 0 0 -1 233.5581 -8.1973)" style="&st26; &st135; &st136;">Support</text>
 	</g>
 	
 		<use xlink:href="#Deleted_Symbol_22"  width="11" height="5.4" id="XMLID_2970_" x="-5" y="-3" transform="matrix(1 0 0 1 541.842 -3.9162)" style="overflow:visible;"/>
@@ -1856,258 +1866,259 @@ YV6Ra6lqf3H8z/ZgWtmt/Q/t65aGtfLkquizMg1kOOS2P7kPEYf/2Q==" transform="matrix(0.14
 	<g id="XMLID_2814_">
 		
 			<image style="overflow:visible;opacity:8.000000e-02;" width="1054" height="1126" xlink:href="data:image/png;base64,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
-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
-o2/QR72tr6XP+9zMrnTwOQAAgHaMuL7svLo2XoeJmV/2b406eMg8iFtDxJ47ZjZajFY8zKyIcGwn
-jw4Tvn7+jCix9Xm4+JwBAMCHx8PrFRHLA2+f4hS4Q1p30PLAO3v0b8Ger1G+/nNw8TkDAIDmY+T6
-FLreDIbRIoHeY+utVREP9ZnDKsvGB/+oOmNFBC5an+dzZiYEAADP+hh5HSQug2vrshEcRtfoW/Hh
-IddYpwffMbNv86iq4thOeM4fwgAA8Axap9B1T6OorrdvWRFRNt7nQ3zGjIg9b/MZ+1RcqAAAAPAd
-9E6hK4Pr6tE18tK5Lt9zbX13lDg84E75quMQbc0AAADgGczMc7j3/a6v8R854/GDwyfdQb0ZETN/
-b+bv2IoBAADAM5m5Dv7yEzFmHL74Tty6E2ZeDwAAAM9k+UPex00OPgkAAADg2jfl8Jfd4UsRHQAA
-AOCvvVY+hO8cAAAA4M8Tu2Y/uK8BAACAlHSIsCoCAAAA/izRa3UrIgAAAIAYIQIAAACIESIAAACA
-GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
-AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
-AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
-AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
-ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
-gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
-AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
-AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
-IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
-iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
-AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
-AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
-IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
-GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
-AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
-AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
-AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
-ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
-gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
-AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
-AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
-IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
-iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
-AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
-AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
-IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
-GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
-AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
-AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
-AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
-ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
-gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
-AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
-AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
-IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
-iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
-AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
-AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
-IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
-GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
-AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
-AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
-AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
-ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
-gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
-AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
-AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
-IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
-iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
-AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
-AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
-IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
-GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
-AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
-AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
-AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
-ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
-gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
-AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
-AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
-IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
-iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
-AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
-AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
-IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
-GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
-AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
-AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
-AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
-ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
-gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
-AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
-AAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAY
-IQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAA
-iBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAA
-AIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCEC
-AAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgR
-IgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACA
-GCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAA
-AIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIA
-AACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBgh
-AgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACI
-ESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAA
-gBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIA
-AACIESIAAACAGCECAAAAiBEiAAAAgBghAgAAAIgRIgAAAIAYIQIAAACIESIAAACAGCECAAAAiBEi
-AAAAgBghAgAAAIgRIgAAAIAYIQIA4H/s3WFv2rwChuGEsvP//+7WQo4mgd7UsxMHwtMWrkuK2jLa
-grUvvuvYAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEA
-AABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQ
-AQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADE
-CBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAA
-QIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEA
-AADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgR
-AAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECM
-EAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAA
-xAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAA
-AECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBAB
-AAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQI
-EQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABA
-jBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAA
-AMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEA
-AABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQ
-AQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADE
-CBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAA
-QIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEA
-AADECBEAAABAjBABAAAAxAgRAAAAQIwQAQAAAMQIEQAAAECMEAEAAADECBEAAABAjBABAAAAxAgR
-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
-YII=" transform="matrix(0.24 0 0 -0.24 -126.4801 135.1199)">
+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
+AAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNE
+AAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAx
+QgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAA
+ECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAA
+AAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIE
+AAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAj
+RAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAA
+MUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAA
+ABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QA
+AAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFC
+BAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQ
+I0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAA
+ADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQA
+AAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNE
+AAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAx
+QgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAA
+ECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAA
+AAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIE
+AAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAj
+RAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAA
+MUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAA
+ABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QA
+AAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFC
+BAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQ
+I0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAA
+ADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQA
+AAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNE
+AAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAx
+QgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAA
+ECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAA
+AAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIE
+AAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAj
+RAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAA
+MUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAA
+ABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QA
+AAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFC
+BAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQ
+I0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAA
+ADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQA
+AAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNE
+AAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAx
+QgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAA
+ECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAA
+AAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIE
+AAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAj
+RAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAA
+MUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAA
+ABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QA
+AAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFC
+BAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQ
+I0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAA
+ADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQA
+AAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNE
+AAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAx
+QgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAA
+ECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAA
+AAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIE
+AAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAj
+RAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAA
+MUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAA
+ABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QA
+AAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFC
+BAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQ
+I0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAA
+ADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQA
+AAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNE
+AAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAx
+QgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAA
+ECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAA
+AAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIE
+AAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAj
+RAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAA
+MUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAA
+ABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QA
+AAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFC
+BAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAA/I+9O9xNXFegMJqkzH3/1z3TQq6O
+BDqpx04cGnansJYUQSlMG2v++KvjADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNE
+AAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAx
+QgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAA
+ECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAA
+AAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIE
+AAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAj
+RAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAA
+MUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAA
+ABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QA
+AAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFC
+BAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQ
+I0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAA
+ADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQA
+AAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNE
+AAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAx
+QgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAA
+ECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAA
+AAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIE
+AAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAj
+RAAAAAAxQgQAAAAQI0QAAAAAMUIEAAAAECNEAAAAADFCBAAAABAjRAAAAAAxQgQAAAAQI0QAAAAA
+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" transform="matrix(0.24 0 0 -0.24 -126.4801 135.1199)">
 		</image>
 		<g>
 			<path style="&st39;" d="M120-125.4c0-1.1-1.1-1.6-2.2-1.6H-118c-1.1,0-2,0.5-2,1.6v243.2c0,1.1,0.9,2.2,2,2.2h34.3
@@ -2117,10 +2128,10 @@ YII=" transform="matrix(0.24 0 0 -0.24 -126.4801 135.1199)">
 		</g>
 	</g>
 	<g id="XMLID_2810_">
-		<text transform="matrix(1 0 0 -1 52.7783 -112.6191)" style="&st40; font-family:'BerninoSans'; font-size:10px;">NEXT YEAR</text>
+		<text transform="matrix(1 0 0 -1 52.7783 -112.6191)" style="&st40; &st135; font-size:10px;">NEXT YEAR</text>
 	</g>
 	<g id="XMLID_2806_">
-		<text transform="matrix(1 0 0 -1 -105.1035 -112.6191)" style="&st40; font-family:'BerninoSans'; font-size:10px;">PREVIOUS YEAR</text>
+		<text transform="matrix(1 0 0 -1 -105.1035 -112.6191)" style="&st40; &st135; font-size:10px;">PREVIOUS YEAR</text>
 	</g>
 	<g id="XMLID_2800_">
 		<g id="XMLID_2803_">
@@ -2137,106 +2148,106 @@ YII=" transform="matrix(0.24 0 0 -0.24 -126.4801 135.1199)">
 			c0.1,0,0.2-0.1,0.2-0.2V-52.8z"/>
 	</g>
 	<g id="XMLID_2792_">
-		<text transform="matrix(1 0 0 -1 -39.999 90.1348)" style="&st13; &st126; font-family:'BerninoSans';">Mar 2015</text>
+		<text transform="matrix(1 0 0 -1 -39.999 90.1348)" style="&st13; &st135; &st126;">Mar 2015</text>
 	</g>
 	<g id="XMLID_2787_">
-		<text transform="matrix(1 0 0 -1 -88.3955 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">1</text>
+		<text transform="matrix(1 0 0 -1 -88.3955 13.4766)" style="&st40; &st135; &st136;">1</text>
 	</g>
 	<g id="XMLID_2784_">
-		<text transform="matrix(1 0 0 -1 -58.6738 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">2</text>
+		<text transform="matrix(1 0 0 -1 -58.6738 13.4766)" style="&st40; &st135; &st136;">2</text>
 	</g>
 	<g id="XMLID_2781_">
-		<text transform="matrix(1 0 0 -1 -31.4531 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">3</text>
+		<text transform="matrix(1 0 0 -1 -31.4531 13.4766)" style="&st40; &st135; &st136;">3</text>
 	</g>
 	<g id="XMLID_2778_">
-		<text transform="matrix(1 0 0 -1 -2.1416 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">4</text>
+		<text transform="matrix(1 0 0 -1 -2.1416 13.4766)" style="&st40; &st135; &st136;">4</text>
 	</g>
 	<g id="XMLID_2775_">
-		<text transform="matrix(1 0 0 -1 24.8994 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">5</text>
+		<text transform="matrix(1 0 0 -1 24.8994 13.4766)" style="&st40; &st135; &st136;">5</text>
 	</g>
 	<g id="XMLID_2772_">
-		<text transform="matrix(1 0 0 -1 51.7637 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">6</text>
+		<text transform="matrix(1 0 0 -1 51.7637 13.4766)" style="&st40; &st135; &st136;">6</text>
 	</g>
 	<g id="XMLID_2760_">
-		<text transform="matrix(1 0 0 -1 78.4492 13.4766)" style="&st40; font-family:'BerninoSans'; font-size:12px;">7</text>
+		<text transform="matrix(1 0 0 -1 78.4492 13.4766)" style="&st40; &st135; &st136;">7</text>
 	</g>
 	<g id="XMLID_2756_">
-		<text transform="matrix(1 0 0 -1 -94.2656 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Su</text>
+		<text transform="matrix(1 0 0 -1 -94.2656 48.4072)" style="&st40; &st136; font-family:'BerninoSans-Bold';">Su</text>
 	</g>
 	<g id="XMLID_2563_">
-		<text transform="matrix(1 0 0 -1 -66.751 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Mo</text>
+		<text transform="matrix(1 0 0 -1 -66.751 48.4072)" style="&st40; &st136; font-family:'BerninoSans-Bold';">Mo</text>
 	</g>
 	<g id="XMLID_2536_">
-		<text transform="matrix(1 0 0 -1 -37.1602 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Tu</text>
+		<text transform="matrix(1 0 0 -1 -37.1602 48.4072)" style="&st40; &st136; font-family:'BerninoSans-Bold';">Tu</text>
 	</g>
 	<g id="XMLID_2528_">
-		<text transform="matrix(1 0 0 -1 -9.7324 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">We</text>
+		<text transform="matrix(1 0 0 -1 -9.7324 48.4072)" style="&st40; &st136; font-family:'BerninoSans-Bold';">We</text>
 	</g>
 	<g id="XMLID_2514_">
-		<text transform="matrix(1 0 0 -1 19.0195 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Th</text>
+		<text transform="matrix(1 0 0 -1 19.0195 48.4072)" style="&st40; &st136; font-family:'BerninoSans-Bold';">Th</text>
 	</g>
 	<g id="XMLID_2504_">
-		<text transform="matrix(1 0 0 -1 46.5918 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Fr</text>
+		<text transform="matrix(1 0 0 -1 46.5918 48.4072)" style="&st40; &st136; font-family:'BerninoSans-Bold';">Fr</text>
 	</g>
 	<g id="XMLID_2422_">
-		<text transform="matrix(1 0 0 -1 73.6318 48.4072)" style="&st40; font-family:'BerninoSans-Bold'; font-size:12px;">Sa</text>
+		<text transform="matrix(1 0 0 -1 73.6318 48.4072)" style="&st40; &st136; font-family:'BerninoSans-Bold';">Sa</text>
 	</g>
 	<g id="XMLID_2339_">
-		<text transform="matrix(1 0 0 -1 -88.3945 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">8</text>
+		<text transform="matrix(1 0 0 -1 -88.3945 -15.2568)" style="&st40; &st135; &st136;">8</text>
 	</g>
 	<g id="XMLID_2335_">
-		<text transform="matrix(1 0 0 -1 -35.085 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">10</text>
+		<text transform="matrix(1 0 0 -1 -35.085 -15.2568)" style="&st40; &st135; &st136;">10</text>
 	</g>
 	<g id="XMLID_2325_">
-		<text transform="matrix(1 0 0 -1 -4.8564 -15.2568)" style="&st13; font-family:'BerninoSans-Semibold'; font-size:12px;">11</text>
+		<text transform="matrix(1 0 0 -1 -4.8564 -15.2568)" style="&st13; &st136; font-family:'BerninoSans-Semibold';">11</text>
 	</g>
 	<g id="XMLID_2310_">
-		<text transform="matrix(1 0 0 -1 21.8926 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">12</text>
+		<text transform="matrix(1 0 0 -1 21.8926 -15.2568)" style="&st40; &st135; &st136;">12</text>
 	</g>
 	<g id="XMLID_2307_">
-		<text transform="matrix(1 0 0 -1 49.4639 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">13</text>
+		<text transform="matrix(1 0 0 -1 49.4639 -15.2568)" style="&st40; &st135; &st136;">13</text>
 	</g>
 	<g id="XMLID_2305_">
-		<text transform="matrix(1 0 0 -1 76.2383 -15.2568)" style="&st40; font-family:'BerninoSans'; font-size:12px;">14</text>
+		<text transform="matrix(1 0 0 -1 76.2383 -15.2568)" style="&st40; &st135; &st136;">14</text>
 	</g>
 	<g id="XMLID_2296_">
-		<text transform="matrix(1 0 0 -1 -90.8711 -45.2295)" style="&st40; font-family:'BerninoSans'; font-size:12px;">15</text>
+		<text transform="matrix(1 0 0 -1 -90.8711 -45.2295)" style="&st40; &st135; &st136;">15</text>
 	</g>
 	<g id="XMLID_2269_">
-		<text transform="matrix(1 0 0 -1 -62.2119 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">16</text>
+		<text transform="matrix(1 0 0 -1 -62.2119 -45.2285)" style="&st40; &st135; &st136;">16</text>
 	</g>
 	<g id="XMLID_2266_">
-		<text transform="matrix(1 0 0 -1 -35.085 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">17</text>
+		<text transform="matrix(1 0 0 -1 -35.085 -45.2285)" style="&st40; &st135; &st136;">17</text>
 	</g>
 	<g id="XMLID_2260_">
-		<text transform="matrix(1 0 0 -1 -5.6797 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">18</text>
+		<text transform="matrix(1 0 0 -1 -5.6797 -45.2285)" style="&st40; &st135; &st136;">18</text>
 	</g>
 	<g id="XMLID_2255_">
-		<text transform="matrix(1 0 0 -1 21.8926 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">19</text>
+		<text transform="matrix(1 0 0 -1 21.8926 -45.2285)" style="&st40; &st135; &st136;">19</text>
 	</g>
 	<g id="XMLID_2251_">
-		<text transform="matrix(1 0 0 -1 76.1504 -45.2285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">21</text>
+		<text transform="matrix(1 0 0 -1 76.1504 -45.2285)" style="&st40; &st135; &st136;">21</text>
 	</g>
 	<g id="XMLID_2243_">
-		<text transform="matrix(1 0 0 -1 -90.8711 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">22</text>
+		<text transform="matrix(1 0 0 -1 -90.8711 -73.7285)" style="&st40; &st135; &st136;">22</text>
 	</g>
 	<g id="XMLID_2234_">
-		<text transform="matrix(1 0 0 -1 -61.1504 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">23</text>
+		<text transform="matrix(1 0 0 -1 -61.1504 -73.7285)" style="&st40; &st135; &st136;">23</text>
 	</g>
 	<g id="XMLID_2207_">
-		<text transform="matrix(1 0 0 -1 -35.085 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">24</text>
+		<text transform="matrix(1 0 0 -1 -35.085 -73.7285)" style="&st40; &st135; &st136;">24</text>
 	</g>
 	<g id="XMLID_2205_">
-		<text transform="matrix(1 0 0 -1 -5.6797 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">25</text>
+		<text transform="matrix(1 0 0 -1 -5.6797 -73.7285)" style="&st40; &st135; &st136;">25</text>
 	</g>
 	<g id="XMLID_2202_">
-		<text transform="matrix(1 0 0 -1 21.8926 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">26</text>
+		<text transform="matrix(1 0 0 -1 21.8926 -73.7285)" style="&st40; &st135; &st136;">26</text>
 	</g>
 	<g id="XMLID_2200_">
-		<text transform="matrix(1 0 0 -1 49.4639 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">27</text>
+		<text transform="matrix(1 0 0 -1 49.4639 -73.7285)" style="&st40; &st135; &st136;">27</text>
 	</g>
 	<g id="XMLID_2196_">
-		<text transform="matrix(1 0 0 -1 76.1504 -73.7285)" style="&st40; font-family:'BerninoSans'; font-size:12px;">28</text>
+		<text transform="matrix(1 0 0 -1 76.1504 -73.7285)" style="&st40; &st135; &st136;">28</text>
 	</g>
 	<g id="XMLID_2064_">
 		<g id="XMLID_2067_">
@@ -2270,10 +2281,9 @@ YII=" transform="matrix(0.24 0 0 -0.24 -126.4801 135.1199)">
 	<g>
 		<path style="&st11;" d="M71-51c0-1.1-0.9-2-2-2H45c-1.1,0-2,0.9-2,2v19c0,1.1,0.9,2,2,2h24c1.1,0,2-0.9,2-2V-51z"/>
 	</g>
-	
-		<text id="XMLID_1968_" transform="matrix(1 0 0 -1 -58.6738 -15.2568)" style="&st17; font-family:'BerninoSans-Bold'; font-size:12px;">9</text>
+	<text id="XMLID_1968_" transform="matrix(1 0 0 -1 -58.6738 -15.2568)" style="&st17; &st136; font-family:'BerninoSans-Bold';">9</text>
 	<g id="XMLID_41_">
-		<text transform="matrix(1 0 0 -1 49.4639 -45.2285)" style="&st17; font-family:'BerninoSans-Bold'; font-size:12px;">20</text>
+		<text transform="matrix(1 0 0 -1 49.4639 -45.2285)" style="&st17; &st136; font-family:'BerninoSans-Bold';">20</text>
 	</g>
 	<rect x="-127" y="-135" style="&st2;" width="254" height="270"/>
 </symbol>
@@ -2420,10 +2430,10 @@ EwDgEyMQAAAAAAAAAAAAAAAAAACA0n8EGADK58ZkQaeBgQAAAABJRU5ErkJggg==" transform="mat
 		</g>
 		<rect id="XMLID_10451_" x="-74" y="94" style="&st27;" width="147" height="31"/>
 		<g id="XMLID_10442_">
-			<text transform="matrix(1 0 0 -1 -34.9082 106.0635)"><tspan x="0" y="0" style="&st43; font-family:'BerninoSans'; font-size:12px;">Sort ascending</tspan><tspan x="0" y="28" style="&st43; font-family:'BerninoSans'; font-size:12px;">Sort descending</tspan></text>
+			<text transform="matrix(1 0 0 -1 -34.9082 106.0635)"><tspan x="0" y="0" style="&st43; &st135; &st136;">Sort ascending</tspan><tspan x="0" y="28" style="&st43; &st135; &st136;">Sort descending</tspan></text>
 		</g>
 		<g id="XMLID_10413_">
-			<text id="XMLID_10441_" transform="matrix(1 0 0 -1 -57.9072 111.0635)"><tspan x="0" y="0" style="&st43; font-family:'BerninoSans'; font-size:8px;">A</tspan><tspan x="0" y="6.6" style="&st43; font-family:'BerninoSans'; font-size:8px;">Z</tspan></text>
+			<text id="XMLID_10441_" transform="matrix(1 0 0 -1 -57.9072 111.0635)"><tspan x="0" y="0" style="&st43; &st135; font-size:8px;">A</tspan><tspan x="0" y="6.6" style="&st43; &st135; font-size:8px;">Z</tspan></text>
 			<g id="XMLID_10437_">
 				<g id="XMLID_10439_">
 					<line id="XMLID_10440_" style="&st44;" x1="-47.5" y1="106" x2="-47.5" y2="112"/>
@@ -2432,7 +2442,7 @@ EwDgEyMQAAAAAAAAAAAAAAAAAACA0n8EGADK58ZkQaeBgQAAAABJRU5ErkJggg==" transform="mat
 			</g>
 		</g>
 		<g id="XMLID_9283_">
-			<text transform="matrix(1 0 0 -1 -57.9072 83.0635)"><tspan x="0" y="0" style="&st43; font-family:'BerninoSans'; font-size:8px;">Z</tspan><tspan x="0" y="6.6" style="&st43; font-family:'BerninoSans'; font-size:8px;">A</tspan></text>
+			<text transform="matrix(1 0 0 -1 -57.9072 83.0635)"><tspan x="0" y="0" style="&st43; &st135; font-size:8px;">Z</tspan><tspan x="0" y="6.6" style="&st43; &st135; font-size:8px;">A</tspan></text>
 		</g>
 		<g id="XMLID_9122_">
 			<g id="XMLID_9155_">
@@ -2440,13 +2450,11 @@ EwDgEyMQAAAAAAAAAAAAAAAAAACA0n8EGADK58ZkQaeBgQAAAABJRU5ErkJggg==" transform="mat
 			</g>
 			<polygon id="XMLID_9132_" style="&st43;" points="-47.4,77.5 -49.9,81 -44.9,81 			"/>
 		</g>
-		
-			<text id="XMLID_9029_" transform="matrix(1 0 0 -1 -59.5166 132.2412)" style="&st123; font-family:'BerninoSans'; font-size:10px;">SORT</text>
-		
-			<text id="XMLID_9027_" transform="matrix(1 0 0 -1 34.7471 132.2412)" style="&st11; font-family:'BerninoSans'; font-size:10px;">Clear</text>
+		<text id="XMLID_9029_" transform="matrix(1 0 0 -1 -59.5166 132.2412)" style="&st123; &st135; font-size:10px;">SORT</text>
+		<text id="XMLID_9027_" transform="matrix(1 0 0 -1 34.7471 132.2412)" style="&st11; &st135; font-size:10px;">Clear</text>
 	</g>
 	<g id="XMLID_9002_">
-		<text transform="matrix(1 0 0 -1 -35.0322 -24.312)"><tspan x="0" y="0" style="&st43; font-family:'BerninoSans'; font-size:12px;">Blocked</tspan><tspan x="0" y="33.4" style="&st43; font-family:'BerninoSans'; font-size:12px;">Not Started</tspan><tspan x="0" y="66.8" style="&st43; font-family:'BerninoSans'; font-size:12px;">Started</tspan><tspan x="0" y="100.2" style="&st43; font-family:'BerninoSans'; font-size:12px;">Complete</tspan></text>
+		<text transform="matrix(1 0 0 -1 -35.0322 -24.312)"><tspan x="0" y="0" style="&st43; &st135; &st136;">Blocked</tspan><tspan x="0" y="33.4" style="&st43; &st135; &st136;">Not Started</tspan><tspan x="0" y="66.8" style="&st43; &st135; &st136;">Started</tspan><tspan x="0" y="100.2" style="&st43; &st135; &st136;">Complete</tspan></text>
 	</g>
 	<line id="XMLID_8991_" style="&st45;" x1="-73" y1="59.5" x2="72" y2="59.5"/>
 	<g id="XMLID_8461_">
@@ -2459,11 +2467,11 @@ EwDgEyMQAAAAAAAAAAAAAAAAAACA0n8EGADK58ZkQaeBgQAAAABJRU5ErkJggg==" transform="mat
 		
 			<use xlink:href="#icon-checkbox-off"  width="13" height="13" id="XMLID_8812_" x="-7" y="-7" transform="matrix(1 0 0 1 -51 -53)" style="overflow:visible;"/>
 	</g>
-	<text id="XMLID_8364_" transform="matrix(1 0 0 -1 -58.876 33.8755)" style="&st123; font-family:'BerninoSans'; font-size:10px;">Filter</text>
+	<text id="XMLID_8364_" transform="matrix(1 0 0 -1 -58.876 33.8755)" style="&st123; &st135; font-size:10px;">Filter</text>
 	<g id="XMLID_7315_">
-		<text transform="matrix(1 0 0 -1 -58.876 10.2817)" style="&st43; font-family:'BerninoSans'; font-size:12px;">By Status</text>
+		<text transform="matrix(1 0 0 -1 -58.876 10.2817)" style="&st43; &st135; &st136;">By Status</text>
 	</g>
-	<text id="XMLID_7314_" transform="matrix(1 0 0 -1 14.0879 33.8755)"><tspan x="0" y="0" style="fill:#448FEE; font-family:'BerninoSans'; font-size:10px;">All</tspan><tspan x="12.1" y="0" style="&st123; font-family:'BerninoSans'; font-size:10px;"> | </tspan><tspan x="20.7" y="0" style="fill:#448FEE; font-family:'BerninoSans'; font-size:10px;">Clear</tspan></text>
+	<text id="XMLID_7314_" transform="matrix(1 0 0 -1 14.0879 33.8755)"><tspan x="0" y="0" style="&st135; fill:#448FEE; font-size:10px;">All</tspan><tspan x="12.1" y="0" style="&st123; &st135; font-size:10px;"> | </tspan><tspan x="20.7" y="0" style="&st135; fill:#448FEE; font-size:10px;">Clear</tspan></text>
 	<rect id="XMLID_10461_" x="-80" y="-157" style="&st2;" width="159" height="315"/>
 </symbol>
 <symbol  id="filter-subitem-menu" viewBox="-189 -229 378 457">
@@ -2555,16 +2563,16 @@ EwDgEyMQAAAAAAAAAAAAAAAAAACA0n8EGADK58ZkQaeBgQAAAABJRU5ErkJggg==" transform="mat
 	</g>
 	<line id="XMLID_243_" style="&st51;" x1="-187" y1="176.5" x2="186" y2="176.5"/>
 	<g>
-		<text transform="matrix(1 0 0 -1 -154.1797 194.3057)" style="&st52; font-family:'BerninoSans-Italic'; font-size:12px;">Search</text>
+		<text transform="matrix(1 0 0 -1 -154.1797 194.3057)" style="&st52; &st136; font-family:'BerninoSans-Italic';">Search</text>
 	</g>
 	<rect x="-154.2" y="-210.9" style="&st62;" width="266" height="372"/>
-	<text transform="matrix(1 0 0 -1 -154.1797 151.7715)"><tspan x="0" y="0" style="&st13; font-family:'BerninoSans-Semibold'; font-size:12px;">Detail View</tspan><tspan x="0" y="26" style="&st13; font-family:'BerninoSans-Semibold'; font-size:12px;">How to show subs/parents in detail</tspan><tspan x="0" y="52" style="&st13; font-family:'BerninoSans-Semibold'; font-size:12px;">Detirmine description in header</tspan><tspan x="0" y="78" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="78" style="&st13; font-family:'BerninoSans'; font-size:12px;">Determine how to open detail view</tspan><tspan x="0" y="104" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="104" style="&st13; font-family:'BerninoSans'; font-size:12px;">Task Tracker</tspan><tspan x="0" y="130" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="130" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="40" y="130" style="&st13; font-family:'BerninoSans'; font-size:12px;">Bulk Add</tspan><tspan x="0" y="156" style="&st13; font-family:'BerninoSans-Semibold'; font-size:12px;">Saving personal views</tspan><tspan x="0" y="182" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="182" style="&st13; font-family:'BerninoSans'; font-size:12px;">Options for create a task</tspan><tspan x="0" y="208" style="&st13; font-family:'BerninoSans-Semibold'; font-size:12px;">Go to project for global task tracker</tspan><tspan x="0" y="234" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="234" style="&st13; font-family:'BerninoSans'; font-size:12px;">Key Commands for Navigation through</tspan><tspan x="0" y="260" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="260" style="&st13; font-family:'BerninoSans'; font-size:12px;">Flatland</tspan><tspan x="0" y="286" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="286" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="40" y="286" style="&st13; font-family:'BerninoSans'; font-size:12px;">Expand/Collapse all below</tspan><tspan x="0" y="312" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="20" y="312" style="&st13; font-family:'BerninoSans'; font-size:12px; letter-spacing:16;">	</tspan><tspan x="40" y="312" style="&st13; font-family:'BerninoSans'; font-size:12px;">Pagination</tspan><tspan x="0" y="338" style="&st13; font-family:'BerninoSans-Semibold'; font-size:12px;">Cascade Changes</tspan></text>
+	<text transform="matrix(1 0 0 -1 -154.1797 151.7715)"><tspan x="0" y="0" style="&st13; &st136; font-family:'BerninoSans-Semibold';">Detail View</tspan><tspan x="0" y="26" style="&st13; &st136; font-family:'BerninoSans-Semibold';">How to show subs/parents in detail</tspan><tspan x="0" y="52" style="&st13; &st136; font-family:'BerninoSans-Semibold';">Detirmine description in header</tspan><tspan x="0" y="78" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="20" y="78" style="&st13; &st135; &st136;">Determine how to open detail view</tspan><tspan x="0" y="104" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="20" y="104" style="&st13; &st135; &st136;">Task Tracker</tspan><tspan x="0" y="130" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="20" y="130" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="40" y="130" style="&st13; &st135; &st136;">Bulk Add</tspan><tspan x="0" y="156" style="&st13; &st136; font-family:'BerninoSans-Semibold';">Saving personal views</tspan><tspan x="0" y="182" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="20" y="182" style="&st13; &st135; &st136;">Options for create a task</tspan><tspan x="0" y="208" style="&st13; &st136; font-family:'BerninoSans-Semibold';">Go to project for global task tracker</tspan><tspan x="0" y="234" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="20" y="234" style="&st13; &st135; &st136;">Key Commands for Navigation through</tspan><tspan x="0" y="260" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="20" y="260" style="&st13; &st135; &st136;">Flatland</tspan><tspan x="0" y="286" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="20" y="286" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="40" y="286" style="&st13; &st135; &st136;">Expand/Collapse all below</tspan><tspan x="0" y="312" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="20" y="312" style="&st13; &st135; &st136; letter-spacing:16;">	</tspan><tspan x="40" y="312" style="&st13; &st135; &st136;">Pagination</tspan><tspan x="0" y="338" style="&st13; &st136; font-family:'BerninoSans-Semibold';">Cascade Changes</tspan></text>
 	<line style="&st51;" x1="-175" y1="12.5" x2="179" y2="12.5"/>
 	<line style="&st51;" x1="-175" y1="-39.5" x2="179" y2="-39.5"/>
 	<line style="&st51;" x1="-180" y1="-168.5" x2="174" y2="-168.5"/>
 	<line id="XMLID_10_" style="&st51;" x1="-187" y1="-197.5" x2="188" y2="-197.5"/>
 	<g>
-		<text transform="matrix(1 0 0 -1 -172.1797 -216.8687)" style="&st52; font-family:'BerninoSans-Italic'; font-size:12px;">15 Parent Items with 453 Subs</text>
+		<text transform="matrix(1 0 0 -1 -172.1797 -216.8687)" style="&st52; &st136; font-family:'BerninoSans-Italic';">15 Parent Items with 453 Subs</text>
 	</g>
 	<rect x="-189" y="-229" style="&st2;" width="378" height="457"/>
 </symbol>
@@ -2604,13 +2612,11 @@ EwDgEyMQAAAAAAAAAAAAAAAAAACA0n8EGADK58ZkQaeBgQAAAABJRU5ErkJggg==" transform="mat
 </symbol>
 <symbol  id="icon-small-circle-question_2" viewBox="-72 -11 22 21">
 	<circle id="XMLID_38_" style="&st54;" cx="-60.6" cy="-0.5" r="10"/>
-	
-		<text id="XMLID_37_" transform="matrix(1 0 0 -1 -63.8115 -4.5195)" style="&st17; font-family:'BerninoSans-Bold'; font-size:12px;">?</text>
+	<text id="XMLID_37_" transform="matrix(1 0 0 -1 -63.8115 -4.5195)" style="&st17; &st136; font-family:'BerninoSans-Bold';">?</text>
 	<rect x="-72" y="-10" style="&st2;" width="22" height="20"/>
 </symbol>
 <symbol  id="icon-small-circle-question_3" viewBox="-12 -11 22 21">
-	
-		<text id="XMLID_3355_" transform="matrix(1 0 0 -1 -3.8115 -4.5195)" style="&st52; font-family:'BerninoSans-Bold'; font-size:12px;">?</text>
+	<text id="XMLID_3355_" transform="matrix(1 0 0 -1 -3.8115 -4.5195)" style="&st52; &st136; font-family:'BerninoSans-Bold';">?</text>
 	<circle id="XMLID_3352_" style="&st55;" cx="-0.6" cy="-0.5" r="10"/>
 	<rect id="XMLID_3351_" x="-12" y="-10" style="&st2;" width="22" height="20"/>
 </symbol>
@@ -2672,128 +2678,127 @@ EwDgEyMQAAAAAAAAAAAAAAAAAACA0n8EGADK58ZkQaeBgQAAAABJRU5ErkJggg==" transform="mat
 		<g id="XMLID_1293_">
 			
 				<image style="overflow:visible;opacity:7.000000e-02;" width="753" height="1121" xlink:href="data:image/png;base64,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
-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
-ACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAA
-QNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg
-7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDY
-AwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAH
-AACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8A
-AAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAA
-hD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAI
-ewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2
-AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwB
-AABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMA
-gLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAA
-YQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADC
-HgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9
-AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsA
-AEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAA
-IOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA
-2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICw
-BwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEP
-AAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4A
-AIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAA
-CHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ
-9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDs
-AQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgD
-AICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcA
-AGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAA
-wh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACE
-PQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7
-AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYA
-ACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAA
-QNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACA
-sAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABh
-DwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIe
-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
+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
 AEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAA
 gLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAA
 YQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADC
 HgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEP
-AAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4A
+AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4A
 ABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAA
 IOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA
 2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICw
 BwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgD
 AADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcA
-AIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAA
+AIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAA
 CHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ
 9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7
 AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYA
 AICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEA
 AGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAA
 wh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABh
-DwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIe
+DwAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIe
 AAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0A
 ACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAA
 QNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACA
 sAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDY
 AwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAH
-AACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8A
+AACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8A
 AAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAA
 EPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAI
 ewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2
 AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwB
-AABhDwAACHsAABD2AACAsAcAAHYQ9uNlrP382t8HAACfzda2vVkL9zc6CAAA4F/s6v43ffm48IzE
-SQIAAEeJ8bHo4LvGfX+HA1j7mVHcAwBwgKhfuqzmVp95Z7jDQY3BwY2V98vf04l7AAB2GPjjgl+P
-M918leGOB1c74LHy60jn/xMAAD5hyKdGuC/p3ZtPZA+Nne1Wfvm4YpzT/5cBRWctYh4AgL2E/Vhp
-4fPKPl5zIhG+N1x5QHPxno/ovSniu2I7BdsAAPDZw/68sIOvCf3QsOEglvzTQ7Tzr9lrn96vp++K
-uBf2AADsIexT0MCv2cg7eEnYz7X3zcJ+acy/Bgf1Nl5+jlP6dTee8bLdC3kAAHYe+ueggV+CJi5j
-/yaz9sPGHW/NzucH8Taes5FH/fT5afbeEhwAAPYY9CnFM/bPwXgpYn9uFv8uYb8k6KOYfxs/Lt+V
-R/30a2EPAMCRwv6cNfGPbLQi/+rAHzbsdO2MpIz66QCegqh/+/zpMrpUX2MPAAB7CPx85DP2bz38
-eGnipyDyoxn8TQ9xvWbGvjVTPwX9YxD1b597SL+W5eQX0kZ3xgEAgM8a9OVr3sh5F3+/tPFjFvit
-mfu7zNi3/okhn63Pd/zpEu9R1P9YEPYAALDHwC/D/jn9mvD+bxb4T0XgR+vuW0+q3RT2KdVn6suo
-z89ITo2oH4Q9AAAHD/u8kx8vjTzF/ff0cWlOK+5vuhQnpfra+ny2fmhE/Zf0fia/DHtxDwDAHqO+
-DPtz0MmtuI/C/m73sR8rO1ueiZRRP/0zxLQ8Z1qG48JZAACOFPi1C2jLtfZT3E9r7vOwf0nxHXKu
-DvuxsqPlPy+csqDvgqj/mkX9UHw2j3pxDwDAHqM+zfTyNNGdX0g7xX00a7/6wVXDzA52lZ0sb7xf
-LqkZswN529F8CU50//pa0At9AAA+a8hH70f3s4+uSX1M8V1ylqyxH9eG/dyOTuFexvmY6uvqa7P1
-wh4AgCOFfdnM0QOrnlL97jirLpxdGvZjFtnnLMRfG1Gf37czivrabL2QBwBgz6G/9LlP0VNpa0+i
-TUsCf8ka+67Y4SjuU3Bm8lwEfbkO32w9AABHiPlUCfvybpJ54JeRX4v6xfeyHzbs+JidOUQHMO1w
-FPTlbH0t4EU9AAB7jPvyQto80qPAL7ej213e7D72YxHarbA/XyJ+mrEvoz6aqRfxAAAcLfajmftz
-Ee6vQcyXF87OnUisCvvaDzpXwv41vZ+dr0W9JTgAABwl5KP3a3G/ZKyarV8T9tOsfRT35c5OEV++
-5jP0ZusBADh67I8pXppTe63duz6lGy3FacV9/t60nV9cO7f0RtgDAHDUsI8ivzbOlROBRVG/Nuxr
-cT95nQl5F8sCAPCnBH0U9q3Qr8X8uPTLh4073Jq5b92bXsADAPAnB390z/tayI9rvmS4cuei2fsx
-CHhBDwCAwF8e/KsNN9q5bmYHRn+PAACwOPR/e9hHO9ElIQ8AAFvi/l8P+2t3zlIdAABE+icL+939
-IQAAwN71/ggAAEDYAwAAwh4AABD2AADA//wjwACRa8ZF4qAGXAAAAABJRU5ErkJggg==" transform="matrix(0.24 0 0 -0.24 -90.3597 133.9048)">
+AABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMA
+AMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAA
+YQ8AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADC
+HgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9
+AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsA
+AEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAA
+gLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA
+2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICw
+BwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEP
+AAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4A
+ABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAA
+CHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ
+9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDs
+AQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgD
+AADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcA
+AGEPAAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAA
+wh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACE
+PQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7
+AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYA
+AICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEA
+QNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACA
+sAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABh
+DwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIe
+AAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0A
+AAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAA
+EPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg
+7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDY
+AwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAH
+AABhDwAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8A
+AMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAIewAAQNgDAICwBwAA
+hD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAAwh4AABD2AAAg7AEAAGEPAAAI
+ewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAAIOwBAEDYAwAAwh4AABD2
+AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAAgLAHAACEPQAAIOwB
+AEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAhD0AACDsAQAAYQ8AAAh7AAAQ9gAA
+gLAHAACEPQAAIOwBAEDYAwAAwh4AABD2AACAsAcAAGEPAAAIewAAQNgDAADCHgAAEPYAACDsAQAA
+YQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9AAAIewAAQNgDAADC
+HgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4AABD2AACAsAcAAIQ9
+AAAIewAAQNgDAADCHgAAEPYAACDsAQAAYQ8AAAh7AABA2AMAgLAHAACEPQAAIOwBAABhDwAAwh4A
+ABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA2AMAAMIeAACEPQAA
+IOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICwBwAAYQ8AAAh7AABA
+2AMAAMIeAACEPQAAIOwBAABhDwAACHsAABD2AACAsAcAAIQ9AAAg7AEAQNgDAADCHgAAEPYAAICw
+BwAAYQ8AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEP
+AADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAACHsAAEDYAwCAsAcA
+AIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AAAh7AABA2AMAAMIeAAAQ9gAAIOwBAABhDwAA
+CHsAAEDYAwCAsAcAAIQ9AAAg7AEAAGEPAADCHgAAEPYAAICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ
+9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYAAICwBwAAhD0AACDs
+AQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AAIQ9AAAg7AEAAGEPAAAIewAAEPYA
+AICwBwAAhD0AACDsAQBA2AMAAMIeAAAQ9gAAgLAHAABhDwAACHsAAEDYAwAAwh4AABD2AAAg7AEA
+AGEPAAAIewAAQNgDAICwBwAAhD0AACDsAQAAYQ8AAMIeAAAQ9gAAgLAHAACEPQAACHsAAEDYAwAA
+Owj76TLWvn/t3wMAgM/m2rbdrIVPG50EAADwL3b16Q99+NR5ReIiAQCAo8T4FDr4rnF/usMJrH3P
+JO4BADhA1Pcuq9nqPb8Z73BSU+Hkpsrr8e8M4h4AgB0G/tTx87TQzTcZ73hytROeKj+XDP4/AQDg
+E4Z8aoR7T+9uPpE9Ng52WPnh04pxTv9bBlS6ahHzAADsJeynSgufV/bxmguJ4mvjjSe0FO/5KL02
+R/wQnqfCcwAA+Oxhf+7s4FtCv2i84iR6fvVQOvi37PGUfl9PP4S4F/YAAOwh7FOhgd+ykXdwT9gv
+tfdmYd8b82+Fk3ofrz/HQ/q1G890eX4S8gAA7Dz0z4UGfi00cYz9TWbtxysPvDU7n5/E+3jJRh71
+8/vn2XtLcAAA2GPQp1SesX8pjNcQ+0uz+HcJ+56gL8X8+/hx+aw86uefhT0AAEcK+3PWxD+y0Yr8
+mwN/vOKga1ckMernE3guRP37+x8uY0j1NfYAALCHwM9HPmP/3sNPlyZ+LkR+aQb/qi9xvWXGvjVT
+Pwf9UyHq39/3mH4ty8lvpC3tjAMAAJ816ONj3sh5F3+/tPFTFvitmfu7zNi3fsWQz9bnB/58ifdS
+1P/oCHsAANhj4Mewf0m/Jrz/mwX+cwj80rr71jfVXhX2KdVn6mPU51ckD42oH4U9AAAHD/u8k58u
+jTzH/ff0cWlOK+43XYqTUn1tfT5bPzai/kv6fSY/hr24BwBgj1Efw/5c6ORW3JfC/m772E+Vg41X
+IjHq519DzMtz5mU4bpwFAOBIgV+7gTautZ/jfl5zn4f9ayrvkHNz2E+VA42/XnjIgn4oRP3XLOrH
+8N486sU9AAB7jPq00MvzRHd+I+0c96VZ+9VfXDUuHOBQOci48X5cUjNlJ/J+oPkSnNL+9bWgF/oA
+AHzWkC+9XtrPvnRP6lMq75LTs8Z+Whv2Swc6h3uM8ynV19XXZuuFPQAARwr72MylL6x6TvXdcVbd
+ONsb9lMW2ecsxN8aUZ/v21mK+tpsvZAHAGDPod/7vU+lb6WtfRNt6gn8njX2QzjgUtynwpXJSwj6
+uA7fbD0AAEeI+VQJ+7ibZB74MfJrUd+9l31PPOc3tg7p920q82DPI74W9HG2vnYMoh4AgD3GfbyR
+No/0UuDH528LcX9T2OdRPxQC/6EQ+fG10vIbO+EAAHDU2C/N3J9DuL8VYr524+ziUpw1YZ8acd8z
+hmQJDgAAxwz50uu1uO8ZpaDfJOxbcT+EeK89xr8v4gEAOHLsT6m8NKf22JqlX9wZZ21Y1+I8Bnxt
+xM8U9gAAHDXsS5FfG+fKhUBX1F8b1kNH5A+V99U+U+ADAHCkoC+FfSv0azE/9X74tUE9dIZ+Smbo
+AQAQ/LXnrZCf1nzIraHdG/CCHgAAgd8f/DeF+VaBL+QBAOC20P/Xwl7UAwDA7XG/+wh3MQAAgEgH
+AAAAAAAAAAAAAAAAAABS+keAAQClw7JfRQtEtAAAAABJRU5ErkJggg==" transform="matrix(0.24 0 0 -0.24 -90.3597 133.9048)">
 			</image>
 			<g>
 				<rect x="-86" y="-129" style="&st17;" width="172" height="260"/>
@@ -2855,7 +2860,7 @@ IQAAwN71/ggAAEDYAwAAwh4AABD2AADA//wjwACRa8ZF4qAGXAAAAABJRU5ErkJggg==" transform=
 			V46h3v-3h-3V45.3z"/>
 		<g>
 			<rect x="-49.3" y="-123.3" style="&st62;" width="127.6" height="241.6"/>
-			<text transform="matrix(1 0 0 -1 -49.3022 109.0356)"><tspan x="0" y="0" style="&st13; font-family:'BerninoSans'; font-size:12px;">Add above</tspan><tspan x="0" y="32" style="&st13; font-family:'BerninoSans'; font-size:12px;">Add below</tspan><tspan x="0" y="64" style="&st13; font-family:'BerninoSans'; font-size:12px;">Add Sub-Item</tspan><tspan x="0" y="96" style="&st13; font-family:'BerninoSans'; font-size:12px;">Add from template</tspan><tspan x="0" y="128" style="&st13; font-family:'BerninoSans'; font-size:12px;">Remove</tspan><tspan x="0" y="160" style="&st13; font-family:'BerninoSans'; font-size:12px;">Archive</tspan><tspan x="0" y="192" style="&st13; font-family:'BerninoSans'; font-size:12px;">Permalink</tspan><tspan x="0" y="224" style="&st13; font-family:'BerninoSans'; font-size:12px;">Rename</tspan></text>
+			<text transform="matrix(1 0 0 -1 -49.3022 109.0356)"><tspan x="0" y="0" style="&st13; &st135; &st136;">Add above</tspan><tspan x="0" y="32" style="&st13; &st135; &st136;">Add below</tspan><tspan x="0" y="64" style="&st13; &st135; &st136;">Add Sub-Item</tspan><tspan x="0" y="96" style="&st13; &st135; &st136;">Add from template</tspan><tspan x="0" y="128" style="&st13; &st135; &st136;">Remove</tspan><tspan x="0" y="160" style="&st13; &st135; &st136;">Archive</tspan><tspan x="0" y="192" style="&st13; &st135; &st136;">Permalink</tspan><tspan x="0" y="224" style="&st13; &st135; &st136;">Rename</tspan></text>
 		</g>
 		<path style="&st60;" d="M-57.6,114.9"/>
 	</g>
@@ -2898,258 +2903,268 @@ TTdJkhXdfBAEO/hjYEi5dwEGAOQaidNQdlfvAAAAAElFTkSuQmCC" transform="matrix(1 0 0 -1
 </pattern>
 <g id="body-tracker-header_2">
 </g>
-<rect x="116.2" y="192.8" style="&st62;" width="318.4" height="167.7"/>
-<text transform="matrix(1 0 0 1 116.1797 208.6165)"><tspan x="0" y="0" style="&st36; &st125; &st126;">Break down your projects into </tspan><tspan x="0" y="24" style="&st36; &st125; &st126;">managable pieces and track progress  </tspan><tspan x="0" y="48" style="&st36; &st125; &st126;">to come in on time and on budget.</tspan></text>
-<text transform="matrix(1 0 0 1 117.123 164.3604)" style="&st64; &st127; &st128;">A bit about tasks</text>
 <g>
-	<path style="&st93;" d="M721.2,245.8c0-16.6-0.1-33.3,0.2-49.9c0.1-6,3.4-10.6,8.2-14c3.8-2.7,8.1-3.4,12.7-3.3
-		c12.3,0.1,24.6,0,36.9,0c3.7,0.1,7.3,0.1,11,0.2c0.1,0.2,0.2,0.3,0.2,0.5c0.8,10.2,2.1,20.3,3.8,30.3c2.1,12.1,4.8,24.1,9.1,35.6
-		c2.5,6.6,5.4,13,10.3,18.2c4.3,4.6,10.1,6.5,15.7,3.8c5.8-2.7,9.4-7.5,12.6-12.7c6.1-9.8,10-20.6,13.4-31.6
-		c1.3-4.1,2.5-8.3,3.7-12.4c0.2,0.3,0.4,0.6,0.5,1c1.3,5.7,4.1,10.7,7.9,15c7,8,15.7,12.6,26.7,11.9c5.7-0.4,10.7-2.5,13.7-7.7
-		c3.4-6,3.6-12.5,2.1-19c-1.9-8.4-6.4-15.7-10.2-23.2c-1.6-3.2-3.5-6.4-4.6-9.9c3.1-0.4,6.2-0.3,9.2-0.1c2.5,0.1,5,0.9,7.2,2.2
-		c6,3.5,8.7,8.9,8.7,15.8c0,11.7,0,23.5,0,35.2c0,3.6,0,7.3,0,10.9c-10.3,0-20.6,0-30.9-0.1c-1.9,0-3.6-0.2-3.3,2.5
-		c0.1,4.5-0.6,8.8-1.5,13.2c-1.7,7.3-4.3,14.3-7.8,20.9c-3.5,6.8-7.8,13.1-12.2,19.3c-0.2,0.1-0.4,0.3-0.6,0.5
-		c-3.9,5.5-8.3,10.5-12.8,15.6c-8.3,9.3-16.8,18.4-24.5,28.2c-3.4,4.4-6.7,8.9-9.1,13.9c-2,4.1-3.2,8.5-3.7,13.1
-		c-2.8,0.1-5.7,0.2-8.5,0.2c-3.5-1.6-7.1-3.2-10.6-4.9c-5.4-2.6-10.7-5.2-16.1-7.8c-8.6-4.1-17.2-8.2-25.9-12.3
-		c-0.9-0.4-1-0.8-0.9-1.7c0.3-3.2,0.5-6.4,0.7-9.6c1.1-13.3,2.2-26.5,3.3-39.8c1.3-15.4,2.5-30.8,3.8-46.1c0.1-1.3,0-1.8-1.6-1.8
-		C745.9,245.9,733.6,246.2,721.2,245.8z"/>
-	<path style="&st94;" d="M920.2,242.7c0-3.6,0-7.3,0-10.9c0-11.7,0-23.5,0-35.2c0-6.9-2.6-12.3-8.7-15.8c-2.2-1.3-4.7-2-7.2-2.2
-		c-3.1-0.2-6.2-0.2-9.2,0.1c-1.2-2.3-2.1-4.7-2.9-7.1c-2-6.2-2.5-12.6-2.4-19.1c0.2-7.2,2.5-14,4-21c0.1,1,0.7,0.9,1.4,0.8
-		c5.1-0.7,10.2-1.2,15.3-1.1c5.9,0.1,11.8,0.3,17.6,1.6c5.1,1.2,10.1,2.7,15.1,4.4c6.6,2.3,12.5,5.6,18.2,9.4
-		c6.3,4.1,11.8,9.3,16.9,14.8c3.7,4,6.8,8.4,9.6,13c3.1,4.9,5.5,10.1,7.6,15.5c1.8,4.8,3.1,9.6,4.1,14.6c1.2,5.6,1.5,11.2,1.7,16.9
-		c0.1,4.3,0,8.7-0.8,12.9c-0.7,4.1-1.3,8.4-2.8,12.4c-1,2.6-1.5,5.4-2.7,8c-2.1,4.9-4.5,9.6-7.2,14.3c-3,5.3-6.9,9.8-11,14.3
-		c-4.9,5.4-10.4,10.3-16.6,14.3c-3.4,2.2-6.9,4.4-10.6,6c-3.9,1.7-7.9,3.4-12,4.5c-2.8,0.8-5.6,1.6-8.4,2.3c-3,0.8-6.1,1-9.1,1.3
-		c0-11-0.1-22-0.1-33C920.2,266.6,920.2,254.7,920.2,242.7z"/>
-	<path style="&st95;" d="M893.8,131.5c-1.5,7-3.8,13.8-4,21c-0.2,6.5,0.4,13,2.4,19.1c0.8,2.4,1.7,4.9,2.9,7.1
-		c1.1,3.5,2.9,6.6,4.6,9.9c3.9,7.6,8.3,14.9,10.2,23.2c1.5,6.5,1.3,13-2.1,19c-3,5.2-8,7.3-13.7,7.7c-10.9,0.7-19.6-3.9-26.7-11.9
-		c-3.8-4.4-6.6-9.3-7.9-15c-0.1-0.3-0.3-0.7-0.5-1c-1.2-5.1-1.6-10.2-1.6-15.4c0.1-4.8,0.7-9.6,1.4-14.4c1-2,1.4-3.7-0.6-5.5
-		c-2.6-2.5-2.9-6-3.6-9.3c0.3-0.3,0.6-0.6,1-0.8c7.5-5.2,12.9-12.1,16.1-20.5c4.5-11.5,6.6-23.6,7.1-36c0-1.4,0-2.8,0-4.3
-		c-0.4,0.2-0.6,0.3-0.7,0.4c-10,9-21.8,13.5-35.1,14.3c-1.6,0.1-2.2,0.7-2.8,2c-5.8,12.5-12.9,24.1-21.9,34.5
-		c-0.8,0.9-0.6,1.4-0.1,2.2c0.7,0.9,1.7,1.6,2,2.9c-0.9,1.3-1.8,2.5-2.7,3.8c-0.3,0.3-0.7,0.5-0.8,0.9l0,0c-2.3,2.5-4.8,4.8-7.6,6.8
-		c-4.2,3-8.7,5.3-14,5.9c-1.7,0.2-3.4,0.4-5.1,0.7c-3.7-0.1-7.3-0.1-11-0.2c-0.2-9.7,0.5-19.3,1.8-28.8c2.1-15,6.1-29.3,13.7-42.5
-		c8.4-14.6,20-25.6,35.7-31.9c9.2-3.7,18.8-5.7,28.8-5c10.6,0.7,19.1,5.7,25.7,14c6.1,7.9,9.1,17,10,26.9c0.6,6.2,0.4,12.4-0.9,18.6
-		C893.8,130.4,893.8,131,893.8,131.5z"/>
-	<path style="&st96;" d="M721.2,245.8c12.4,0.4,24.7,0.1,37.1,0.2c1.5,0,1.7,0.5,1.6,1.8c-1.3,15.4-2.5,30.8-3.8,46.1
-		c-1.1,13.3-2.2,26.5-3.3,39.8c-0.3,3.2-0.4,6.4-0.7,9.6c-0.1,0.9,0,1.3,0.9,1.7c8.6,4.1,17.3,8.2,25.9,12.3
-		c5.4,2.6,10.7,5.2,16.1,7.8c3.5,1.7,7,3.3,10.6,4.9c1.2,0.6,2.5,1.2,3.7,1.8c1.8,0.8,3.6,1.7,5.4,2.5c-1.9,2.7-4,5.3-4.3,8.8
-		c-3.3,1.6-4.1,3.5-3.1,7.4c-22.6-6.4-45.2-12.8-67.9-18.9c-1.8-0.7-3.7-1-5.5-1.9c-2.2-1.5-4.1-3.3-5.7-5.5
-		c-3.2-4.4-5.8-9-5.9-14.5c-0.2-9.3-0.3-18.6-0.4-27.9c-0.1-6.6-0.1-13.2-0.2-19.8c-0.1-10.7-0.2-21.3-0.2-32c0-7-0.1-13.9-0.1-20.9
-		C721.3,248,721.2,246.9,721.2,245.8z"/>
-	<path style="&st96;" d="M920.2,242.7c0,11.9,0,23.8,0,35.8c0,11,0.1,22,0.1,33c-0.3,6.2-0.1,12.3-0.1,18.5c0,11.7,0,23.4,0.1,35.2
-		c0,1.5,0,3.1,0,4.6c0,0.6,0,1.3,0,1.9c0,2.9-0.2,5.8,0,8.7c0.1,2.2,1.7,3.9,2.7,5.8c3.1,5.4,6.4,10.8,9.6,16.2
-		c0.3,0.5,0.6,1,1.1,1.7c-4.8-0.1-9.4,0.3-13.9-0.2c-1.9-0.2-3.6-1.2-5.1-2.5c-4.5-4.2-9.1-8.3-13.6-12.6c-1.3-1.3-2.7-2.2-4.6-1.8
-		c-3.1,0.6-5.8-0.5-8.5-1.8c-1-0.5-2.1-0.9-3.2-1.4c1-1.3,2.4-1.4,3.7-1.9c4.8-1.6,8.6-4.2,10.6-9c0.1-0.3,0.2-0.7,0.3-1.1
-		c0.4-0.6,0.6-1.2,0.6-1.9c0.1-0.6,0.3-1.2,0.3-1.8c0.2-3.7-0.5-7.3-0.9-10.9c-0.9-8.7-2-17.4-3.1-26.1c-0.9-7.2-1.7-14.3-2.5-21.5
-		c-0.2-2.4-0.4-4.8-0.7-7.2c-0.9-7.6-1.9-15.2-2.8-22.8c-1.3-11.3-2.5-22.5-3.8-33.8c0-0.4-0.1-0.7-0.6-0.8
-		c-0.3-2.7,1.4-2.5,3.3-2.5C899.6,242.8,909.9,242.7,920.2,242.7z"/>
-	<path style="&st93;" d="M721.6,302c0.1,6.6,0.1,13.2,0.2,19.8c0.1,9.3,0.1,18.6,0.4,27.9c0.1,5.5,2.7,10.2,5.9,14.5
-		c1.6,2.2,3.5,3.9,5.7,5.5c-0.9,0.1-1.7,0.1-2.6,0.1c-18.2,0-36.4,0-54.7,0c-12.8,0-25.6,0-38.4,0c0.5-6.7,3.9-12.1,8.2-17
-		c5.8-6.5,12.9-11.6,20.1-16.5c6.6-4.5,13.4-8.5,20.2-12.7c4.9-3,9.9-5.8,14.7-8.8c5.1-3.2,10.2-6.5,15.3-9.8
-		c0.7-0.3,1.1-0.8,1.6-1.3C719.4,303.3,720.5,302.6,721.6,302z"/>
-	<path style="&st94;" d="M830.4,443.5c3-1.6,5.9-3.4,9-4.8c6-2.8,11.9-6,17.8-9c0.6-0.3,0.9-0.6,1.6-0.2c4.8,2.7,9.8,4.8,14.8,7.2
-		c2.6,1.3,5.3,2.5,7.9,3.7c0.5,2.1,0.3,4.3,0.6,6.4c0.1,0.8-0.4,1.2-1.2,1.4c-0.5,0.1-1,0.7-0.1,0.9c1.3,0.3,1.3,1.2,1,1.9
-		c-0.6,1.8,0,3.5,0.1,5.2c0.1,1.2-0.2,2.3,0,3.4c0.1,0.9-1.1,1.2-0.9,1.6c1.2,2.1,0.5,4.5,1,6.6c-1.5,0.9-3.1,1.8-4.6,2.7
-		c-0.5,0.3-0.9,0.7-0.5,1.3c0.4,0.6,0.9,0.8,1.5,0.4c0.8-0.5,1.7-0.9,2.6-1.3c1.2,2,0.7,4.2,0.5,6.3c0,0.4-0.3,0.8-0.1,1.3
-		c-0.2,0.3-0.4,0.6-0.7,0.8c-0.4,0.3-1,0.4-0.7,1.2c0.3,0.8,0.9,0.8,1.6,0.7c0,4.9,0.1,9.8,0,14.7c0,1.9,0.5,3.8-0.5,5.6
-		c-5.3-2.9-10.5-5.9-16-8.5c-5.4-2.6-10.5-5.7-15.8-8.5c-3.9-2-7.8-3.9-11.5-6.3c-0.2-0.6-0.6-1.2,0.2-2c-1.2,0.1-2,0.3-2.8,0.7
-		l-0.1,0c0.1-0.3,0-0.6-0.2-0.8c-1.6-1.6-3.2-3.3-2.8-5.9c0.1-0.5-0.2-1-0.8-1.1l0,0c-0.1-0.3,0-0.9-0.5-0.8c-1,0.2-1.4,1-1.1,2.2
-		c-1.5-1.1-3.2-1.6-3.7-3.4c1.3,0,2.2-1,3.8-0.9c-0.5-0.4-0.6-0.5-0.8-0.7c-0.4-0.4-0.9-0.8-0.6-1.4c0.2-0.5,0.9-0.3,1.3-0.3
-		c1.2-0.1,2.3,0.2,3.1,1.2c0.2,0.3,0.7,0.5,1,0.2c0.5-0.5-0.6-0.5-0.4-1c0.4-0.5,1.2,0.5,1.6-0.3c-1.6-0.9-1.6-0.9-4-1
-		c-0.5,0-2.4-3-2.3-3.5c0.2-0.7,0.6-0.3,1-0.2c0.5,0.2,0.9,0.9,1.8,0.7c-0.5-0.9-1.8-1.1-1.5-2.3c0.8,0.1,1,1.2,2.1,1
-		c-0.7-0.6-0.4-1.3-0.2-1.9c0.1-0.3,0.4-0.7,0-1c-0.4-0.3-0.8,0-1.1,0.3c-0.9,1-1.3,0.6-1.5-0.5l0.1-0.1l-0.1,0.1
-		c-1.4-0.5,0.2-1.4-0.2-1.7c-1.5-1.4-0.7-2.6,0-3.9c0.2-0.3-0.1-0.8-0.5-1.2c-0.8,2.2-1.6-0.2-2.6-0.1c-0.2,0,0-1,0.7-1.3
-		c0.1,0.2,0.1,0.5,0.4,0.5c0,0,0.1-0.1,0.1-0.1c0-0.3-0.3-0.3-0.5-0.4c-0.4-2.1,1-1.9,2.2-1.9C829.9,444.8,830.2,444.2,830.4,443.5z
-		 M872.8,457.5c0.4-0.9,0.6-1.5,0.3-2.3C872.2,455.8,872.2,456.5,872.8,457.5z M831.7,450.7c0,0-0.2-0.1-0.4-0.2
-		c-0.5-0.1-0.6,0.3-0.7,0.6c-0.1,0.3,0.1,0.5,0.4,0.5C831.3,451.7,831.6,451.5,831.7,450.7z M834.7,453.5c-0.4-0.8-0.9-1-1.8-1
-		C833.3,453.3,833.7,453.6,834.7,453.5z M830.6,447.7c0-0.4-0.1-0.5-0.4-0.5c-0.1,0-0.3,0.2-0.4,0.3c-0.1,0.3,0.1,0.5,0.4,0.5
-		C830.4,447.9,830.5,447.7,830.6,447.7z M834,454.7c0-0.1-0.1-0.2-0.1-0.3c-0.1,0.1-0.2,0.1-0.3,0.2c-0.1,0.2-0.1,0.4,0.2,0.4
-		C833.8,454.9,833.9,454.8,834,454.7z M880.9,442.6c0,0,0.1,0,0.1-0.1c0,0,0-0.1-0.1-0.2c-0.1,0-0.1,0.1-0.2,0.1
-		C880.8,442.5,880.9,442.6,880.9,442.6z"/>
-	<path style="&st97;" d="M655.7,463.3c7.7-9.8,15-19.9,22.5-29.8c2.4-3.2,4.8-6.3,7.2-9.4c0.5-0.6,0.9-0.8,1.7-0.6
-		c9.5,2.3,19.1,4.5,28.7,6.7c12.4,2.9,24.7,5.8,37.1,8.7c1.9,0.5,3.8,1,5.8,1.4c0.8,0.2,1,0.4,0.5,1c-3.3,4.7-6.6,9.3-9.8,14
-		c-3.1,4.5-6.2,8.9-9.3,13.4c-2.9,4.3-5.8,8.6-8.7,12.8c-0.6-0.8-1.3-1.5-1.9-2.3c-4.3-5.6-8.3-11.4-12.4-17.1
-		c-2.7-3.7-5.5-7.4-8.1-11.2c-0.7-1.1-1.1-1.7-2.9-1.2c-3.9,1.1-8,2.1-11.8,3.4c-5,1.6-10.2,2.9-15.2,4.4c-6.8,2-13.6,4-20.5,5.6
-		C657.5,463.4,656.7,464,655.7,463.3z"/>
-	<path style="&st97;" d="M730.5,481.9c-3.3,1.2-6.6,2.2-9.9,3.5c-5.4,2.1-11,4.1-16.5,5.9c-9.2,3.1-18.4,6.4-27.6,9.6
-		c-1,0.3-1.3-0.1-1.7-0.8c-4.4-8.3-8.9-16.5-13.3-24.7c-2-3.7-4-7.3-6.1-11c0.7-0.5,1.4,0,2.1,0.2c5.2,1.2,10.5,2.4,15.7,3.6
-		c6.7,1.6,13.4,3.1,20,4.7c8.8,2.1,17.6,4.1,26.3,6.2C723.3,479.9,727,480.4,730.5,481.9z"/>
-	<path style="&st98;" d="M730.5,481.9c-3.5-1.4-7.2-1.9-10.9-2.8c-8.8-2.1-17.5-4.2-26.3-6.2c-6.7-1.6-13.3-3.1-20-4.7
-		c-5.2-1.2-10.5-2.4-15.7-3.6c-0.7-0.2-1.4-0.7-2.1-0.2c-0.4-0.5-0.3-0.8,0.3-1c0.9,0.7,1.8,0,2.6-0.2c6.9-1.7,13.7-3.6,20.5-5.6
-		c5.1-1.5,10.2-2.7,15.2-4.4c3.9-1.3,7.9-2.3,11.8-3.4c1.9-0.5,2.2,0.1,2.9,1.2c2.6,3.8,5.4,7.5,8.1,11.2
-		c4.1,5.7,8.2,11.5,12.4,17.1c0.6,0.8,1.2,1.5,1.9,2.3C731.1,481.9,730.8,481.9,730.5,481.9z"/>
-	<path style="&st96;" d="M854.4,371.9c4.1,2,8.1,4.1,12.2,6.1c0.8,0.4,0.9,0.6,0.6,1.5c-1,2.8-2.6,3.8-5.4,2.9
-		c-2.8-0.9-5.6-1.9-8.3-3c-1-0.4-0.9-0.1-1.1,0.7c-0.8,3.2-1.5,6.4-2.6,9.5c-0.4,1.3,0,1.6,1,2c6.7,2.9,13.4,6,20.1,8.9
-		c1.3,0.6,1.2,0.9,0.2,1.6c-3,2.2-6.4,2.6-9.9,2.2c-3.1-0.3-6.2-1.1-9.3-1.6c-5.1-0.8-10.1-2.3-15-3.7c-7.3-2-14.7-4.1-22-6.2
-		c-0.2-0.1-0.4-0.3-0.6-0.4c3-2.8,3.1-5,0.3-8.3c0.2-0.5,0.3-1,0.5-1.5c0.9-2.2,1.8-4.4,3.7-5.9c3.5,1.6,7.1,3,10.5,4.9
-		c2.6,1.5,4.8,0.9,7.1-0.2c4.3-2.1,7.3-5.7,10.2-9.3c0.4-0.6,0.9-1.1,1.1-1.8c0.9-1.6,1.9-0.1,2.8-0.1
-		C851.9,370.6,853.1,371.2,854.4,371.9z"/>
-	<path style="&st94;" d="M895.7,447c5.9,2.8,11.9,5.7,17.8,8.5c7,3.3,14,6.5,21,9.7c1,0.5,1.8,1.2,3.2,1.4
-		c-10.1,6.4-19.9,12.7-29.8,18.9c-2.1,1.3-4.1,2.9-6.5,3.8c-1.4-0.7-2.4-0.6-2.8,1.7c-0.6-1.8-0.2-3.2-1-4.5
-		c-0.4-0.7-0.4-1.6-1.3-2.2c-0.2-0.2-0.3-0.6-0.4-1c0.4-0.3,0.7-0.7,1.1-0.9c3.9-2.4,7.9-4.8,11.8-7.2c3.4-2,6.7-4.1,10.1-6.1
-		c0.5-0.3,1.4-0.6,0.8-1.5c-0.5-0.9-1.1-0.5-1.7-0.1c-0.7,0.5-1.4,1-2.2,1.4c-4.4,2.5-8.6,5.5-13.2,7.8c-0.7-0.8-1.5-0.9-2.2-0.3
-		c-0.9,0.7,0.8,0.9,0.4,1.6l-0.1-0.1c-0.2,0-0.7-0.2-0.5,0.4c-0.2,0.1-0.4,0.3-0.6,0.4c-0.7-0.2-1.9-0.1-0.7-1.3
-		c0.2-0.2,0.2-0.4,0-0.4c-1.6,0-0.7-1.1-0.9-1.9c-0.2-0.6-0.5-1.1,0.2-1.6c0.8-0.5,0.5,0.8,1.1,0.7c0.4-0.1,0.8,0.8,1.3,0.3
-		c0.4-0.3-0.1-0.8-0.1-1.2c0-1.3-1.5-1.4-1.9-2.3l0.1,0l0.1,0.1c0.4,0,0.5-0.3,0.6-0.7c3.1-1.9,6.2-3.8,9.2-5.7
-		c0.5-0.3,1.4-0.4,0.9-1.4c-0.5-1.1-1.2-0.6-1.8-0.2c-3.6,2.2-7.3,4.4-10.9,6.6c-0.5-0.2-1.1-0.6-1.1,0.5l-0.1-0.1l0.1-0.1
-		c-0.2,0.1-0.3,0.3-0.5,0.4l0.1,0c-0.3,0.1-0.8-0.3-0.7,0.4c-0.5,0.7-1.2,1-2,1.3c-0.3-0.3-0.9-0.7-0.1-1.1c1.6-0.8,1.7-1.6,0.3-2.8
-		c-0.4-0.3-0.5-0.8-0.7-1.3c-0.3-0.9-0.7-1-1.5-0.6c-0.5,0.2-1.4,1-1.7-0.3c0.3-0.2,0.6-0.5,0.9-0.6c2.8-1.7,5.7-3.4,8.5-5.2
-		c0.7-0.4,1.6-0.7,0.9-1.8c-0.7-1.2-1.2-0.1-1.8,0.2c-1.7,0.9-3.4,1.9-5.2,2.9c0.2-1.2-0.2-2.9,2-2.8c0.5,0,1.1-0.7,0.8-1.4
-		c-0.3-0.7-0.9-0.5-1.4-0.2c-0.5,0.2-1,0.4-1.2-0.3c-0.2-0.5,0.3-0.7,0.6-1c1-0.9,2-1.5,3.3-0.7c0.1,0.2,0.1,0.5,0.4,0.5
-		c0,0,0.1-0.1,0.1-0.1c0-0.3-0.3-0.3-0.5-0.4c-0.9-1-0.5-3-2.3-3.6c0,0.3-0.1,0.5-0.1,0.6c0.1,0.6,0.1,1.2-0.6,1.3
-		c-0.8,0.1-0.8-0.7-0.8-1.2c-0.1-1.5-0.7-3.3,1.6-3.8C894.9,448.4,895.6,447.9,895.7,447z M903.8,459c0.8,0,1.6,0.3,2.5,0.2
-		C905.5,458.3,904.7,458.4,903.8,459z M904.1,461.5c1.1,0.4,1.6,1.3,2.6,0.3C905.9,461.4,905.3,460.9,904.1,461.5z M903,455.5
-		c0.3,0,0.6,0,0.5-0.4c0-0.1-0.3-0.2-0.4-0.2c-0.2,0-0.5,0-0.5,0.4C902.7,455.3,902.9,455.4,903,455.5z M904.4,455.1l-0.1,0.1l0.1,0
-		L904.4,455.1z"/>
-	<path style="&st99;" d="M658.9,183.4c-2.6,0-5.2-0.6-7.6-1.6c-5-1.9-9.9-4-14.2-7.4c-4.6-3.7-8.5-7.9-11.6-13
-		c-3.6-6-5.6-12.4-6.1-19.2c-0.9-12.3,2.6-23.2,10.6-32.6c7.1-8.4,16.1-13.4,26.9-15.2c10.8-1.8,20.9,0,30.2,5.8
-		c15.6,9.7,22.8,24,21.7,42.2c-0.5,8.1-3.4,15.3-8,22c-6.5,9.4-15.6,15.1-26.4,18.1c-4.9,1.3-10.1,1.1-15.2,0.9
-		C659.1,183.4,659,183.4,658.9,183.4z M664.1,181.8c24.7-0.3,44.2-20.2,43-45.5c-1.1-21.8-19.8-41.7-45.1-40.4
-		c-23,1.1-40.8,20-40.8,42.9C621.2,163.3,641.4,181.8,664.1,181.8z"/>
-	<path style="&st98;" d="M718.3,303.9c-0.5,0.5-0.9,1-1.6,1.3c-5.4-5.1-12.1-7.2-19.2-8.3c-4.8-0.7-9.6-1-14.4-0.9
-		c-7.8,0.1-13.2-3.7-17-10.2c-3.9-6.7-6-14.2-9.2-21.2c-4.6-10.3-11.3-18.5-22.2-22.5c-6.9-2.5-14.2-3.3-21.5-3.1
-		c-5.2,0.1-10.4,0.8-15.7,1.2c-7.9,0.7-14.3-2-18.7-8.8c-2.1-3.2-3.4-6.9-4.4-10.6c-1.4-5-2.6-10-3.9-15c-0.9-3.4-2.1-6.7-3.8-9.8
-		c-2.5-4.2-6.1-6.7-11-7.3c-0.4,0-0.9-0.1-1.3-0.1c-0.7,0-1.1-0.2-1.1-1c0-1,0.6-0.9,1.2-0.9c6.3,0.4,11,3.3,14,8.9
-		c3.5,6.3,4.7,13.3,6.5,20.2c1.3,5.3,2.8,10.6,5.9,15.3c4.1,6.2,10.2,8.1,17.3,7.3c8.4-1,16.8-1.6,25.3-0.7
-		c9.9,1.1,18.6,4.6,25.7,11.7c4.1,4.1,6.9,9,9.2,14.2c2.8,6.3,5.1,12.7,7.9,18.9c2.2,4.7,5.2,8.9,10.3,10.8c2,0.7,4.1,0.9,6.2,0.9
-		c6.8,0.2,13.6,0.4,20.2,2.1c5.2,1.3,10,3.5,14.1,7C717.6,303.4,718,303.6,718.3,303.9z"/>
-	<path style="&st94;" d="M830,455.5c0.2,1.1,0.6,1.6,1.5,0.5c0.3-0.4,0.6-0.6,1.1-0.3c0.4,0.3,0.1,0.7,0,1c-0.2,0.6-0.5,1.3,0.2,1.9
-		c-1.1,0.2-1.3-0.9-2.1-1c-0.4,1.2,1,1.5,1.5,2.3c-0.9,0.3-1.3-0.4-1.8-0.7c-0.4-0.2-0.8-0.5-1,0.2c-0.2,0.5,1.7,3.5,2.3,3.5
-		c2.3,0.1,2.3,0.1,4,1c-0.4,0.8-1.1-0.2-1.6,0.3c-0.2,0.5,0.9,0.4,0.4,1c-0.3,0.3-0.8,0.1-1-0.2c-0.8-1-1.9-1.4-3.1-1.2
-		c-0.5,0.1-1.1-0.2-1.3,0.3c-0.3,0.6,0.2,1,0.6,1.4c0.2,0.2,0.4,0.3,0.8,0.7c-1.5-0.1-2.5,0.9-3.8,0.9c0.4,1.8,2.1,2.3,3.7,3.4
-		c-0.3-1.2,0.1-2,1.1-2.2c0.5-0.1,0.4,0.5,0.5,0.8c-0.5,0.1-0.8,0.4-0.7,0.9c0,0.2,0.2,0.4,0.4,0.3c0.4-0.3,0.2-0.8,0.3-1.2
-		c0.6,0.1,0.9,0.6,0.8,1.1c-0.4,2.6,1.1,4.2,2.8,5.9c0.2,0.2,0.3,0.5,0.2,0.8c-2.1-1.2-4.5-1.8-6.2-3.7c0.4,0,0.9,0,1.3,0
-		c0.5,0,1-0.3,0.9-0.9c0-0.5-0.1-1.1-0.7-1.2c-0.6-0.1-0.6,0.5-0.8,0.8c-0.3,0.4-0.5,0.8-0.8,1.3c-1.4,0.2-2.3-0.8-3.3-1.4
-		c-7.8-4.1-15.5-8.3-23.2-12.6c-0.6-0.3-1.5-0.3-1.9-1c9.8-5,19.6-10,29.4-15c-0.3,0.7-0.5,1.3-0.8,2l0,0c-1.3,0-2.7-0.2-2.2,1.9
-		l0,0c-0.7,0.2-0.9,1.3-0.7,1.3c0.9-0.1,1.7,2.2,2.6,0.1c0.4,0.4,0.7,0.9,0.5,1.2c-0.7,1.3-1.4,2.6,0,3.9
-		C830.2,454.2,828.6,455.1,830,455.5L830,455.5z M826.4,454.3c-0.8-0.3-1.1,0.4-1.6,0.7c-0.3,0.2-0.8,0.3-0.4,0.8
-		c0.3,0.3,0.7,0.4,1.1-0.1c0.8-1,0.9-0.6,1.6,0.3c0.8,1.1,0,1.3-0.4,1.7c-0.4,0.6-0.4,1,0.2,1.4c0.3,0.2,0.8,0.9,1,0.4
-		c0.3-1,2.2-1.4,1.3-2.5C828.4,456,828.6,453.9,826.4,454.3z M827.8,462.4c-0.1,0.1-0.1,0.2-0.2,0.2c0,0,0.1,0.1,0.1,0.1
-		c0.1-0.1,0.1-0.1,0.2-0.2C827.9,462.5,827.8,462.4,827.8,462.4z M828.4,461c0.1,0.1,0.1,0.1,0.2,0.2c0,0,0.1-0.1,0.1-0.1
-		c-0.1-0.1-0.1-0.1-0.2-0.2C828.5,460.9,828.5,461,828.4,461z"/>
-	<path style="&st99;" d="M638.2,369.8c12.8,0,25.6,0,38.4,0c18.2,0,36.4,0,54.7,0c0.9,0,1.7-0.1,2.6-0.1c1.7,0.9,3.7,1.2,5.5,1.9
-		c-4.2,0.1-8.4,0.1-12.6,0.1c-9.7,0-19.4,0-29.1,0c-10,0-20,0-30,0c-9.4,0-18.8,0-28.2,0c-10.4,0-20.9-0.1-31.3-0.1
-		c-7.5,0-15.1,0.1-22.6,0.1c-8.1,0-16.2-0.1-24.3-0.1c-6.5,0-13,0.1-19.5,0.1c-0.7,0-1.7,0.4-1.7-1c0-1.4,1.1-0.9,1.8-0.9
-		c13.2-0.1,26.3-0.1,39.5-0.1c10.6,0,21.1,0.1,31.7,0.1C621.4,369.9,629.8,369.8,638.2,369.8z"/>
-	<path style="&st97;" d="M896.9,391.8c-5.8,2.6-11.2,5-16.6,7.4c-0.6,0.2-1,0.1-1.6-0.2c-2.8-1.5-5.8-2.6-8.7-3.9
-		c-3.9-1.9-8-3.4-11.9-5.4c-0.6-0.3-1.1-0.7-1.9-0.9c4.7-2.2,9.5-4.3,14.2-6.6c1.4-0.7,2.4-0.5,3.7,0.1c4.9,2.2,9.9,4.1,14.8,6.2
-		C891.4,389.5,893.9,390.6,896.9,391.8z"/>
-	<path style="&st94;" d="M895.9,483.4c0.1,0.3,0.2,0.8,0.4,1c0.8,0.6,0.9,1.5,1.3,2.2c0.7,1.3,0.4,2.7,1,4.5
-		c0.4-2.3,1.5-2.4,2.8-1.7c-2.1,2.1-4.9,3.2-7.3,4.9c-3.8,2.5-7.8,4.9-11.6,7.4c-0.3,0-0.7,0-1,0l0,0c0.9-1.8,0.4-3.8,0.5-5.6
-		c0.1-4.9,0-9.8,0-14.7c0.2-0.2,0.4-0.5,0.6-0.6c5.4-3.3,10.7-6.5,16.1-9.8c0.4,0.9,1.9,1,1.9,2.3c0,0.4,0.5,0.9,0.1,1.2
-		c-0.5,0.5-0.9-0.4-1.3-0.3c-0.7,0.1-0.3-1.3-1.1-0.7c-0.7,0.5-0.3,1-0.2,1.6c0.2,0.7-0.6,1.8,0.9,1.9c0.1,0,0.1,0.3,0,0.4
-		c-1.2,1.2,0.1,1.1,0.7,1.3c-2.9,1.8-5.8,3.6-8.7,5.4c-0.7,0.4-0.7,0.8-0.3,1.5c0.4,0.7,0.8,0.5,1.3,0.1
-		C893.3,484.9,894.6,484.2,895.9,483.4z M896.2,487.4c-0.1-0.1-0.2-0.2-0.4-0.2c-0.2,0-0.4,0.1-0.4,0.2c-0.1,0.2,0,0.3,0.2,0.4
-		C895.8,487.8,896.1,487.8,896.2,487.4z"/>
-	<path style="&st94;" d="M895.7,447c-0.1,0.9-0.8,1.4-1.4,1.5c-2.3,0.6-1.7,2.3-1.6,3.8c0,0.5,0,1.3,0.8,1.2
-		c0.7-0.1,0.7-0.7,0.6-1.3c0-0.2,0-0.3,0.1-0.6c1.8,0.6,1.4,2.6,2.3,3.6l0,0c-1.3-0.8-2.3-0.2-3.3,0.7c-0.3,0.3-0.8,0.4-0.6,1
-		c0.3,0.6,0.8,0.5,1.2,0.3c0.5-0.2,1.1-0.5,1.4,0.2c0.3,0.7-0.3,1.4-0.8,1.4c-2.2-0.1-1.8,1.6-2,2.8c-3.2,2.4-6.8,4.3-10.2,6.4
-		c-0.6-2.2,0.2-4.5-1-6.6c-0.3-0.5,1-0.8,0.9-1.6c-0.2-1.1,0.1-2.3,0-3.4c-0.1-1.7-0.7-3.4-0.1-5.2c0.2-0.7,0.3-1.7-1-1.9
-		c-0.9-0.2-0.3-0.8,0.1-0.9c0.8-0.2,1.3-0.6,1.2-1.4c-0.3-2.1,0-4.3-0.6-6.4c4.1,2,8.4,3.4,12.2,5.9C894.4,446.7,895,447,895.7,447z
-		 M892.8,448c-0.1,0-0.2,0-0.2,0c0,0.1,0,0.2,0,0.3c0.1,0,0.2,0,0.2,0C892.8,448.1,892.8,448,892.8,448z"/>
-	<path style="&st99;" d="M920.2,371.7c0-0.6,0-1.3,0-1.9c12.5,0,25,0,37.4,0.1c3.6,0,7.3,0,10.9,0.1c0.6,0,1.3,0,1.3,0.9
-		c0,1-0.6,1-1.3,1c-6.6,0-13.2-0.1-19.8-0.1c-8,0-15.9,0-23.9,0.1C923.3,371.8,921.8,371.7,920.2,371.7z"/>
-	<path style="&st99;" d="M854.4,371.9c-1.2-0.6-2.4-1.2-3.7-1.9c0.6-0.1,1.2-0.2,1.8-0.2c8.4,0,16.8,0,25.1,0
-		c7.5,0,14.9,0.1,22.4,0.1c0,0.7-0.3,1.3-0.6,1.9c-6-0.4-12.1-0.2-18.1-0.2c-8.4,0-16.7,0-25.1,0C855.6,371.7,855,371.8,854.4,371.9
-		z"/>
-	<path style="&st98;" d="M814.6,384c2.8,3.3,2.7,5.5-0.3,8.3c-2.8,1.3-5.2,0.6-7.2-1.7c-1-3.9-0.2-5.8,3.1-7.4
-		C811.8,383.1,813.2,383.4,814.6,384z"/>
-	<path style="&st94;" d="M835.7,477.1c0.8-0.4,1.6-0.6,2.8-0.7c-0.8,0.7-0.4,1.3-0.2,2C837.3,478,836.4,477.7,835.7,477.1z"/>
-	<path style="&st94;" d="M881.5,501.6c0.3,0,0.7,0,1,0C882.2,502,881.8,502.1,881.5,501.6z"/>
-	<path style="&st100;" d="M658.9,183.4c0.1,0,0.2,0,0.3,0C659.1,183.4,659,183.4,658.9,183.4z"/>
-	<path style="&st96;" d="M858.9,180.8c-0.7,4.8-1.4,9.5-1.4,14.4c-0.1,5.2,0.4,10.3,1.6,15.4c-1.2,4.1-2.4,8.3-3.7,12.4
-		c-3.5,11-7.4,21.8-13.4,31.6c-3.2,5.1-6.8,10-12.6,12.7c-5.7,2.7-11.4,0.7-15.7-3.8c-4.9-5.2-7.9-11.6-10.3-18.2
-		c-4.3-11.6-7-23.5-9.1-35.6c-1.8-10-3.1-20.1-3.8-30.3c0-0.2-0.1-0.3-0.2-0.5c1.7-0.2,3.4-0.4,5.1-0.7c5.2-0.7,9.8-2.9,14-5.9
-		c2.8-2,5.3-4.2,7.6-6.8c0.4,1.7,1.6,1.3,2.5,0.8c1.1-0.6,1.6-0.6,2,0.6c0.3,0.9,1.1,1.3,2,1.3c1,0.1,0.9-0.7,1.1-1.4
-		c0.1-0.4,0.4-0.6,0.7-0.8c0.4-0.2,0.6-0.5,0.2-0.8c-1.9-1.2-2.9-3.5-5.1-4.5c-0.3-1.2-1.3-1.9-2-2.9c-0.6-0.8-0.7-1.3,0.1-2.2
-		c9-10.4,16.1-22.1,21.9-34.5c0.6-1.3,1.2-1.9,2.8-2c13.3-0.8,25.1-5.3,35.1-14.3c0.1-0.1,0.3-0.2,0.7-0.4c0,1.5,0,2.9,0,4.3
-		c-0.4,12.4-2.6,24.4-7.1,36c-3.3,8.4-8.7,15.3-16.1,20.5c-0.4,0.2-0.6,0.6-1,0.8c-0.5,0.2-1.1,0.3-1.5,0.6
-		c-3.3,1.6-6.4,3.4-10.2,3.8c-1.2,0.1-2.6,0.2-4.2,1c1.2,0.2,2.2,0.1,2.7,0.5c1.4,1.4,2.8,1.7,4.6,1c1-0.4,2,0.6,2,1.7
-		c0,0.2,0.1,0.3,0.3,0.5c1,1.3,1.9,2.6,3.9,1.9c0.5-0.2,1.3-0.3,1.3,0.7c0,0.5,0.3,0.6,0.7,0.6c1.5,0.2,3,1.1,4.5,0.5
-		C859.2,179.5,858.4,180.2,858.9,180.8z M856,141L856,141c0-1.7,0-3.5,0-5.2c0-0.8,0.1-1.7-1.1-1.7c-1.2,0-1.2,0.8-1.2,1.7
-		c0,2.8,0,5.7,0,8.5c0,0.6,0.2,1.4-0.8,1.6c-0.8,0.2-2.1-0.4-1.9,1.3c0.2,1.6,1.5,0.8,2.4,1c0.2,0.1,0.5,0,0.7,0
-		c1.3,0.1,1.9-0.5,1.9-1.9C856,144.6,856,142.8,856,141z M825.9,167l0-0.1l-0.1,0L825.9,167z"/>
-	<path style="&st94;" d="M893.9,309.7c-0.5,0.4-0.9,0.7-1.6,0.5c-9.4-2-18.3-5.2-26.5-10.1c-0.6-0.4-1.2-0.6-1.2-1.5
-		c4.4-6.2,8.7-12.5,12.2-19.3c3.4-6.7,6.1-13.6,7.8-20.9c1-4.3,1.6-8.7,1.5-13.2c0.5,0,0.6,0.4,0.6,0.8c1.2,11.3,2.5,22.6,3.8,33.8
-		c0.9,7.6,1.9,15.2,2.8,22.8C893.5,304.9,893.7,307.3,893.9,309.7z"/>
-	<path style="&st99;" d="M814,369.8c10.5,0,21,0.1,31.5,0.1c0.8,0,1.6-0.2,2.4,0.2c-0.2,0.7-0.7,1.3-1.1,1.8
-		c-0.6-0.3-1.2-0.2-1.8-0.2c-6.4,0-12.9,0-19.3,0c-5.5,0.1-11-0.3-16.5,0.1c-1.2-0.6-2.5-1.2-3.7-1.8
-		C808.3,369.9,811.1,369.8,814,369.8z"/>
-	<path style="&st101;" d="M858.9,180.8c-0.4-0.7,0.3-1.3-0.1-2.1c-1.5,0.6-3-0.3-4.5-0.5c-0.4,0-0.7-0.2-0.7-0.6
-		c0-1-0.7-0.9-1.3-0.7c-2,0.8-2.9-0.6-3.9-1.9c-0.1-0.1-0.2-0.3-0.3-0.5c0-1.1-1-2.1-2-1.7c-1.8,0.7-3.2,0.3-4.6-1
-		c-0.4-0.4-1.5-0.3-2.7-0.5c1.6-0.8,3-0.8,4.2-1c3.8-0.4,6.9-2.2,10.2-3.8c0.5-0.2,1-0.4,1.5-0.6c0.7,3.3,1,6.8,3.6,9.3
-		C860.2,177.2,859.9,178.9,858.9,180.8z"/>
-	<path style="&st101;" d="M820.3,160.8c2.2,0.9,3.1,3.2,5.1,4.5c0.5,0.3,0.3,0.6-0.2,0.8c-0.3,0.2-0.6,0.4-0.7,0.8
-		c-0.2,0.6-0.1,1.4-1.1,1.4c-0.9-0.1-1.7-0.4-2-1.3c-0.4-1.2-1-1.3-2-0.6c-0.9,0.6-2.1,0.9-2.5-0.8c0,0,0,0,0,0
-		c0.4,0.1,0.7,0.1,1-0.2c0.2-0.3,0.1-0.5-0.2-0.7C818.5,163.3,819.4,162,820.3,160.8z"/>
-	<path style="&st94;" d="M817.6,164.5c0.3,0.2,0.4,0.4,0.2,0.7c-0.3,0.3-0.6,0.3-1,0.2C816.9,165,817.3,164.8,817.6,164.5z"/>
-	<path style="&st93;" d="M814.6,374.4c1.4,0.8,3,1.2,4.3,2.2c-1.9,1.5-2.8,3.7-3.7,5.9c-0.2,0.5-0.4,1-0.5,1.5
-		c-1.4-0.7-2.9-0.9-4.4-0.8C810.6,379.7,812.6,377.1,814.6,374.4z"/>
-	<path style="&st94;" d="M888.9,466c0.3,1.3,1.2,0.6,1.7,0.3c0.8-0.4,1.2-0.2,1.5,0.6c0.1,0.5,0.3,1,0.7,1.3c1.4,1.1,1.3,2-0.3,2.8
-		c-0.8,0.4-0.2,0.8,0.1,1.1c-0.4,0.2-0.7,0.3-1.1,0.5c-0.3-0.4-0.4-1.3-1.1-0.8c-0.7,0.5,0.3,0.9,0.4,1.3c-0.5,0.4-1.1,0.5-1.6,0.9
-		c-2.4,1.8-4.8,3.5-7.7,4.5c-0.3-0.5,0-0.9,0.1-1.3c0.2-2.1,0.7-4.3-0.5-6.3C883.8,469.3,886.4,467.7,888.9,466z"/>
-	<path style="&st99;" d="M881.6,478.6c2.9-0.9,5.3-2.7,7.7-4.5c0.5-0.4,1.2-0.5,1.6-0.9c0.2-0.2,0.4-0.3,0.6-0.5
-		c0.4-0.2,0.7-0.3,1.1-0.5c0.7-0.3,1.5-0.6,2-1.3c0.3,0,0.6-0.1,0.7-0.4l-0.1,0c0.2,0,0.4-0.1,0.5-0.4l-0.1,0.1l0.1,0.1
-		c0.4-0.2,0.7-0.3,1.1-0.5c3.6-2.2,7.3-4.4,10.9-6.6c0.6-0.4,1.3-0.9,1.8,0.2c0.5,1-0.4,1.1-0.9,1.4c-3.1,1.9-6.2,3.8-9.2,5.7
-		c-0.3,0.1-0.6,0.3-0.6,0.7l-0.1-0.1l-0.1,0c-5.4,3.3-10.7,6.5-16.1,9.8c-0.2,0.2-0.4,0.4-0.6,0.6c-0.7,0.2-1.3,0.2-1.6-0.7
-		c-0.3-0.8,0.3-0.9,0.7-1.2C881.2,479.2,881.4,478.9,881.6,478.6z"/>
-	<path style="&st99;" d="M888.9,466c-2.6,1.6-5.2,3.3-7.8,4.9c-0.9,0.4-1.8,0.8-2.6,1.3c-0.7,0.4-1.2,0.2-1.5-0.4
-		c-0.4-0.7,0-1,0.5-1.3c1.5-0.9,3.1-1.8,4.6-2.7c3.4-2.1,6.9-4.1,10.2-6.4c1.7-1,3.4-2,5.2-2.9c0.5-0.3,1.1-1.3,1.8-0.2
-		c0.7,1.1-0.3,1.4-0.9,1.8c-2.8,1.7-5.7,3.4-8.5,5.2C889.5,465.6,889.2,465.8,888.9,466z"/>
-	<path style="&st94;" d="M872.8,457.5c-0.6-1-0.6-1.7,0.3-2.3C873.4,456,873.3,456.6,872.8,457.5z"/>
-	<path style="&st94;" d="M831.7,450.7c-0.1,0.8-0.4,1-0.8,1c-0.3,0-0.4-0.2-0.4-0.5c0.1-0.4,0.2-0.7,0.7-0.6
-		C831.5,450.6,831.7,450.7,831.7,450.7z"/>
-	<path style="&st94;" d="M834.7,453.5c-1,0.1-1.4-0.2-1.8-1C833.8,452.5,834.3,452.7,834.7,453.5z"/>
-	<path style="&st94;" d="M830.6,447.7c-0.1,0.1-0.2,0.2-0.4,0.2c-0.3,0-0.4-0.2-0.4-0.5c0-0.1,0.2-0.3,0.4-0.3
-		C830.5,447.1,830.6,447.3,830.6,447.7z"/>
-	<path style="&st94;" d="M834,454.7c-0.1,0.1-0.2,0.2-0.2,0.2c-0.2,0-0.3-0.2-0.2-0.4c0-0.1,0.2-0.1,0.3-0.2
-		C833.9,454.5,833.9,454.6,834,454.7z"/>
-	<path style="&st94;" d="M827.4,447.4c0.2,0.1,0.5,0.1,0.5,0.4c0,0-0.1,0.1-0.1,0.1C827.5,447.8,827.5,447.6,827.4,447.4
-		L827.4,447.4z"/>
-	<path style="&st94;" d="M880.9,442.6c0,0-0.1-0.1-0.1-0.1c0.1,0,0.1-0.1,0.2-0.1c0,0.1,0.1,0.1,0.1,0.2
-		C881,442.6,881,442.6,880.9,442.6z"/>
-	<polygon style="&st94;" points="830,455.5 830.1,455.4 830,455.5 	"/>
-	<path style="&st99;" d="M895.9,483.4c-1.3,0.8-2.7,1.5-3.9,2.3c-0.5,0.3-0.9,0.5-1.3-0.1c-0.4-0.7-0.4-1.1,0.3-1.5
-		c2.9-1.8,5.8-3.6,8.7-5.4c0.2-0.1,0.4-0.3,0.6-0.4c0.2-0.1,0.4-0.3,0.5-0.4l0.1,0.1c0.6-0.4,1.2-0.8,1.8-1.3
-		c4.6-2.3,8.7-5.3,13.2-7.8c0.7-0.4,1.5-0.9,2.2-1.4c0.6-0.4,1.1-0.8,1.7,0.1c0.6,1-0.3,1.2-0.8,1.5c-3.3,2.1-6.7,4.1-10.1,6.1
-		c-3.9,2.4-7.9,4.8-11.8,7.2C896.6,482.7,896.3,483.1,895.9,483.4z"/>
-	<path style="&st94;" d="M902.7,476.7c-0.6,0.4-1.2,0.8-1.8,1.3c0.4-0.7-1.4-0.8-0.4-1.6C901.2,475.8,902,475.9,902.7,476.7z"/>
-	<path style="&st94;" d="M903.8,459c0.9-0.6,1.8-0.7,2.5,0.2C905.4,459.3,904.6,459,903.8,459z"/>
-	<path style="&st94;" d="M904.1,461.5c1.3-0.5,1.9-0.1,2.6,0.3C905.7,462.8,905.1,461.9,904.1,461.5z"/>
-	<path style="&st94;" d="M903,455.5c-0.1-0.1-0.3-0.1-0.4-0.3c-0.1-0.3,0.2-0.4,0.5-0.4c0.1,0,0.4,0.1,0.4,0.2
-		C903.6,455.4,903.3,455.4,903,455.5z"/>
-	<path style="&st94;" d="M896.9,469.7c-0.4,0.2-0.7,0.3-1.1,0.5C895.7,469.1,896.3,469.4,896.9,469.7z"/>
-	<path style="&st94;" d="M896.4,455.2c0.2,0.1,0.5,0.1,0.5,0.4c0,0-0.1,0.1-0.1,0.1C896.5,455.7,896.5,455.4,896.4,455.2
-		L896.4,455.2z"/>
-	<path style="&st94;" d="M895.4,470.4c-0.1,0.3-0.4,0.4-0.7,0.4C894.5,470.1,895.1,470.5,895.4,470.4z"/>
-	<path style="&st94;" d="M900.8,477.9c-0.2,0.1-0.4,0.3-0.5,0.4C900.1,477.7,900.5,477.9,900.8,477.9z"/>
-	<polygon style="&st94;" points="904.4,455.1 904.5,455.2 904.3,455.2 	"/>
-	<path style="&st94;" d="M898.8,471c0-0.4,0.3-0.5,0.6-0.7C899.3,470.7,899.2,471,898.8,471z"/>
-	<path style="&st94;" d="M895.8,470c0,0.3-0.2,0.4-0.5,0.4C895.5,470.3,895.6,470.2,895.8,470z"/>
-	<path style="&st94;" d="M826.4,454.3c2.1-0.4,2,1.7,2.8,2.7c0.9,1.1-1,1.6-1.3,2.5c-0.2,0.6-0.7-0.2-1-0.4
-		c-0.6-0.4-0.6-0.8-0.2-1.4c0.4-0.5,1.2-0.7,0.4-1.7c-0.7-0.9-0.8-1.3-1.6-0.3c-0.4,0.5-0.8,0.4-1.1,0.1c-0.4-0.5,0.1-0.6,0.4-0.8
-		C825.3,454.7,825.6,453.9,826.4,454.3z"/>
-	<path style="&st94;" d="M829.4,473.4c0.2-0.4,0.5-0.9,0.8-1.3c0.2-0.3,0.2-1,0.8-0.8c0.6,0.1,0.6,0.7,0.7,1.2
-		c0.1,0.6-0.4,0.8-0.9,0.9C830.3,473.4,829.9,473.4,829.4,473.4L829.4,473.4z"/>
-	<path style="&st94;" d="M831.8,469.3c-0.1,0.4,0.2,0.9-0.3,1.2c-0.2,0.1-0.3-0.1-0.4-0.3C831.1,469.6,831.4,469.4,831.8,469.3
-		L831.8,469.3z"/>
-	<path style="&st94;" d="M827.8,462.4c0,0,0.1,0.1,0.1,0.1c-0.1,0.1-0.1,0.2-0.2,0.2c0,0-0.1-0.1-0.1-0.1
-		C827.6,462.6,827.7,462.5,827.8,462.4z"/>
-	<path style="&st94;" d="M828.4,461c0,0,0.1-0.1,0.1-0.1c0.1,0.1,0.1,0.1,0.2,0.2c0,0-0.1,0.1-0.1,0.1
-		C828.6,461.1,828.5,461.1,828.4,461z"/>
-	<path style="&st94;" d="M896.2,487.4c-0.1,0.3-0.3,0.4-0.6,0.4c-0.2,0-0.4-0.2-0.2-0.4c0.1-0.1,0.3-0.2,0.4-0.2
-		C895.9,487.2,896.1,487.3,896.2,487.4z"/>
-	<path style="&st94;" d="M892.8,448c0,0.1,0,0.2,0,0.3c0,0-0.1,0-0.2,0c0-0.1,0-0.2,0-0.3C892.6,448,892.7,448,892.8,448z"/>
-	<path style="&st101;" d="M856,141c0,1.8,0,3.6,0,5.4c0,1.3-0.5,2-1.9,1.9c-0.2,0-0.5,0-0.7,0c-0.9-0.2-2.1,0.6-2.4-1
-		c-0.2-1.6,1.1-1.1,1.9-1.3c1-0.2,0.8-1,0.8-1.6c0-2.8,0-5.7,0-8.5c0-0.8,0-1.7,1.2-1.7c1.2,0,1.1,0.9,1.1,1.7
-		C856,137.5,856,139.3,856,141L856,141z"/>
-	<polygon style="&st94;" points="825.9,167 825.8,166.9 825.9,166.9 	"/>
-	<path style="&st94;" d="M891.6,472.7c-0.2,0.2-0.4,0.3-0.6,0.5c-0.2-0.4-1.1-0.8-0.4-1.3C891.2,471.4,891.3,472.3,891.6,472.7z"/>
-	<path style="&st99;" d="M659.7,138.5c-0.1-0.8,0.1-1.6,0.7-2.2c1.3-1.1,0.9-2.3,0.4-3.6c-3.5-8.9-7-17.8-10.5-26.7
-		c-0.2-0.6-1.2-1.5,0-2c1.4-0.6,1.4,0.7,1.8,1.5c3.6,9.1,7.2,18.2,10.7,27.4c0.3,0.9,0.8,1.4,1.8,1.5c2.7,0.3,4,1.8,3.9,4.4
-		c0,1.2,0.4,1.8,1.4,2.5c6.6,4.1,13.1,8.3,19.6,12.4c0.7,0.4,1.3,0.8,0.7,1.7c-0.6,0.9-1.1,0.3-1.7-0.1c-6.5-4.1-13-8.2-19.5-12.3
-		c-0.9-0.6-1.6-0.9-2.8-0.3C663.1,144.3,659.8,142.1,659.7,138.5z"/>
+	<rect x="70.2" y="192.8" style="&st62;" width="318.4" height="167.7"/>
+	<text transform="matrix(1 0 0 1 70.1797 208.6165)"><tspan x="0" y="0" style="&st13; &st125; &st126;">Break down your projects into </tspan><tspan x="0" y="28" style="&st13; &st125; &st126;">managable pieces and track progress  </tspan><tspan x="0" y="56" style="&st13; &st125; &st126;">to come in on time and on budget.</tspan></text>
 </g>
-<circle style="&st95;" cx="136.2" cy="301.9" r="6.2"/>
-<circle style="&st96;" cx="161.1" cy="301.9" r="6.2"/>
-<circle style="&st96;" cx="186.1" cy="301.9" r="6.2"/>
+<g>
+	<text transform="matrix(1 0 0 1 71.123 164.3604)" style="&st64; &st127; &st128;">A bit about tasks</text>
+</g>
+<g>
+	<path style="&st92;" d="M692.7,241.7c0-18.3-0.1-36.7,0.2-55c0.1-6.6,3.7-11.6,9-15.4c4.2-3,8.9-3.7,14-3.7c13.6,0.1,27.1,0,40.7,0
+		c4,0.1,8.1,0.2,12.1,0.2c0.1,0.2,0.2,0.4,0.2,0.6c0.9,11.2,2.3,22.3,4.2,33.4c2.3,13.3,5.3,26.5,10,39.3c2.7,7.3,6,14.3,11.4,20.1
+		c4.7,5,11.1,7.1,17.3,4.2c6.3-3,10.4-8.3,13.9-14c6.7-10.8,11-22.7,14.8-34.8c1.4-4.5,2.7-9.1,4.1-13.7c0.2,0.4,0.4,0.7,0.5,1.1
+		c1.5,6.3,4.5,11.8,8.7,16.6c7.8,8.8,17.4,13.9,29.4,13.1c6.3-0.4,11.8-2.7,15.1-8.5c3.7-6.6,3.9-13.7,2.3-20.9
+		c-2.1-9.2-7-17.3-11.3-25.6c-1.8-3.6-3.8-7-5.1-10.9c3.4-0.4,6.8-0.3,10.2-0.1c2.8,0.1,5.5,0.9,7.9,2.4c6.7,3.9,9.6,9.8,9.6,17.4
+		c0,12.9,0,25.9,0,38.8c0,4,0,8,0,12c-11.3,0-22.7,0-34-0.1c-2.1,0-3.9-0.3-3.6,2.7c0.1,4.9-0.6,9.7-1.7,14.5
+		c-1.8,8.1-4.8,15.7-8.6,23c-3.9,7.5-8.6,14.4-13.5,21.3c-0.2,0.2-0.5,0.3-0.6,0.5c-4.3,6.1-9.2,11.6-14.1,17.2
+		c-9.1,10.3-18.5,20.3-27,31c-3.8,4.8-7.4,9.8-10,15.3c-2.2,4.5-3.6,9.4-4,14.4c-3.1,0.1-6.3,0.2-9.4,0.3c-3.9-1.8-7.8-3.6-11.6-5.4
+		c-5.9-2.8-11.8-5.8-17.7-8.6c-9.5-4.5-19-9.1-28.5-13.5c-0.9-0.4-1.1-0.9-1-1.9c0.3-3.5,0.5-7,0.8-10.6c1.2-14.6,2.4-29.3,3.6-43.9
+		c1.4-16.9,2.7-33.9,4.2-50.8c0.1-1.4,0-1.9-1.7-1.9C719.9,241.8,706.3,242.1,692.7,241.7z"/>
+	<path style="&st93;" d="M912,238.3c0-4,0-8,0-12c0-12.9,0-25.9,0-38.8c0-7.6-2.9-13.5-9.6-17.4c-2.4-1.4-5.1-2.2-7.9-2.4
+		c-3.4-0.2-6.8-0.3-10.2,0.1c-1.3-2.5-2.4-5.2-3.2-7.9c-2.2-6.8-2.8-13.9-2.6-21.1c0.2-8,2.8-15.4,4.4-23.1c0.1,1.1,0.7,1,1.6,0.9
+		c5.6-0.7,11.2-1.3,16.9-1.2c6.5,0.1,13,0.3,19.4,1.7c5.7,1.3,11.2,2.9,16.6,4.8c7.2,2.5,13.8,6.2,20.1,10.3
+		c6.9,4.6,13,10.2,18.6,16.3c4,4.4,7.5,9.3,10.6,14.3c3.4,5.4,6.1,11.1,8.3,17.1c2,5.2,3.4,10.6,4.5,16c1.3,6.1,1.7,12.4,1.8,18.6
+		c0.1,4.7,0,9.6-0.9,14.2c-0.8,4.6-1.4,9.2-3.1,13.6c-1.1,2.9-1.7,6-2.9,8.8c-2.4,5.4-5,10.6-7.9,15.7c-3.4,5.8-7.6,10.8-12.1,15.8
+		c-5.4,6-11.5,11.4-18.3,15.7c-3.7,2.4-7.6,4.8-11.7,6.6c-4.3,1.9-8.7,3.7-13.2,5c-3.1,0.9-6.1,1.7-9.2,2.5
+		c-3.3,0.9-6.7,1.1-10.1,1.4c0-12.1-0.1-24.2-0.1-36.3C911.9,264.6,912,251.5,912,238.3z"/>
+	<path style="&st94;" d="M882.8,115.8c-1.6,7.7-4.2,15.2-4.4,23.1c-0.2,7.2,0.4,14.3,2.6,21.1c0.9,2.6,1.9,5.4,3.2,7.9
+		c1.3,3.8,3.2,7.3,5.1,10.9c4.2,8.3,9.1,16.4,11.3,25.6c1.7,7.1,1.5,14.3-2.3,20.9c-3.3,5.8-8.8,8.1-15.1,8.5
+		c-12,0.8-21.6-4.2-29.4-13.1c-4.2-4.8-7.3-10.3-8.7-16.6c-0.1-0.4-0.3-0.7-0.5-1.1c-1.3-5.6-1.8-11.3-1.8-17
+		c0.1-5.3,0.8-10.6,1.5-15.8c1.2-2.2,1.5-4.1-0.6-6.1c-2.8-2.7-3.2-6.6-3.9-10.3c0.4-0.3,0.7-0.7,1.1-0.9
+		c8.2-5.7,14.2-13.3,17.8-22.5c4.9-12.7,7.3-26,7.8-39.6c0.1-1.5,0-3,0-4.7c-0.4,0.2-0.6,0.3-0.8,0.4c-11,9.9-24,14.9-38.6,15.8
+		c-1.7,0.1-2.4,0.7-3.1,2.2c-6.4,13.7-14.2,26.6-24.1,38.1c-0.8,1-0.7,1.6-0.1,2.4c0.8,1,1.9,1.8,2.2,3.2c-1,1.4-2,2.8-3,4.1
+		c-0.4,0.3-0.8,0.5-0.9,1l0,0c-2.5,2.8-5.3,5.3-8.3,7.4c-4.6,3.3-9.6,5.8-15.4,6.5c-1.9,0.2-3.8,0.5-5.6,0.7
+		c-4-0.1-8.1-0.2-12.1-0.2c-0.2-10.6,0.5-21.2,2-31.7c2.3-16.5,6.7-32.3,15.1-46.9c9.2-16.1,22-28.2,39.4-35.2
+		c10.1-4,20.7-6.3,31.7-5.5c11.7,0.8,21.1,6.3,28.3,15.5c6.8,8.7,10,18.7,11,29.6c0.6,6.9,0.4,13.7-1,20.5
+		C882.8,114.5,882.8,115.2,882.8,115.8z"/>
+	<path style="&st95;" d="M692.7,241.7c13.6,0.4,27.2,0.1,40.8,0.2c1.7,0,1.8,0.5,1.7,1.9c-1.4,16.9-2.8,33.9-4.2,50.8
+		c-1.2,14.6-2.4,29.3-3.6,43.9c-0.3,3.5-0.5,7-0.8,10.6c-0.1,1,0,1.4,1,1.9c9.5,4.5,19,9,28.5,13.5c5.9,2.8,11.8,5.8,17.7,8.6
+		c3.9,1.9,7.7,3.6,11.6,5.4c1.4,0.7,2.7,1.3,4.1,2c2,0.9,4,1.9,6,2.8c-2.1,3-4.4,5.9-4.8,9.7c-3.7,1.7-4.6,3.8-3.4,8.1
+		c-24.9-7-49.8-14.1-74.8-20.9c-2-0.8-4.1-1.1-6-2.1c-2.4-1.7-4.5-3.6-6.3-6c-3.5-4.8-6.4-9.9-6.5-16c-0.2-10.3-0.3-20.5-0.4-30.8
+		c-0.1-7.3-0.1-14.5-0.2-21.8c-0.1-11.8-0.2-23.5-0.3-35.3c-0.1-7.7-0.1-15.4-0.1-23C692.7,244.1,692.7,242.9,692.7,241.7z"/>
+	<path style="&st95;" d="M912,238.3c0,13.1,0,26.3,0,39.4c0,12.1,0.1,24.2,0.1,36.3c-0.3,6.8-0.1,13.6-0.1,20.4
+		c0,12.9,0,25.8,0.1,38.7c0,1.7,0,3.4,0,5.1c0,0.7,0,1.4,0,2.1c0,3.2-0.2,6.4,0,9.6c0.1,2.4,1.8,4.3,3,6.4c3.4,6,7,11.9,10.6,17.8
+		c0.3,0.6,0.7,1.1,1.2,1.9c-5.3-0.1-10.3,0.3-15.3-0.2c-2.1-0.2-4-1.3-5.6-2.8c-5-4.6-10-9.2-14.9-13.9c-1.5-1.4-3-2.4-5-2
+		c-3.4,0.7-6.4-0.6-9.4-2c-1.2-0.5-2.3-1-3.6-1.5c1.1-1.5,2.7-1.6,4.1-2c5.2-1.7,9.5-4.6,11.7-9.9c0.2-0.4,0.2-0.8,0.3-1.2
+		c0.4-0.7,0.6-1.4,0.7-2.1c0.1-0.7,0.3-1.3,0.3-2c0.2-4-0.5-8-0.9-12c-1-9.6-2.3-19.2-3.4-28.8c-0.9-7.9-1.9-15.8-2.8-23.7
+		c-0.2-2.6-0.4-5.3-0.7-7.9c-1-8.4-2.1-16.7-3-25.1c-1.4-12.4-2.8-24.8-4.1-37.3c0-0.4-0.1-0.8-0.7-0.8c-0.3-3,1.5-2.7,3.6-2.7
+		C889.3,238.4,900.6,238.3,912,238.3z"/>
+	<path style="&st92;" d="M693.1,303.7c0.1,7.3,0.1,14.5,0.2,21.8c0.1,10.3,0.2,20.5,0.4,30.8c0.1,6.1,3,11.2,6.5,16
+		c1.8,2.4,3.9,4.3,6.3,6c-0.9,0.1-1.9,0.2-2.8,0.2c-20.1,0-40.2,0-60.2,0c-14.1,0-28.2,0-42.3,0c0.5-7.4,4.3-13.3,9.1-18.7
+		c6.4-7.2,14.2-12.7,22.2-18.1c7.3-4.9,14.8-9.3,22.3-13.9c5.4-3.3,10.9-6.4,16.3-9.7c5.7-3.5,11.2-7.2,16.8-10.8
+		c0.7-0.3,1.2-0.9,1.7-1.4C690.7,305,691.9,304.3,693.1,303.7z"/>
+	<path style="&st93;" d="M813,459.5c3.3-1.8,6.5-3.7,9.9-5.3c6.7-3.1,13.1-6.6,19.7-9.9c0.6-0.3,1-0.6,1.8-0.2
+		c5.3,3,10.8,5.3,16.3,7.9c2.9,1.4,5.8,2.7,8.7,4.1c0.6,2.3,0.3,4.7,0.6,7c0.1,0.9-0.5,1.3-1.3,1.5c-0.5,0.2-1.1,0.8-0.1,1
+		c1.5,0.3,1.4,1.3,1.1,2.1c-0.6,1.9,0,3.8,0.2,5.7c0.1,1.3-0.2,2.5,0,3.8c0.1,1-1.3,1.3-0.9,1.8c1.4,2.3,0.5,4.9,1.1,7.3
+		c-1.7,1-3.4,1.9-5.1,2.9c-0.5,0.3-1,0.7-0.6,1.5c0.4,0.7,0.9,0.9,1.7,0.4c0.9-0.5,1.9-1,2.9-1.5c1.3,2.2,0.8,4.6,0.6,7
+		c0,0.5-0.4,0.9-0.1,1.4c-0.2,0.3-0.5,0.7-0.7,0.9c-0.4,0.4-1.1,0.5-0.7,1.4c0.4,0.9,1,0.9,1.8,0.8c0,5.4,0.1,10.8,0,16.2
+		c0,2.1,0.5,4.2-0.5,6.2c-5.9-3.1-11.6-6.5-17.6-9.4c-5.9-2.9-11.6-6.3-17.5-9.3c-4.3-2.2-8.6-4.3-12.6-6.9
+		c-0.2-0.7-0.6-1.4,0.2-2.2c-1.3,0.1-2.2,0.3-3,0.7l-0.1,0c0.1-0.4,0-0.7-0.2-0.9c-1.8-1.8-3.5-3.6-3.1-6.5c0.1-0.5-0.2-1.1-0.9-1.2
+		l0,0c-0.1-0.4,0.1-1-0.5-0.9c-1.1,0.3-1.6,1.1-1.2,2.4c-1.7-1.2-3.5-1.8-4-3.8c1.4,0,2.5-1.1,4.2-1c-0.5-0.4-0.7-0.6-0.9-0.7
+		c-0.5-0.4-1-0.9-0.7-1.6c0.3-0.6,1-0.3,1.5-0.3c1.4-0.2,2.5,0.2,3.4,1.4c0.2,0.3,0.8,0.6,1.1,0.2c0.5-0.6-0.7-0.5-0.5-1.1
+		c0.5-0.5,1.3,0.5,1.7-0.3c-1.8-1-1.8-1-4.4-1.2c-0.6,0-2.7-3.3-2.5-3.9c0.3-0.8,0.7-0.4,1.1-0.2c0.6,0.3,1,1,2,0.7
+		c-0.5-1-2-1.2-1.6-2.6c0.9,0.1,1.1,1.3,2.3,1.1c-0.7-0.7-0.4-1.4-0.2-2.1c0.1-0.4,0.4-0.8,0-1.1c-0.5-0.3-0.8,0-1.2,0.4
+		c-1,1.1-1.5,0.6-1.6-0.6l0.1-0.1l-0.1,0.1c-1.6-0.5,0.2-1.5-0.2-1.8c-1.6-1.5-0.8-2.9,0-4.3c0.2-0.4-0.1-0.9-0.6-1.4
+		c-0.9,2.4-1.8-0.2-2.8-0.1c-0.2,0-0.1-1.2,0.8-1.4c0.1,0.2,0.1,0.5,0.4,0.5c0,0,0.1-0.1,0.1-0.1c0-0.3-0.3-0.3-0.5-0.4
+		c-0.5-2.3,1.1-2,2.5-2C812.4,461,812.7,460.3,813,459.5z M859.7,474.9c0.5-0.9,0.6-1.7,0.4-2.6C859,473,859,473.8,859.7,474.9z
+		 M814.4,467.5c0,0-0.2-0.1-0.5-0.2c-0.5-0.1-0.7,0.3-0.8,0.7c-0.1,0.3,0.1,0.5,0.4,0.5C814,468.6,814.3,468.4,814.4,467.5z
+		 M817.8,470.6c-0.5-0.9-1-1.1-2-1.1C816.2,470.3,816.6,470.7,817.8,470.6z M813.2,464.1c0-0.4-0.1-0.6-0.4-0.6
+		c-0.1,0-0.4,0.2-0.4,0.3c-0.1,0.3,0.1,0.5,0.4,0.5C812.9,464.4,813.1,464.2,813.2,464.1z M816.9,471.9c0-0.1-0.1-0.2-0.1-0.3
+		c-0.1,0.1-0.3,0.1-0.3,0.2c-0.1,0.2-0.1,0.4,0.2,0.4C816.8,472.1,816.8,472,816.9,471.9z M868.6,458.6c0.1,0,0.1,0,0.2-0.1
+		c0-0.1,0-0.1-0.1-0.2c-0.1,0-0.2,0.1-0.2,0.1C868.5,458.5,868.6,458.5,868.6,458.6z"/>
+	<path style="&st96;" d="M620.5,481.4c8.4-10.8,16.6-21.9,24.8-32.9c2.6-3.5,5.3-6.9,7.9-10.4c0.5-0.7,1-0.9,1.9-0.7
+		c10.5,2.5,21.1,5,31.6,7.4c13.6,3.2,27.3,6.4,40.9,9.6c2.1,0.5,4.2,1.1,6.3,1.5c0.9,0.2,1.1,0.4,0.5,1.2
+		c-3.6,5.1-7.3,10.3-10.8,15.5c-3.4,4.9-6.8,9.8-10.2,14.8c-3.2,4.7-6.4,9.4-9.6,14.1c-0.7-0.8-1.4-1.7-2.1-2.5
+		c-4.7-6.2-9.2-12.6-13.7-18.9c-2.9-4.1-6-8.2-8.9-12.3c-0.8-1.2-1.2-1.9-3.2-1.3c-4.3,1.3-8.8,2.4-13,3.7
+		c-5.5,1.8-11.2,3.2-16.8,4.8c-7.5,2.2-15,4.4-22.6,6.2C622.5,481.4,621.5,482.1,620.5,481.4z"/>
+	<path style="&st96;" d="M702.9,501.8c-3.6,1.3-7.3,2.5-10.9,3.9c-6,2.3-12.1,4.5-18.2,6.5c-10.2,3.4-20.2,7.1-30.4,10.6
+		c-1.1,0.4-1.4-0.1-1.8-0.9c-4.9-9.1-9.8-18.2-14.7-27.2c-2.2-4.1-4.5-8.1-6.7-12.1c0.8-0.5,1.6,0,2.3,0.2c5.8,1.3,11.5,2.7,17.3,4
+		c7.4,1.7,14.7,3.4,22.1,5.1c9.7,2.3,19.3,4.5,29,6.8C694.9,499.7,699.1,500.2,702.9,501.8z"/>
+	<path style="&st97;" d="M702.9,501.8c-3.9-1.6-8-2.1-12-3.1c-9.6-2.3-19.3-4.6-29-6.8c-7.4-1.7-14.7-3.4-22.1-5.1
+		c-5.8-1.3-11.5-2.7-17.3-4c-0.8-0.2-1.5-0.7-2.3-0.2c-0.4-0.5-0.3-0.9,0.3-1.1c1,0.7,2,0,2.9-0.2c7.6-1.8,15.1-4,22.6-6.2
+		c5.6-1.6,11.2-3,16.8-4.8c4.3-1.4,8.7-2.5,13-3.7c2-0.6,2.4,0.1,3.2,1.3c2.9,4.2,5.9,8.2,8.9,12.3c4.5,6.3,9,12.7,13.7,18.9
+		c0.7,0.9,1.4,1.7,2.1,2.5C703.5,501.8,703.3,501.9,702.9,501.8z"/>
+	<path style="&st95;" d="M839.4,380.6c4.5,2.2,9,4.5,13.5,6.7c0.9,0.4,1,0.7,0.7,1.6c-1.1,3.1-2.9,4.2-5.9,3.2c-3.1-1-6.2-2-9.2-3.3
+		c-1.1-0.4-1-0.1-1.2,0.7c-0.9,3.5-1.7,7-2.8,10.4c-0.5,1.4,0,1.7,1.1,2.2c7.4,3.2,14.8,6.6,22.2,9.8c1.5,0.6,1.3,1,0.2,1.8
+		c-3.3,2.5-7,2.8-10.9,2.4c-3.4-0.4-6.8-1.2-10.2-1.7c-5.7-0.8-11.1-2.5-16.6-4.1c-8.1-2.3-16.2-4.5-24.2-6.8
+		c-0.2-0.1-0.4-0.3-0.7-0.4c3.3-3.1,3.4-5.5,0.4-9.1c0.2-0.6,0.4-1.1,0.6-1.7c1-2.4,2-4.8,4.1-6.5c3.9,1.8,7.9,3.3,11.5,5.4
+		c2.9,1.6,5.3,1,7.8-0.3c4.8-2.3,8-6.3,11.3-10.3c0.5-0.6,1-1.2,1.2-2c1-1.7,2.1-0.1,3.1-0.1C836.7,379.2,838,379.9,839.4,380.6z"/>
+	<path style="&st93;" d="M884.9,463.4c6.5,3.1,13.1,6.2,19.6,9.3c7.7,3.6,15.4,7.2,23.1,10.7c1.1,0.5,2,1.4,3.5,1.6
+		c-11.1,7.1-21.9,14-32.8,20.8c-2.3,1.5-4.5,3.2-7.1,4.2c-1.5-0.7-2.7-0.6-3.1,1.9c-0.6-2-0.3-3.5-1.1-5c-0.4-0.7-0.5-1.8-1.4-2.4
+		c-0.3-0.2-0.3-0.7-0.5-1.1c0.4-0.3,0.8-0.8,1.2-1c4.3-2.6,8.7-5.3,13-7.9c3.7-2.2,7.4-4.5,11.1-6.8c0.5-0.3,1.5-0.6,0.8-1.7
+		c-0.6-1-1.2-0.6-1.8-0.1c-0.8,0.5-1.6,1.1-2.4,1.5c-4.9,2.8-9.5,6.1-14.5,8.6c-0.7-0.9-1.6-1-2.5-0.3c-1,0.8,0.9,1,0.5,1.7
+		l-0.1-0.1c-0.3,0-0.8-0.2-0.6,0.4c-0.2,0.2-0.4,0.3-0.6,0.5c-0.7-0.2-2.1-0.1-0.8-1.5c0.2-0.2,0.2-0.5,0-0.5c-1.7,0-0.8-1.3-1-2
+		c-0.2-0.7-0.6-1.3,0.2-1.8c0.9-0.6,0.5,0.9,1.2,0.8c0.5-0.1,0.9,0.9,1.4,0.3c0.4-0.4-0.1-0.9-0.1-1.3c0-1.4-1.6-1.5-2.1-2.6l0.1,0
+		l0.1,0.1c0.4-0.1,0.6-0.3,0.6-0.7c3.4-2.1,6.8-4.2,10.2-6.3c0.5-0.3,1.6-0.4,1-1.5c-0.6-1.2-1.3-0.6-2-0.2c-4,2.4-8,4.9-12,7.3
+		c-0.6-0.3-1.2-0.6-1.2,0.5l-0.1-0.1l0.1-0.1c-0.2,0.1-0.3,0.3-0.5,0.4l0.1,0c-0.3,0.1-0.9-0.3-0.8,0.5c-0.5,0.8-1.3,1.1-2.2,1.4
+		c-0.4-0.4-1-0.8-0.2-1.2c1.7-0.9,1.8-1.8,0.3-3c-0.4-0.3-0.6-0.9-0.7-1.4c-0.3-1-0.8-1.1-1.7-0.7c-0.6,0.3-1.5,1.1-1.9-0.3
+		c0.3-0.2,0.6-0.5,1-0.7c3.1-1.9,6.3-3.8,9.4-5.7c0.7-0.4,1.7-0.8,1-2c-0.8-1.3-1.4-0.1-1.9,0.2c-1.9,1-3.8,2.1-5.7,3.2
+		c0.2-1.4-0.2-3.2,2.2-3.1c0.6,0,1.2-0.7,0.9-1.5c-0.3-0.8-1-0.5-1.5-0.3c-0.5,0.2-1.1,0.4-1.4-0.3c-0.3-0.6,0.3-0.7,0.6-1
+		c1.1-1,2.2-1.6,3.7-0.7c0.1,0.2,0.1,0.5,0.4,0.6c0,0,0.1-0.1,0.1-0.1c0-0.4-0.3-0.4-0.6-0.4c-1-1.2-0.6-3.3-2.5-4
+		c-0.1,0.3-0.1,0.5-0.1,0.7c0.1,0.7,0.2,1.3-0.6,1.5c-0.9,0.1-0.9-0.8-0.9-1.3c-0.1-1.7-0.8-3.6,1.8-4.2
+		C884,464.9,884.9,464.4,884.9,463.4z M893.8,476.6c0.9,0,1.8,0.3,2.8,0.2C895.8,475.8,894.8,475.9,893.8,476.6z M894.2,479.3
+		c1.2,0.5,1.8,1.5,2.9,0.3C896.2,479.2,895.6,478.7,894.2,479.3z M893,472.7c0.3-0.1,0.6-0.1,0.6-0.4c0-0.1-0.3-0.2-0.5-0.3
+		c-0.3,0-0.6,0-0.5,0.4C892.7,472.6,892.9,472.7,893,472.7z M894.5,472.3l-0.1,0.1l0.1,0L894.5,472.3z"/>
+	<path style="&st98;" d="M624.1,173c-2.9,0-5.7-0.7-8.4-1.7c-5.5-2.1-11-4.4-15.6-8.1c-5.1-4.1-9.4-8.7-12.7-14.3
+		c-4-6.6-6.2-13.6-6.7-21.2c-1-13.5,2.8-25.6,11.6-35.9c7.8-9.2,17.7-14.8,29.7-16.7c11.9-1.9,23.1,0,33.3,6.4
+		c17.1,10.7,25.1,26.4,23.9,46.5c-0.5,8.9-3.8,16.9-8.8,24.2c-7.2,10.4-17.2,16.7-29.1,19.9c-5.4,1.5-11.1,1.2-16.8,1
+		C624.3,172.9,624.2,172.9,624.1,173z M629.8,171.1c27.2-0.3,48.7-22.2,47.4-50.2c-1.2-24-21.8-45.9-49.6-44.6
+		c-25.3,1.2-45,22-45,47.2C582.4,150.8,604.7,171.2,629.8,171.1z"/>
+	<path style="&st97;" d="M689.5,305.7c-0.5,0.6-1,1.1-1.7,1.4c-5.9-5.6-13.3-7.9-21.2-9.1c-5.3-0.8-10.6-1.1-15.9-1
+		c-8.6,0.1-14.5-4.1-18.7-11.3c-4.3-7.4-6.6-15.6-10.1-23.4c-5.1-11.4-12.5-20.4-24.5-24.8c-7.6-2.8-15.6-3.6-23.7-3.4
+		c-5.8,0.1-11.5,0.9-17.3,1.4c-8.7,0.8-15.8-2.3-20.6-9.7c-2.3-3.6-3.7-7.6-4.8-11.6c-1.5-5.5-2.9-11-4.3-16.6
+		c-1-3.8-2.3-7.4-4.2-10.8c-2.7-4.6-6.7-7.4-12.1-8c-0.5-0.1-0.9-0.1-1.4-0.1c-0.8,0-1.3-0.2-1.3-1.1c0-1.1,0.6-1,1.4-1
+		c6.9,0.4,12.1,3.7,15.5,9.8c3.8,6.9,5.2,14.7,7.1,22.2c1.5,5.9,3.1,11.7,6.5,16.8c4.6,6.8,11.3,8.9,19,8c9.3-1.1,18.5-1.8,27.9-0.8
+		c10.9,1.2,20.5,5,28.4,12.8c4.5,4.5,7.6,9.9,10.2,15.6c3,6.9,5.6,14,8.7,20.9c2.4,5.2,5.7,9.8,11.4,11.9c2.2,0.8,4.5,1,6.8,1
+		c7.5,0.2,14.9,0.4,22.3,2.3c5.8,1.4,11,3.8,15.5,7.7C688.7,305.2,689.1,305.4,689.5,305.7z"/>
+	<path style="&st93;" d="M812.5,472.8c0.2,1.2,0.6,1.7,1.6,0.6c0.4-0.4,0.7-0.7,1.2-0.4c0.4,0.3,0.1,0.8,0,1.1
+		c-0.2,0.7-0.5,1.4,0.2,2.1c-1.2,0.2-1.4-1-2.3-1.1c-0.4,1.4,1.1,1.6,1.6,2.6c-1,0.3-1.4-0.5-2-0.7c-0.4-0.2-0.9-0.6-1.1,0.2
+		c-0.2,0.6,1.9,3.9,2.5,3.9c2.6,0.1,2.6,0.1,4.4,1.2c-0.5,0.8-1.3-0.2-1.7,0.3c-0.2,0.5,1,0.5,0.5,1.1c-0.3,0.3-0.9,0.1-1.1-0.2
+		c-0.9-1.1-2-1.5-3.4-1.4c-0.5,0.1-1.2-0.2-1.5,0.3c-0.3,0.6,0.2,1.2,0.7,1.6c0.2,0.2,0.4,0.3,0.9,0.7c-1.7-0.1-2.8,1-4.2,1
+		c0.5,2,2.3,2.6,4,3.8c-0.4-1.4,0.1-2.2,1.2-2.4c0.6-0.1,0.4,0.5,0.5,0.9c-0.5,0.1-0.9,0.4-0.7,1c0,0.2,0.2,0.4,0.4,0.3
+		c0.5-0.3,0.2-0.8,0.3-1.3c0.7,0.1,0.9,0.7,0.9,1.2c-0.4,2.9,1.3,4.7,3.1,6.5c0.3,0.3,0.3,0.6,0.2,0.9c-2.3-1.3-4.9-2-6.8-4.1
+		c0.5,0,0.9,0,1.4-0.1c0.6-0.1,1.1-0.3,1-1c-0.1-0.5-0.1-1.2-0.8-1.3c-0.6-0.1-0.6,0.6-0.9,0.9c-0.3,0.5-0.6,0.9-0.8,1.4
+		c-1.5,0.2-2.5-0.9-3.6-1.5c-8.6-4.6-17.1-9.2-25.6-13.9c-0.7-0.4-1.6-0.3-2.1-1.1c10.8-5.5,21.6-11,32.4-16.5
+		c-0.3,0.7-0.6,1.5-0.9,2.2l0,0c-1.4,0-3-0.2-2.5,2.1l0,0c-0.8,0.2-1,1.4-0.8,1.4c1-0.1,1.9,2.5,2.8,0.1c0.5,0.4,0.7,1,0.6,1.4
+		c-0.7,1.5-1.6,2.8,0,4.3C812.7,471.3,811,472.3,812.5,472.8L812.5,472.8z M808.6,471.4c-0.9-0.4-1.2,0.4-1.7,0.8
+		c-0.3,0.2-0.9,0.4-0.4,0.9c0.3,0.4,0.8,0.5,1.2-0.1c0.8-1.1,1-0.6,1.7,0.3c0.9,1.2,0,1.4-0.4,1.9c-0.5,0.6-0.4,1.1,0.2,1.5
+		c0.3,0.2,0.9,1,1.1,0.4c0.3-1.1,2.4-1.5,1.4-2.8C810.8,473.3,811,470.9,808.6,471.4z M810.1,480.4c-0.1,0.1-0.1,0.2-0.2,0.3
+		c0.1,0,0.1,0.1,0.1,0.1c0.1-0.1,0.1-0.2,0.2-0.2C810.2,480.4,810.1,480.4,810.1,480.4z M810.8,478.8c0.1,0.1,0.2,0.1,0.2,0.2
+		c0,0,0.1-0.1,0.1-0.1c-0.1-0.1-0.1-0.1-0.2-0.2C810.9,478.7,810.8,478.8,810.8,478.8z"/>
+	<path style="&st98;" d="M601.2,378.4c14.1,0,28.2,0,42.3,0c20.1,0,40.2,0,60.2,0c0.9,0,1.9-0.1,2.8-0.2c1.9,1,4,1.3,6,2.1
+		c-4.6,0.1-9.2,0.2-13.9,0.2c-10.7,0-21.4,0-32.1,0c-11,0-22.1,0-33.1,0c-10.3,0-20.7,0-31,0c-11.5,0-23-0.1-34.5-0.1
+		c-8.3,0-16.6,0.2-24.9,0.2c-8.9,0-17.8-0.1-26.7-0.1c-7.1,0-14.3,0.1-21.4,0.1c-0.8,0-1.9,0.4-1.9-1.1c0-1.5,1.2-1,1.9-1
+		c14.5-0.1,29-0.1,43.5-0.1c11.6,0,23.3,0.1,34.9,0.1C582.7,378.4,591.9,378.4,601.2,378.4z"/>
+	<path style="&st96;" d="M886.2,402.6c-6.4,2.8-12.4,5.5-18.3,8.1c-0.6,0.3-1.1,0.1-1.7-0.2c-3.1-1.6-6.4-2.8-9.6-4.3
+		c-4.3-2-8.8-3.8-13.1-5.9c-0.7-0.3-1.3-0.8-2.1-1c5.2-2.4,10.5-4.8,15.7-7.3c1.5-0.8,2.6-0.5,4.1,0.2c5.4,2.4,10.9,4.5,16.3,6.8
+		C880.2,400,883,401.2,886.2,402.6z"/>
+	<path style="&st93;" d="M885.2,503.5c0.1,0.4,0.2,0.9,0.5,1.1c0.9,0.6,1,1.7,1.4,2.4c0.8,1.5,0.4,3,1.1,5c0.4-2.5,1.6-2.6,3.1-1.9
+		c-2.3,2.3-5.4,3.6-8,5.4c-4.2,2.8-8.5,5.4-12.8,8.2c-0.4,0-0.7,0-1.1,0l0,0c1-2,0.5-4.1,0.5-6.2c0.1-5.4,0-10.8,0-16.2
+		c0.2-0.2,0.4-0.5,0.7-0.7c5.9-3.6,11.8-7.2,17.7-10.8c0.5,1,2.1,1.1,2.1,2.6c0,0.5,0.5,1,0.1,1.3c-0.6,0.5-0.9-0.4-1.4-0.3
+		c-0.7,0.1-0.3-1.4-1.2-0.8c-0.8,0.5-0.4,1.1-0.2,1.8c0.2,0.8-0.7,2,1,2c0.2,0,0.1,0.3,0,0.5c-1.3,1.4,0.1,1.2,0.8,1.5
+		c-3.2,2-6.4,4-9.6,6c-0.8,0.5-0.8,0.9-0.3,1.6c0.5,0.8,0.9,0.5,1.5,0.2C882.3,505.1,883.7,504.3,885.2,503.5z M885.5,507.9
+		c-0.1-0.1-0.3-0.2-0.4-0.2c-0.2,0-0.4,0.1-0.5,0.2c-0.1,0.2,0,0.4,0.3,0.4C885.1,508.3,885.3,508.3,885.5,507.9z"/>
+	<path style="&st93;" d="M884.9,463.4c-0.1,1-0.9,1.5-1.6,1.7c-2.6,0.6-1.9,2.5-1.8,4.2c0,0.5,0,1.4,0.9,1.3
+		c0.8-0.1,0.8-0.8,0.6-1.5c0-0.2,0-0.4,0.1-0.7c2,0.7,1.5,2.8,2.5,4l0,0c-1.4-0.9-2.6-0.2-3.7,0.7c-0.4,0.3-0.9,0.4-0.6,1
+		c0.3,0.7,0.8,0.5,1.4,0.3c0.6-0.3,1.2-0.5,1.5,0.3c0.3,0.8-0.3,1.6-0.9,1.5c-2.4-0.1-2,1.7-2.2,3.1c-3.6,2.6-7.5,4.7-11.2,7.1
+		c-0.6-2.4,0.2-5-1.1-7.3c-0.3-0.5,1.1-0.8,0.9-1.8c-0.2-1.2,0.1-2.5,0-3.8c-0.1-1.9-0.8-3.7-0.2-5.7c0.3-0.8,0.3-1.9-1.1-2.1
+		c-0.9-0.2-0.4-0.9,0.1-1c0.8-0.3,1.4-0.7,1.3-1.5c-0.3-2.3,0-4.7-0.6-7c4.5,2.2,9.3,3.8,13.5,6.6
+		C883.5,463.1,884.1,463.4,884.9,463.4z M881.7,464.4c-0.1,0-0.2,0-0.2,0c0,0.1,0,0.2,0,0.3c0.1,0,0.2,0,0.2,0
+		C881.7,464.6,881.7,464.5,881.7,464.4z"/>
+	<path style="&st98;" d="M912,380.4c0-0.7,0-1.4,0-2.1c13.8,0,27.5,0,41.3,0.1c4,0,8,0,12.1,0.1c0.7,0,1.4,0,1.5,1
+		c0,1.1-0.7,1.1-1.5,1.1c-7.3,0-14.6-0.1-21.9-0.1c-8.8,0-17.5,0.1-26.3,0.1C915.4,380.5,913.7,380.4,912,380.4z"/>
+	<path style="&st98;" d="M839.4,380.6c-1.3-0.7-2.7-1.4-4-2.1c0.7-0.1,1.3-0.2,2-0.2c9.2,0,18.5,0,27.7,0c8.2,0,16.4,0.1,24.7,0.1
+		c-0.1,0.8-0.3,1.5-0.7,2.1c-6.6-0.5-13.3-0.2-19.9-0.2c-9.2,0-18.5,0-27.7,0C840.7,380.4,840.1,380.5,839.4,380.6z"/>
+	<path style="&st97;" d="M795.6,394c3,3.7,3,6-0.4,9.1c-3.1,1.4-5.8,0.7-7.9-1.9c-1.1-4.3-0.2-6.4,3.4-8.1
+		C792.5,393,794.1,393.3,795.6,394z"/>
+	<path style="&st93;" d="M818.8,496.5c0.8-0.5,1.7-0.6,3-0.7c-0.9,0.8-0.5,1.5-0.2,2.2C820.6,497.6,819.6,497.2,818.8,496.5z"/>
+	<path style="&st93;" d="M869.3,523.6c0.4,0,0.7,0,1.1,0C870,524,869.7,524,869.3,523.6z"/>
+	<path style="&st99;" d="M624.1,173c0.1,0,0.2,0,0.3,0C624.3,173,624.2,173,624.1,173z"/>
+	<path style="&st95;" d="M844.4,170.1c-0.8,5.2-1.5,10.5-1.5,15.8c-0.1,5.7,0.5,11.4,1.8,17c-1.3,4.6-2.6,9.1-4.1,13.7
+		c-3.8,12.1-8.1,24-14.8,34.8c-3.5,5.7-7.5,11-13.9,14c-6.2,2.9-12.6,0.8-17.3-4.2c-5.4-5.8-8.7-12.7-11.4-20.1
+		c-4.7-12.7-7.7-25.9-10-39.3c-1.9-11.1-3.4-22.2-4.2-33.4c0-0.2-0.1-0.4-0.2-0.6c1.9-0.2,3.8-0.5,5.6-0.7
+		c5.7-0.7,10.7-3.2,15.4-6.5c3-2.2,5.8-4.7,8.3-7.4c0.4,1.9,1.8,1.5,2.8,0.8c1.2-0.7,1.8-0.7,2.2,0.7c0.3,1,1.2,1.4,2.2,1.5
+		c1.1,0.1,1-0.8,1.2-1.5c0.1-0.4,0.4-0.7,0.8-0.9c0.5-0.2,0.7-0.6,0.2-0.9c-2.1-1.4-3.2-3.9-5.6-4.9c-0.3-1.3-1.4-2.1-2.2-3.2
+		c-0.6-0.9-0.8-1.5,0.1-2.4c9.9-11.5,17.8-24.3,24.1-38.1c0.7-1.4,1.4-2.1,3.1-2.2c14.6-0.9,27.7-5.9,38.6-15.8
+		c0.1-0.1,0.3-0.2,0.8-0.4c0,1.7,0,3.2,0,4.7c-0.5,13.6-2.9,26.9-7.8,39.6c-3.6,9.2-9.5,16.8-17.8,22.5c-0.4,0.3-0.7,0.6-1.1,0.9
+		c-0.6,0.2-1.2,0.4-1.7,0.6c-3.6,1.8-7.1,3.7-11.2,4.2c-1.3,0.1-2.8,0.2-4.6,1.1c1.3,0.2,2.4,0.1,2.9,0.6c1.5,1.5,3,1.9,5.1,1.1
+		c1.1-0.4,2.2,0.6,2.2,1.8c0,0.2,0.2,0.4,0.3,0.5c1.1,1.4,2.1,2.9,4.3,2.1c0.6-0.2,1.4-0.3,1.4,0.8c0,0.5,0.4,0.7,0.8,0.7
+		c1.7,0.2,3.3,1.2,5,0.6C844.7,168.7,843.9,169.4,844.4,170.1z M841.2,126.2L841.2,126.2c0-1.9,0-3.8,0-5.7c0-0.9,0.1-1.9-1.2-1.9
+		c-1.3,0-1.3,0.9-1.3,1.8c0,3.1,0,6.3,0,9.4c0,0.7,0.2,1.6-0.9,1.8c-0.9,0.2-2.3-0.4-2,1.4c0.3,1.7,1.7,0.9,2.6,1.1
+		c0.3,0.1,0.5,0,0.8,0c1.5,0.1,2.1-0.6,2.1-2.1C841.2,130.2,841.2,128.2,841.2,126.2z M808.1,154.9l0-0.1l-0.1,0.1L808.1,154.9z"/>
+	<path style="&st93;" d="M882.9,312.1c-0.5,0.4-1,0.8-1.8,0.6c-10.3-2.2-20.2-5.7-29.2-11.2c-0.6-0.4-1.4-0.7-1.3-1.6
+		c4.8-6.9,9.6-13.8,13.5-21.3c3.8-7.3,6.7-15,8.6-23c1.1-4.8,1.8-9.6,1.7-14.5c0.5,0,0.6,0.4,0.7,0.8c1.4,12.4,2.7,24.8,4.1,37.3
+		c1,8.4,2,16.7,3,25.1C882.5,306.8,882.7,309.4,882.9,312.1z"/>
+	<path style="&st98;" d="M794.9,378.3c11.6,0,23.2,0.1,34.7,0.1c0.9,0,1.8-0.2,2.6,0.2c-0.2,0.8-0.7,1.4-1.2,2
+		c-0.6-0.3-1.3-0.2-2-0.2c-7.1,0-14.2-0.1-21.2,0c-6.1,0.1-12.1-0.3-18.2,0.1c-1.4-0.7-2.7-1.3-4.1-2
+		C788.6,378.5,791.8,378.4,794.9,378.3z"/>
+	<path style="&st100;" d="M844.4,170.1c-0.5-0.7,0.3-1.4-0.1-2.3c-1.7,0.7-3.3-0.4-5-0.6c-0.4,0-0.8-0.2-0.8-0.7
+		c0-1.1-0.8-1-1.4-0.8c-2.2,0.8-3.2-0.7-4.3-2.1c-0.1-0.1-0.3-0.3-0.3-0.5c0-1.2-1.1-2.3-2.2-1.8c-2,0.8-3.5,0.4-5.1-1.1
+		c-0.5-0.5-1.6-0.3-2.9-0.6c1.7-0.9,3.3-0.9,4.6-1.1c4.2-0.5,7.7-2.4,11.2-4.2c0.5-0.3,1.1-0.4,1.7-0.6c0.8,3.6,1.1,7.5,3.9,10.3
+		C845.9,166.1,845.5,168,844.4,170.1z"/>
+	<path style="&st100;" d="M801.9,148c2.4,1,3.5,3.6,5.6,4.9c0.5,0.3,0.3,0.7-0.2,0.9c-0.4,0.2-0.7,0.4-0.8,0.9
+		c-0.2,0.7-0.1,1.6-1.2,1.5c-1-0.1-1.9-0.5-2.2-1.5c-0.5-1.4-1.1-1.4-2.2-0.7c-1,0.6-2.3,1-2.8-0.8c0,0,0,0,0,0
+		c0.4,0.1,0.8,0.1,1.1-0.2c0.3-0.3,0.1-0.6-0.2-0.8C799.9,150.8,800.9,149.4,801.9,148z"/>
+	<path style="&st93;" d="M798.9,152.2c0.3,0.2,0.5,0.5,0.2,0.8c-0.3,0.4-0.7,0.4-1.1,0.2C798.1,152.7,798.5,152.4,798.9,152.2z"/>
+	<path style="&st92;" d="M795.6,383.4c1.5,0.9,3.3,1.3,4.8,2.4c-2.1,1.7-3.1,4.1-4.1,6.5c-0.2,0.6-0.4,1.1-0.6,1.7
+		c-1.5-0.7-3.2-1-4.8-0.9C791.1,389.2,793.4,386.3,795.6,383.4z"/>
+	<path style="&st93;" d="M877.5,484.4c0.4,1.5,1.3,0.6,1.9,0.3c0.9-0.4,1.4-0.3,1.7,0.7c0.2,0.5,0.4,1.1,0.7,1.4
+		c1.5,1.2,1.4,2.1-0.3,3c-0.8,0.4-0.2,0.9,0.2,1.2c-0.4,0.2-0.8,0.4-1.2,0.6c-0.3-0.4-0.4-1.4-1.2-0.9c-0.8,0.5,0.3,0.9,0.5,1.4
+		c-0.5,0.5-1.2,0.6-1.8,1c-2.6,2-5.3,3.9-8.5,4.9c-0.3-0.5,0-1,0.1-1.4c0.2-2.3,0.7-4.7-0.6-7C871.8,488,874.6,486.2,877.5,484.4z"
+		/>
+	<path style="&st98;" d="M869.4,498.2c3.2-1,5.9-3,8.5-4.9c0.6-0.4,1.3-0.6,1.8-1c0.2-0.2,0.5-0.4,0.7-0.5c0.4-0.2,0.8-0.4,1.2-0.6
+		c0.8-0.3,1.6-0.7,2.2-1.4c0.3,0,0.6-0.2,0.8-0.5l-0.1,0c0.3-0.1,0.5-0.1,0.5-0.4l-0.1,0.1l0.1,0.1c0.4-0.2,0.8-0.4,1.2-0.5
+		c4-2.4,8-4.9,12-7.3c0.7-0.4,1.4-1,2,0.2c0.6,1.2-0.5,1.2-1,1.5c-3.4,2.1-6.8,4.2-10.2,6.3c-0.3,0.1-0.6,0.3-0.6,0.7l-0.1-0.1
+		l-0.1,0c-5.9,3.6-11.8,7.2-17.7,10.8c-0.3,0.2-0.5,0.5-0.7,0.7c-0.8,0.2-1.4,0.2-1.8-0.8c-0.4-0.9,0.3-1,0.7-1.4
+		C869,498.8,869.2,498.5,869.4,498.2z"/>
+	<path style="&st98;" d="M877.5,484.4c-2.9,1.8-5.7,3.6-8.6,5.4c-1,0.5-1.9,0.9-2.9,1.5c-0.7,0.4-1.3,0.3-1.7-0.4
+		c-0.4-0.7,0-1.1,0.6-1.5c1.7-1,3.4-2,5.1-2.9c3.7-2.4,7.6-4.5,11.2-7.1c1.9-1.1,3.8-2.2,5.7-3.2c0.6-0.3,1.2-1.4,1.9-0.2
+		c0.7,1.2-0.3,1.5-1,2c-3.1,1.9-6.3,3.8-9.4,5.7C878.1,483.9,877.8,484.1,877.5,484.4z"/>
+	<path style="&st93;" d="M859.7,474.9c-0.7-1.1-0.7-1.9,0.4-2.6C860.4,473.3,860.2,474,859.7,474.9z"/>
+	<path style="&st93;" d="M814.4,467.5c-0.1,0.9-0.4,1.1-0.9,1.1c-0.3,0-0.5-0.3-0.4-0.5c0.1-0.4,0.3-0.8,0.8-0.7
+		C814.2,467.3,814.4,467.5,814.4,467.5z"/>
+	<path style="&st93;" d="M817.8,470.6c-1.1,0.1-1.6-0.2-2-1.1C816.7,469.5,817.3,469.7,817.8,470.6z"/>
+	<path style="&st93;" d="M813.2,464.1c-0.1,0.1-0.3,0.2-0.4,0.2c-0.3,0-0.5-0.2-0.4-0.5c0-0.1,0.3-0.3,0.4-0.3
+		C813.1,463.5,813.2,463.7,813.2,464.1z"/>
+	<path style="&st93;" d="M816.9,471.9c-0.1,0.1-0.2,0.2-0.3,0.2c-0.3,0-0.3-0.2-0.2-0.4c0-0.1,0.2-0.1,0.3-0.2
+		C816.8,471.6,816.9,471.8,816.9,471.9z"/>
+	<path style="&st93;" d="M809.7,463.8c0.2,0.1,0.5,0.1,0.5,0.4c0,0-0.1,0.1-0.1,0.1C809.7,464.3,809.7,464,809.7,463.8L809.7,463.8z
+		"/>
+	<path style="&st93;" d="M868.6,458.6c0,0-0.1-0.1-0.1-0.1c0.1,0,0.2-0.1,0.2-0.1c0,0.1,0.1,0.1,0.1,0.2
+		C868.8,458.5,868.7,458.5,868.6,458.6z"/>
+	<polygon style="&st93;" points="812.5,472.8 812.6,472.7 812.5,472.8 	"/>
+	<path style="&st98;" d="M885.2,503.5c-1.5,0.8-2.9,1.7-4.3,2.6c-0.6,0.4-1,0.6-1.5-0.2c-0.5-0.7-0.4-1.2,0.3-1.6c3.2-2,6.4-4,9.6-6
+		c0.2-0.2,0.4-0.3,0.6-0.5c0.2-0.1,0.4-0.3,0.6-0.4l0.1,0.1c0.7-0.5,1.3-0.9,2-1.4c5-2.5,9.6-5.9,14.5-8.6c0.8-0.5,1.6-1,2.4-1.5
+		c0.7-0.4,1.2-0.8,1.8,0.1c0.6,1.1-0.3,1.4-0.8,1.7c-3.7,2.3-7.4,4.5-11.1,6.8c-4.3,2.6-8.7,5.3-13,7.9
+		C886,502.7,885.6,503.1,885.2,503.5z"/>
+	<path style="&st93;" d="M892.6,496.1c-0.7,0.5-1.3,0.9-2,1.4c0.4-0.7-1.5-0.9-0.5-1.7C891,495.1,891.9,495.3,892.6,496.1z"/>
+	<path style="&st93;" d="M893.8,476.6c1-0.7,1.9-0.8,2.8,0.2C895.7,476.9,894.8,476.6,893.8,476.6z"/>
+	<path style="&st93;" d="M894.2,479.3c1.4-0.6,2.1-0.1,2.9,0.3C895.9,480.8,895.3,479.8,894.2,479.3z"/>
+	<path style="&st93;" d="M893,472.7c-0.1-0.1-0.4-0.2-0.4-0.3c-0.1-0.4,0.2-0.4,0.5-0.4c0.2,0,0.4,0.1,0.5,0.3
+		C893.7,472.7,893.3,472.7,893,472.7z"/>
+	<path style="&st93;" d="M886.2,488.4c-0.4,0.2-0.8,0.4-1.2,0.5C885,487.7,885.6,488.1,886.2,488.4z"/>
+	<path style="&st93;" d="M885.7,472.4c0.3,0.1,0.5,0.1,0.6,0.4c0,0-0.1,0.1-0.1,0.1C885.8,472.9,885.8,472.6,885.7,472.4
+		L885.7,472.4z"/>
+	<path style="&st93;" d="M884.6,489.2c-0.2,0.3-0.4,0.4-0.8,0.5C883.7,488.8,884.3,489.3,884.6,489.2z"/>
+	<path style="&st93;" d="M890.5,497.4c-0.2,0.1-0.4,0.3-0.6,0.4C889.8,497.2,890.3,497.4,890.5,497.4z"/>
+	<polygon style="&st93;" points="894.5,472.3 894.6,472.4 894.5,472.4 	"/>
+	<path style="&st93;" d="M888.4,489.8c0-0.4,0.3-0.6,0.6-0.7C888.9,489.5,888.8,489.8,888.4,489.8z"/>
+	<path style="&st93;" d="M885,488.8c0,0.3-0.3,0.4-0.5,0.4C884.7,489.1,884.9,488.9,885,488.8z"/>
+	<path style="&st93;" d="M808.6,471.4c2.4-0.5,2.2,1.9,3.1,3c1,1.3-1.1,1.7-1.4,2.8c-0.2,0.6-0.7-0.2-1.1-0.4
+		c-0.6-0.4-0.7-0.9-0.2-1.5c0.4-0.5,1.3-0.7,0.4-1.9c-0.8-1-0.9-1.4-1.7-0.3c-0.4,0.5-0.9,0.4-1.2,0.1c-0.4-0.5,0.1-0.6,0.4-0.9
+		C807.4,471.8,807.7,471,808.6,471.4z"/>
+	<path style="&st93;" d="M811.9,492.4c0.3-0.5,0.5-0.9,0.8-1.4c0.2-0.4,0.2-1,0.9-0.9c0.7,0.1,0.7,0.8,0.8,1.3c0.1,0.7-0.5,0.9-1,1
+		C812.9,492.4,812.4,492.4,811.9,492.4L811.9,492.4z"/>
+	<path style="&st93;" d="M814.6,487.9c-0.1,0.4,0.2,1-0.3,1.3c-0.2,0.1-0.4-0.1-0.4-0.3C813.7,488.3,814.1,488,814.6,487.9
+		L814.6,487.9z"/>
+	<path style="&st93;" d="M810.1,480.4c0.1,0,0.1,0.1,0.2,0.1c-0.1,0.1-0.1,0.2-0.2,0.2c0,0-0.1-0.1-0.1-0.1
+		C810,480.5,810,480.5,810.1,480.4z"/>
+	<path style="&st93;" d="M810.8,478.8c0,0,0.1-0.1,0.1-0.1c0.1,0.1,0.2,0.1,0.2,0.2c0,0-0.1,0.1-0.1,0.1
+		C811,478.9,810.9,478.9,810.8,478.8z"/>
+	<path style="&st93;" d="M885.5,507.9c-0.1,0.4-0.4,0.4-0.6,0.4c-0.2,0-0.4-0.2-0.3-0.4c0.1-0.1,0.3-0.2,0.5-0.2
+		C885.2,507.7,885.3,507.8,885.5,507.9z"/>
+	<path style="&st93;" d="M881.7,464.4c0,0.1,0,0.2,0,0.3c0,0-0.1,0-0.2,0c0-0.1,0-0.2,0-0.3C881.5,464.5,881.7,464.5,881.7,464.4z"
+		/>
+	<path style="&st100;" d="M841.2,126.2c0,2,0,3.9,0,5.9c0,1.5-0.6,2.2-2.1,2.1c-0.3,0-0.6,0-0.8,0c-0.9-0.2-2.3,0.6-2.6-1.1
+		c-0.3-1.8,1.2-1.2,2-1.4c1.1-0.2,0.9-1.1,0.9-1.8c0-3.1,0-6.3,0-9.4c0-0.9-0.1-1.9,1.3-1.8c1.4,0,1.2,1,1.2,1.9
+		C841.2,122.4,841.2,124.3,841.2,126.2L841.2,126.2z"/>
+	<polygon style="&st93;" points="808.1,154.9 807.9,154.8 808.1,154.8 	"/>
+	<path style="&st93;" d="M880.4,491.7c-0.2,0.2-0.5,0.4-0.7,0.5c-0.2-0.5-1.2-0.9-0.5-1.4C880,490.2,880.1,491.3,880.4,491.7z"/>
+	<path style="&st98;" d="M624.9,123.5c-0.1-0.9,0.1-1.8,0.8-2.4c1.4-1.3,1-2.5,0.4-4c-3.9-9.8-7.7-19.6-11.5-29.4
+		c-0.3-0.7-1.4-1.6,0-2.2c1.6-0.7,1.6,0.8,1.9,1.6c4,10,7.9,20.1,11.8,30.1c0.4,0.9,0.9,1.5,2,1.6c2.9,0.4,4.4,2,4.3,4.9
+		c0,1.4,0.5,2,1.6,2.7c7.2,4.5,14.4,9.1,21.6,13.7c0.7,0.5,1.5,0.9,0.8,1.9c-0.6,1-1.3,0.3-1.9-0.1c-7.2-4.5-14.4-9-21.5-13.6
+		c-1-0.6-1.7-1-3.1-0.3C628.7,129.9,625,127.5,624.9,123.5z"/>
+</g>
+<circle style="&st94;" cx="79.2" cy="390.9" r="6.2"/>
+<circle style="&st95;" cx="104.1" cy="390.9" r="6.2"/>
+<circle style="&st95;" cx="129.1" cy="390.9" r="6.2"/>
+<g id="XMLID_3380_">
+	<path style="&st133;" d="M71.4,340.2c0,1.1,0.9,2,2,2h75.8c1.1,0,2-0.9,2-2v-35.3c0-1.1-0.9-2-2-2H73.4c-1.1,0-2,0.9-2,2V340.2z"/>
+	<text transform="matrix(1 0 0 1 91.4231 326.9822)" style="&st134; &st135; &st136;">Next </text>
+	<text transform="matrix(1 0 0 1.5 123.0188 327.9822)" style="&st134; &st135; &st136;">&gt;</text>
+</g>
+<g id="XMLID_3597_">
+	<text transform="matrix(1 0 0 1 187.4231 329.9568)" style="&st123; &st135; &st136;">Skip</text>
+</g>
 </svg>

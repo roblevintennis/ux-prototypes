@@ -1,3 +1,7 @@
+.nb, .container{
+  margin: 0px;
+}
+
 .load {
   opacity: 0;
   top: 10px;
@@ -99,7 +103,7 @@
 
   &.three {
     left: 1120px;
-    transition: left .5s ease-out, opacity .15s ease-out;
+    transition: left .5s ease-out 0.25s, opacity .15s ease-out;
 
     &.left {
       left: 0px;
