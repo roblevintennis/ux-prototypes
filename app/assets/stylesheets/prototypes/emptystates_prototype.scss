@@ -2,20 +2,11 @@
   opacity: 0;
   top: 10px;
   position: absolute;
-
-  -webkit-transition: all .75s ease-out;
-  -moz-transition: all .75s ease-out;
-  -ms-transition: all .75s ease-out;
-  -o-transition: all .75s ease-out;
   transition: all .75s ease-out;
 
   &.loaded {
     opacity: 1;
     top: 0px;
-    -webkit-transition: all .25s ease-in;
-    -moz-transition: all .25s ease-in;
-    -ms-transition: all .25s ease-in;
-    -o-transition: all .25s ease-in;
     transition: all .25s ease-in;
 
     &.hide {
@@ -34,6 +25,14 @@
   display: block;
   cursor: pointer;
 }
+#my-btn-too{
+  display: block;
+  cursor: pointer;
+  position: absolute;
+  left: 340px;
+  top: 25px;
+  z-index: 9999;
+}
 .illust {
   position: absolute;
   left: 0px;
@@ -43,4 +42,72 @@
   top: 450px;
   left: 0px;
   position: absolute;
+}
+.onboard-top{
+  height: 116px;
+  overflow: hidden;
+  transition: all .25s ease-in;
+
+  &.taller {
+    height: 172px;
+    overflow: hidden;
+  }
+}
+.load {
+  &.three {
+    width: 1120px;
+    height: 700px;
+    overflow: hidden;
+  }
+}
+
+#onboard-one {
+  position: absolute;
+
+  &.one {
+    left: 0px;
+    cursor: pointer;
+    z-index: 9999;
+    transition: left .5s ease-out, opacity .15s ease-out;
+
+    &.left {
+      left: -1120px;
+      z-index: -9999;
+      opacity: 0;
+    }
+  }
+}
+#onboard-two {
+  position: absolute;
+
+  &.two {
+    left: 1120px;
+    transition: left .5s ease-out, opacity .15s ease-out;
+
+    &.left {
+      left: 0px;
+    }
+    &.left-more {
+      left: -1120px;
+      z-index: -9999;
+      opacity: 0;
+    }
+  }
+}
+#onboard-three {
+  position: absolute;
+
+  &.three {
+    left: 1120px;
+    transition: left .5s ease-out, opacity .15s ease-out;
+
+    &.left {
+      left: 0px;
+    }
+    &.left-more {
+      left: -1120px;
+      z-index: -9999;
+      opacity: 0;
+    }
+  }
 }
