@@ -1,2 +1,2 @@
 #!/bin/bash
-bundle exec unicorn -c config/unicorn.rb
+bundle exec rails server -b 0.0.0.0 -p 3001
