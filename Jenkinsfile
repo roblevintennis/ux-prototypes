@@ -73,5 +73,33 @@ node {
       sh("exit 1")
     }
   }
+
+  stage ('check availability') {
+    try {
+      sh """
+      NEXT_WAIT_TIME=0
+      until \$(curl --silent https://${clean_branch}-uxp.instastage.cash; do
+        sleep 30
+        NEXT_WAIT_TIME=\$((\$NEXT_WAIT_TIME+1))
+        if [ \$NEXT_WAIT_TIME -eq 60 ]; then
+          exit 1;
+        fi
+      done
+      """
+      r = sh(returnStatus: true, script: "aws ecr describe-images --region us-west-2 --repository-name uxp-prototypes | grep $sha")
+      if (r == 0) {
+        text = "The branch `$branch` - `$sha` has been deployed to: https://${clean_branch}-uxp.instastage.cash"
+        notifySlack("#instastage", text)
+        currentBuild.description = "<a href=\"https://${clean_branch}-uxp.instastage.cash\">$branch</a><br><a href=\"${commiturl}\">$message</a><br>$sha"
+      } else {
+        raise "failed availability check"
+      }
+    }
+    catch (e) {
+      text = "The pod for `$branch` failed the health checks. ${env.BUILD_URL}/console"
+      notifySlack("#instastage-failures", text)
+      sh("exit 1")
+    }
+  }
 }
 
