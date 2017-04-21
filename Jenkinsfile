@@ -78,7 +78,7 @@ node {
     try {
       sh """
       NEXT_WAIT_TIME=0
-      until \$(curl --silent https://${clean_branch}-uxp.instastage.cash; do
+      until curl --silent https://${clean_branch}-uxp.instastage.cash; do
         sleep 30
         NEXT_WAIT_TIME=\$((\$NEXT_WAIT_TIME+1))
         if [ \$NEXT_WAIT_TIME -eq 60 ]; then
@@ -88,7 +88,7 @@ node {
       """
       r = sh(returnStatus: true, script: "aws ecr describe-images --region us-west-2 --repository-name uxp-prototypes | grep $sha")
       if (r == 0) {
-        text = "The branch `$branch` - `$sha` has been deployed to: https://${clean_branch}-uxp.instastage.cash"
+        text = "`ux-prototypes` branch `$branch` - `$sha` has been deployed to: https://${clean_branch}-uxp.instastage.cash"
         notifySlack("#instastage", text)
         currentBuild.description = "<a href=\"https://${clean_branch}-uxp.instastage.cash\">$branch</a><br><a href=\"${commiturl}\">$message</a><br>$sha"
       } else {
