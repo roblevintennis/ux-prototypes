@@ -87,7 +87,7 @@ node {
         fi
       done
       """
-      r = sh(returnStatus: true, script: "aws ecr describe-images --region us-west-2 --repository-name uxp-prototypes | grep $sha")
+      r = sh(returnStatus: true, script: "aws ecr describe-images --region us-west-2 --repository-name ux-prototypes | grep $sha")
       if (r == 0) {
         text = "`ux-prototypes` branch `$branch` - `$sha` has been deployed to: https://${clean_branch}-uxp.instastage.cash"
         notifySlack("#instastage", text)
