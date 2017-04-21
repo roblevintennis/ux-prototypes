@@ -64,8 +64,8 @@ node {
     try {
       sh """
       helm install --debug --dry-run --set instastage_name=$clean_branch,container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl /var/lib/workspace/charts/ux-prototypes
-      helm install -n $clean_branch --set container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl /var/lib/workspace/charts/ux-prototypes ||
-      helm upgrade --set instastage_name=$clean_branch,container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl $clean_branch /var/lib/workspace/charts/ux-prototypes
+      helm install -n uxp-$clean_branch --set container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl /var/lib/workspace/charts/ux-prototypes ||
+      helm upgrade --set instastage_name=$clean_branch,container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl uxp-$clean_branch /var/lib/workspace/charts/ux-prototypes
       """
     }
     catch (e) {
