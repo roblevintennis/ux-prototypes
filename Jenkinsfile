@@ -1,4 +1,5 @@
 #!/usr/bin/env groovy
+// cache bust
 currentBuild.description = "$branch<br>$message<br>$sha"
 
 def notifySlack(channel, text) {
