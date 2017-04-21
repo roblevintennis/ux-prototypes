@@ -1,4 +1,5 @@
 #!/usr/bin/env groovy
+// cache bust 2
 currentBuild.description = "$branch<br>$message<br>$sha"
 
 def notifySlack(channel, text) {
@@ -63,12 +64,40 @@ node {
     try {
       sh """
       helm install --debug --dry-run --set instastage_name=$clean_branch,container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl /var/lib/workspace/charts/ux-prototypes
-      helm install -n $clean_branch --set container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl /var/lib/workspace/charts/ux-prototypes ||
-      helm upgrade --set instastage_name=$clean_branch,container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl $clean_branch /var/lib/workspace/charts/ux-prototypes
+      helm install -n uxp-$clean_branch --set container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl /var/lib/workspace/charts/ux-prototypes ||
+      helm upgrade --set instastage_name=$clean_branch,container.image=538244530177.dkr.ecr.us-west-2.amazonaws.com/ux-prototypes:$sha,env.app_subdomain=$clean_branch,env.app_domain=$app_domain,ttl=$ttl uxp-$clean_branch /var/lib/workspace/charts/ux-prototypes
       """
     }
     catch (e) {
       text = "Failed to helm install `$branch` ${env.BUILD_URL}/console"
+      notifySlack("#instastage-failures", text)
+      sh("exit 1")
+    }
+  }
+
+  stage ('check availability') {
+    try {
+      sh """
+      NEXT_WAIT_TIME=0
+      until curl --silent https://${clean_branch}-uxp.instastage.cash; do
+        sleep 30
+        NEXT_WAIT_TIME=\$((\$NEXT_WAIT_TIME+1))
+        if [ \$NEXT_WAIT_TIME -eq 60 ]; then
+          exit 1;
+        fi
+      done
+      """
+      r = sh(returnStatus: true, script: "aws ecr describe-images --region us-west-2 --repository-name ux-prototypes | grep $sha")
+      if (r == 0) {
+        text = "`ux-prototypes` branch `$branch` - `$sha` has been deployed to: https://${clean_branch}-uxp.instastage.cash"
+        notifySlack("#instastage", text)
+        currentBuild.description = "<a href=\"https://${clean_branch}-uxp.instastage.cash\">$branch</a><br><a href=\"${commiturl}\">$message</a><br>$sha"
+      } else {
+        raise "failed availability check"
+      }
+    }
+    catch (e) {
+      text = "The pod for `$branch` failed the health checks. ${env.BUILD_URL}/console"
       notifySlack("#instastage-failures", text)
       sh("exit 1")
     }
