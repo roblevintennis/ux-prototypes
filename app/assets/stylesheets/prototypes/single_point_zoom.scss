@@ -14,3 +14,15 @@
   // http://easings.net/#easeInCirc
   -webkit-animation: zoom-in-animation .25s cubic-bezier(0.6, 0.04, 0.98, 0.335) forwards;
 }
+
+.resource-picker {
+  position: absolute;
+  top: 200px;
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.ghosted {
+  opacity: .4;
+}

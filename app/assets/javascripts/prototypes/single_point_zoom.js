@@ -25,7 +25,7 @@ $( document ).ready(function() {
   }
 
   function reset() {
-      $('.master-planning').removeClass('hidden');
+      $('.master-planning').removeClass('ghosted');
       $('.resource-picker').addClass('hidden').removeClass('zoom-in');
   }
 
@@ -41,7 +41,7 @@ $( document ).ready(function() {
 
     if(isFirstProfileIcon(this, ev)) {
       console.log("FIRST icon .. DO ZOOM IN")
-      $('.master-planning').addClass('hidden');
+      $('.master-planning').addClass('ghosted');
       $('.resource-picker').removeClass('hidden').addClass('zoom-in');
     }
 
