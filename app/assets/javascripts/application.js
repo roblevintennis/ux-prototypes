@@ -15,13 +15,14 @@
 //= require turbolinks
 //= require moment
 //= require underscore
-//= require_tree .
+//= require ./cable
 
 // PROTOTYPES
-// require ./prototypes/multiple_notes
+//= require ./prototypes/single_point_zoom
 
 _.templateSettings = {
   evaluate: /\[\%(.+?)\%\]/g,
   interpolate: /\[\%=(.+?)\%\]/g,
   escape: /\[\%-(.+?)\%\]/g,
-}
+};
+

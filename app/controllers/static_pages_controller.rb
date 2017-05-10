@@ -4,4 +4,7 @@ class StaticPagesController < ApplicationController
 
   def another_prototype 
   end
+
+  def single_point_zoom
+  end
 end
