@@ -10,8 +10,7 @@ $( document ).ready(function() {
     const offset = $(self).offset();
     const relativeX = (ev.pageX - offset.left);
     const relativeY = (ev.pageY - offset.top);
-
-    console.log("X: " + relativeX + "  Y: " + relativeY);
+    // console.log("X: " + relativeX + "  Y: " + relativeY);
     return (relativeX > 300 && relativeX < 360 && relativeY > 310 && relativeY < 350);
   }
 
@@ -19,14 +18,13 @@ $( document ).ready(function() {
     const offset = $(self).offset();
     const relativeX = (ev.pageX - offset.left);
     const relativeY = (ev.pageY - offset.top);
-
-    console.log("X: " + relativeX + "  Y: " + relativeY);
+    // console.log("X: " + relativeX + "  Y: " + relativeY);
     return (relativeX > 300 && relativeX < 360 && relativeY > 360 && relativeY < 400);
   }
 
   function reset() {
       $('.master-planning').removeClass('ghosted');
-      $('.resource-picker').addClass('hidden').removeClass('zoom-in');
+      $('.resource-picker').addClass('hidden').removeClass('zoom-in corner-right');
   }
 
   $(document).keyup(function(e) {
@@ -36,19 +34,15 @@ $( document ).ready(function() {
   });
 
   $(".master-planning").on("click", function(ev) {
-    // console.log("x: " + ev.clientX);
-    // console.log("y: " + ev.clientY);
+    $('.master-planning').addClass('ghosted');
 
     if(isFirstProfileIcon(this, ev)) {
-      console.log("FIRST icon .. DO ZOOM IN")
-      $('.master-planning').addClass('ghosted');
       $('.resource-picker').removeClass('hidden').addClass('zoom-in');
     }
 
     if(isSecondProfileIcon(this, ev)) {
-      console.log("Second icon .. DO SLIDE IN FROM Corner")
+      $('.resource-picker').removeClass('hidden').addClass('corner-right');
     }
-
   });
 
 });

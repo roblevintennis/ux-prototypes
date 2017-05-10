@@ -10,10 +10,25 @@
   }
 }
 
+
+@keyframes corner-right-animation {
+  0% {
+    transform: translate(100%, 110%);
+  }
+  100% {
+    transform: translate(0%, 0%);
+  }
+}
+
 .zoom-in {
   // http://easings.net/#easeInCirc
   -webkit-animation: zoom-in-animation .25s cubic-bezier(0.6, 0.04, 0.98, 0.335) forwards;
 }
+
+.corner-right {
+  -webkit-animation: corner-right-animation .25s linear forwards;
+}
+
 
 .resource-picker {
   position: absolute;
