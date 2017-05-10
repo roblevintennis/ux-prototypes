@@ -1,0 +1,16 @@
+@keyframes zoom-in-animation {
+  from {
+    opacity: 0;
+    transform: scale3d(.1, .1, .1);
+  }
+
+  50% {
+    opacity: 1;
+    transform: scale3d(1, 1, 1);
+  }
+}
+
+.zoom-in {
+  // http://easings.net/#easeInCirc
+  -webkit-animation: zoom-in-animation .25s cubic-bezier(0.6, 0.04, 0.98, 0.335) forwards;
+}
