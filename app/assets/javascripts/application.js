@@ -15,10 +15,13 @@
 //= require turbolinks
 //= require moment
 //= require underscore
-//= require_tree .
+//= require ./cable
 
 // PROTOTYPES
-// require ./prototypes/multiple_notes
+///////////////////////////////////////////////////////////////////////////////////////////////
+// COMMENT OUT AND REPLACE LINE BELOW WITH YOUR PROTOTYPE JS e.g. ./prototypes/yours.js
+//= require ./prototypes/multiple_notes
+///////////////////////////////////////////////////////////////////////////////////////////////
 
 _.templateSettings = {
   evaluate: /\[\%(.+?)\%\]/g,
