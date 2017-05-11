@@ -52,6 +52,13 @@ end
 ### Removing controllers
 `$ bundle exec rails destroy  controller StaticPages home help`
 
+## Typekit Setup
+
+Ensure you have latest ansible which has the /etc/hosts configured properly:
+`cd ~/ansible-workstation/; git pull origin master; make;`
+
+Visit: `http://ux-prototypes.mavenlink.local:3000/static_pages` in your browser as that will pick up TK locally.
+
 ### Issues
 
 I had an issue with Puma:
